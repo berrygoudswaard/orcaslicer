@@ -1,0 +1,42 @@
+[error]	2025-06-01 00:05:38.758660[Thread 0x00007f3651317500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Creality Generic PLA - Copy.json!
+[error]	2025-06-01 00:05:38.839401[Thread 0x00007f3651317500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Ender3 V2 0.4mm.json!
+[error]	2025-06-01 00:05:43.407206[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 00:05:43.444560[Thread 0x00007f3651317500]:Unable to open the file/data/led_bar.stl
+[error]	2025-06-01 00:05:43.607559[Thread 0x00007f35c45f86c0]:Unable to open the file/data/a_drive_frame_upper_with_jst_y_endstop.stl
+[error]	2025-06-01 00:05:43.725290[Thread 0x00007f3651317500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-06-01 00:05:43.726921[Thread 0x00007f35907f86c0]:Unable to open the file/data/EufyHanger v13.stl
+[error]	2025-06-01 00:05:43.821843[Thread 0x00007f35907f86c0]:Unable to open the file/data/Calibration/Calibration Cube.stl
+[error]	2025-06-01 00:05:43.830720[Thread 0x00007f3651317500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-06-01 00:05:43.831016[Thread 0x00007f3651317500]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-06-01 00:05:43.831208[Thread 0x00007f3651317500]:Unable to open the file/data/Clip-Classic.stl
+[error]	2025-06-01 00:05:43.874320[Thread 0x00007f35a47f86c0]:Unable to open the file/data/z-locks-150.stl
+[error]	2025-06-01 00:05:43.951292[Thread 0x00007f35c45f86c0]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-06-01 00:05:43.976594[Thread 0x00007f35a47f86c0]:Unable to open the file/data/5x - 5x_1-2.stl
+[error]	2025-06-01 00:05:43.980445[Thread 0x00007f35a47f86c0]:Unable to open the file/data/4x - 4x_1-2.stl
+[error]	2025-06-01 00:05:44.207648[Thread 0x00007f35907f86c0]:Unable to open the file/data/2020_Stealth_Profile_Cover.stl
+[error]	2025-06-01 00:05:44.208267[Thread 0x00007f35907f86c0]:Unable to open the file/data/Calibration/First_Layer_Patch-0.25mm.stl
+[error]	2025-06-01 00:05:44.213479[Thread 0x00007f35907f86c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-06-01 00:05:44.218162[Thread 0x00007f35c45f86c0]:Unable to open the file/data/superellipse-shell.stl
+[error]	2025-06-01 00:05:44.238311[Thread 0x00007f35a47f86c0]:Unable to open the file/data/Flip_Case.stl
+[error]	2025-06-01 00:05:44.724950[Thread 0x00007f3651317500]:Unable to open the file/data/downC920.stl
+[warning]	2025-06-01 00:05:45.931967[Thread 0x00007f3651317500]:12:05:45 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-01 00:05:45.936539[Thread 0x00007f3651317500]:12:05:45 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-01 00:05:45.940868[Thread 0x00007f3651317500]:12:05:45 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-01 00:05:45.945120[Thread 0x00007f3651317500]:12:05:45 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-01 00:05:50.281307[Thread 0x00007f3651317500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-01 13:00:03.383469[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 13:00:04.748770[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 13:00:14.767972[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 14:50:15.607915[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 14:50:25.122286[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 14:50:38.779224[Thread 0x00007f3651317500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-06-01 15:13:35.492306[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 15:13:43.794066[Thread 0x00007f3651317500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-06-01 16:26:03.923810[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 16:26:07.945992[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 16:26:27.125686[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 16:26:34.446766[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 19:28:22.911447[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 19:28:26.533712[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 21:23:04.899045[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-01 21:23:11.324293[Thread 0x00007f3651317500]:calc_exclude_triangles:Unable to create exclude triangles

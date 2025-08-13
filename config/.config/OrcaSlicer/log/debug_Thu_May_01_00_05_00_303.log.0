@@ -1,0 +1,21 @@
+[error]	2025-05-01 00:05:06.896855[Thread 0x00007f50815d8500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Creality Generic PLA - Copy.json!
+[error]	2025-05-01 00:05:07.019774[Thread 0x00007f50815d8500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Ender3 V2 0.4mm.json!
+[error]	2025-05-01 00:05:11.857475[Thread 0x00007f50815d8500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-01 00:05:11.976731[Thread 0x00007f50815d8500]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-05-01 00:05:12.155836[Thread 0x00007f50007f86c0]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-05-01 00:05:12.179327[Thread 0x00007f50007f86c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-05-01 00:05:12.240698[Thread 0x00007f50307fc6c0]:Unable to open the file/data/EufyHanger v13.stl
+[error]	2025-05-01 00:05:12.367112[Thread 0x00007f50307fc6c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-05-01 00:05:12.386853[Thread 0x00007f50815d8500]:Unable to open the file/data/Flip_Case.stl
+[error]	2025-05-01 00:05:12.434496[Thread 0x00007f50815d8500]:Unable to open the file/data/2020_Stealth_Profile_Cover.stl
+[error]	2025-05-01 00:05:12.450205[Thread 0x00007f50007f86c0]:Unable to open the file/data/TicTacToe/tic_tac_toe_box.stl
+[error]	2025-05-01 00:05:12.498918[Thread 0x00007f50147f86c0]:Unable to open the file/data/downC920.stl
+[error]	2025-05-01 00:05:12.507396[Thread 0x00007f50307fc6c0]:Unable to open the file/data/Calibration/Calibration Cube.stl
+[error]	2025-05-01 00:05:12.764263[Thread 0x00007f50007f86c0]:Unable to open the file/data/Broomholder/BroomHolder_screws.STL
+[error]	2025-05-01 00:05:12.780541[Thread 0x00007f50307fc6c0]:Unable to open the file/data/Broomholder/Gear.STL
+[error]	2025-05-01 00:05:12.780577[Thread 0x00007f50307fc6c0]:Unable to open the file/data/BroomHolder_screws.STL
+[error]	2025-05-01 00:05:12.782791[Thread 0x00007f50147f86c0]:Unable to open the file/data/topRound.stl
+[error]	2025-05-01 00:05:12.798927[Thread 0x00007f50815d8500]:Unable to open the file/data/Clip-Classic.stl
+[error]	2025-05-01 00:05:13.015019[Thread 0x00007f50307fc6c0]:Unable to open the file/data/Blowgun/Tensioner.stl
+[error]	2025-05-01 00:05:13.017377[Thread 0x00007f50007f86c0]:Unable to open the file/data/StealthBurner Main Body for KNOMI 2 v1.1.stl
+[error]	2025-05-01 00:05:13.213005[Thread 0x00007f50147f86c0]:Unable to open the file/data/CNC_Voron_TAP_XY_Switch_Adapter_V2.stl

@@ -1,0 +1,45 @@
+[error]	2025-08-12 00:45:55.596784[Thread 0x00007ff905571500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Creality Generic PLA - Copy.json!
+[error]	2025-08-12 00:45:55.663698[Thread 0x00007ff905571500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Ender3 V2 0.4mm.json!
+[error]	2025-08-12 00:45:59.431112[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:45:59.502006[Thread 0x00007ff905571500]:Unable to open the file/data/Uno Flip Case v1.stl
+[error]	2025-08-12 00:45:59.563527[Thread 0x00007ff847fff6c0]:Unable to open the file/data/Rabbit paper protector v1.stl
+[error]	2025-08-12 00:45:59.730681[Thread 0x00007ff8787fa6c0]:Unable to open the file/data/Untitled v8.stl
+[error]	2025-08-12 00:45:59.789934[Thread 0x00007ff846ffd6c0]:Unable to open the file/data/Untitled v4.stl
+[error]	2025-08-12 00:45:59.882403[Thread 0x00007ff8787fa6c0]:Unable to open the file/data/Untitled v5.stl
+[error]	2025-08-12 00:45:59.954026[Thread 0x00007ff846ffd6c0]:Unable to open the file/data/Untitled v3.stl
+[error]	2025-08-12 00:45:59.977471[Thread 0x00007ff847fff6c0]:Unable to open the file/data/Clamp Rabbitcage v1.stl
+[error]	2025-08-12 00:46:00.114910[Thread 0x00007ff8787fa6c0]:Unable to open the file/data/led_bar.stl
+[error]	2025-08-12 00:46:00.128738[Thread 0x00007ff8787fa6c0]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-08-12 00:46:00.138022[Thread 0x00007ff847fff6c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-08-12 00:46:00.146345[Thread 0x00007ff846ffd6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-08-12 00:46:00.291438[Thread 0x00007ff905571500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-08-12 00:46:00.330585[Thread 0x00007ff847fff6c0]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-08-12 00:46:00.475347[Thread 0x00007ff846ffd6c0]:Unable to open the file/data/footbalgoalcorner.stl
+[error]	2025-08-12 00:46:00.532537[Thread 0x00007ff847fff6c0]:Unable to open the file/data/LED Clamp v3.stl
+[error]	2025-08-12 00:46:00.549563[Thread 0x00007ff8787fa6c0]:Unable to open the file/data/a_drive_frame_upper_with_jst_y_endstop.stl
+[error]	2025-08-12 00:46:00.642923[Thread 0x00007ff905571500]:Unable to open the file/data/Calibration/Calibration Cube.stl
+[warning]	2025-08-12 00:46:01.875729[Thread 0x00007ff905571500]:12:46:01 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-12 00:46:01.896073[Thread 0x00007ff905571500]:12:46:01 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-12 00:46:01.913675[Thread 0x00007ff905571500]:12:46:01 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-12 00:46:01.921466[Thread 0x00007ff905571500]:12:46:01 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-08-12 00:46:05.284660[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-12 00:46:05.413443[Thread 0x00007ff905571500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-08-12 00:46:07.971068[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:46:11.332509[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:46:16.181525[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:46:39.508929[Thread 0x00007ff905571500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-12 00:47:12.842520[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:47:26.499612[Thread 0x00007ff905571500]:Unable to open the file/data/Uno Flip Case Top.stl
+[warning]	2025-08-12 00:47:31.527028[Thread 0x00007ff85b7fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-08-12 00:47:48.588643[Thread 0x00007ff801a746c0]:call_process:got cancelled exception
+[error]	2025-08-12 07:47:12.506823[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 07:47:21.252531[Thread 0x00007ff905571500]:Unable to open the file/data/Uno Flip Case Bottom.stl
+[warning]	2025-08-12 07:47:25.321571[Thread 0x00007ff85b7fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-08-12 21:16:09.313600[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 21:16:22.152656[Thread 0x00007ff905571500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-12 21:23:47.459160[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 21:23:57.238098[Thread 0x00007ff905571500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-08-12 21:26:39.987134[Thread 0x00007ff905571500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-12 22:49:07.924142[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 22:49:18.878884[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 23:53:48.952104[Thread 0x00007ff905571500]:calc_exclude_triangles:Unable to create exclude triangles

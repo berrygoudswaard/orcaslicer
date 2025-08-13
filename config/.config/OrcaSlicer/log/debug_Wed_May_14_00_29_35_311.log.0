@@ -1,0 +1,153 @@
+[error]	2025-05-14 00:29:42.660560[Thread 0x00007f7a6c431500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/PIF @ Klipper.json!
+[error]	2025-05-14 00:29:43.157727[Thread 0x00007f7a6c431500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Creality Generic PLA - Copy.json!
+[error]	2025-05-14 00:29:43.271598[Thread 0x00007f7a6c431500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Ender3 V2 0.4mm.json!
+[error]	2025-05-14 00:29:56.466859[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 00:29:56.964419[Thread 0x00007f79b47f86c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-05-14 00:29:57.025208[Thread 0x00007f7a6c431500]:Unable to open the file/data/5x - 5x_1-2.stl
+[error]	2025-05-14 00:29:57.029094[Thread 0x00007f7a6c431500]:Unable to open the file/data/4x - 4x_1-2.stl
+[error]	2025-05-14 00:29:57.048627[Thread 0x00007f79e06f56c0]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-05-14 00:29:57.048637[Thread 0x00007f79c07fc6c0]:Unable to open the file/data/Calibration/Calibration Cube.stl
+[error]	2025-05-14 00:29:57.104744[Thread 0x00007f79c07fc6c0]:Unable to open the file/data/2020_Stealth_Profile_Cover.stl
+[error]	2025-05-14 00:29:57.486845[Thread 0x00007f79e06f56c0]:Unable to open the file/data/Flip_Case.stl
+[error]	2025-05-14 00:29:57.541962[Thread 0x00007f79b47f86c0]:Unable to open the file/data/EufyHanger v13.stl
+[error]	2025-05-14 00:29:57.553684[Thread 0x00007f79b47f86c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-05-14 00:29:57.635931[Thread 0x00007f79c07fc6c0]:Unable to open the file/data/Clip-Classic.stl
+[error]	2025-05-14 00:29:57.793819[Thread 0x00007f79b47f86c0]:Unable to open the file/data/downC920.stl
+[error]	2025-05-14 00:29:57.927982[Thread 0x00007f79e06f56c0]:Unable to open the file/data/topRound.stl
+[error]	2025-05-14 00:29:58.309415[Thread 0x00007f79c07fc6c0]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-05-14 00:29:58.370907[Thread 0x00007f79b47f86c0]:Unable to open the file/data/CNC_Voron_TAP_XY_Switch_Adapter_V2.stl
+[error]	2025-05-14 00:29:58.583754[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-05-14 00:29:58.812225[Thread 0x00007f79e06f56c0]:Unable to open the file/data/StealthBurner Main Body for KNOMI 2 v1.1.stl
+[error]	2025-05-14 00:29:59.100855[Thread 0x00007f79b47f86c0]:Unable to open the file/data/Broomholder/BroomHolder_screws.STL
+[error]	2025-05-14 00:29:59.280397[Thread 0x00007f79c07fc6c0]:Unable to open the file/data/TicTacToe/tic_tac_toe_box.stl
+[warning]	2025-05-14 00:30:05.324893[Thread 0x00007f7a6c431500]:12:30:05 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-14 00:30:05.339633[Thread 0x00007f7a6c431500]:12:30:05 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-14 00:30:05.344852[Thread 0x00007f7a6c431500]:12:30:05 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-14 00:30:05.349247[Thread 0x00007f7a6c431500]:12:30:05 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-05-14 00:30:12.215733[Thread 0x00007f7a6c431500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-05-14 02:16:11.343850[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 09:53:30.099291[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 09:53:47.701150[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-05-14 10:58:30.881710[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 10:58:38.416467[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-05-14 11:18:54.387146[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 11:19:05.709796[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-05-14 18:41:28.538815[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 18:41:39.223141[Thread 0x00007f7a6c431500]:Unable to open the file/data/z-locks-150.stl
+[warning]	2025-05-14 18:41:49.441057[Thread 0x00007f79e0ff76c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-05-14 19:05:01.248241[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 19:05:19.576053[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-05-14 20:39:09.838945[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 20:39:22.869611[Thread 0x00007f7a6c431500]:Unable to open the file/data/z-locks-150.stl
+[warning]	2025-05-14 20:39:37.751659[Thread 0x00007f79e0ff76c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-05-14 20:39:40.974929[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-14 22:05:13.598560[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 22:05:13.799153[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-14 22:05:21.242540[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-14 22:05:35.251860[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-14 22:05:35.509411[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-14 22:05:35.550682[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-14 22:05:35.612392[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-05-15 23:04:26.063802[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-15 23:04:27.719284[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-15 23:04:34.861209[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-15 23:04:34.953864[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-15 23:04:36.922310[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-15 23:04:37.499616[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-15 23:04:42.871766[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-15 23:05:00.865789[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-16 17:39:14.389313[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 17:39:24.109819[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-05-16 18:52:20.388262[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 18:52:22.149352[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-16 18:55:02.859975[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-16 18:55:36.735069[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 18:55:56.760077[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-05-16 19:27:22.316334[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-05-16 19:27:22.469088[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-05-16 19:27:22.849851[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-05-16 19:27:26.215554[Thread 0x00007f7a6c431500]:07:27:26 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-05-16 19:27:46.882505[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-16 19:35:15.735960[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-05-16 19:35:15.764724[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-05-16 19:35:15.847595[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-05-16 19:35:16.391427[Thread 0x00007f7a6c431500]:07:35:16 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-05-16 19:50:46.502641[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 19:50:53.940839[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/First_Layer_Patch-0.25mm.stl
+[warning]	2025-05-16 19:51:08.498318[Thread 0x00007f79e0ff76c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-05-16 19:51:59.149407[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-05-16 19:51:59.179991[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-05-16 19:51:59.265659[Thread 0x00007f7a6c431500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-05-16 19:51:59.815919[Thread 0x00007f7a6c431500]:07:51:59 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-05-16 20:10:21.732713[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-16 20:11:35.078401[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-16 20:11:50.514495[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-16 20:15:43.276441[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 20:16:49.932067[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 20:17:52.370902[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 20:18:46.473486[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 20:18:57.395907[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 20:19:08.385087[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 21:56:22.930301[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 21:56:28.486424[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 21:56:37.887639[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-16 23:19:00.231499[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-16 23:19:09.265415[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-17 11:35:36.727931[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-17 11:35:49.729044[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 11:02:50.483355[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 11:03:07.329786[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 20:24:56.790639[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 20:25:39.563880[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/First_Layer_Patch-0.25mm.stl
+[error]	2025-05-18 20:42:46.282650[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 20:43:03.903692[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-05-18 21:12:19.336279[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 21:16:15.138219[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 21:26:26.719787[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 21:53:28.366766[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 21:54:18.754845[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 21:54:30.151636[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-05-18 21:54:40.327942[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 21:55:31.221214[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 22:39:20.160190[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 22:39:52.371349[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 22:40:02.423252[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-05-18 22:40:45.844512[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 22:43:10.821836[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 22:43:38.567406[Thread 0x00007f7a6c431500]:Unable to open the file/data/superellipse-shell.stl
+[warning]	2025-05-18 22:44:08.095703[Thread 0x00007f79e0ff76c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-05-18 22:48:46.691189[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 22:48:56.523299[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-05-18 23:32:35.389322[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 23:34:10.968448[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-18 23:35:32.846252[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 23:35:52.123468[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-18 23:35:57.493659[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-19 00:51:20.114414[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-19 00:51:24.803196[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-19 00:52:05.190657[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-19 00:52:19.508244[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-05-19 08:13:58.963215[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-19 08:14:08.592740[Thread 0x00007f7a6c431500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-28 10:36:27.079375[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-28 10:36:32.433075[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-28 10:36:41.974019[Thread 0x00007f7a6c431500]:Unable to open the file/data/a_drive_frame_upper_with_jst_y_endstop.stl
+[error]	2025-05-29 16:57:37.631310[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-29 16:57:53.798905[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-29 16:58:10.358085[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-05-30 10:28:31.344019[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 10:28:47.800104[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-05-30 11:28:19.074932[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 11:28:39.984345[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 11:28:57.305350[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 11:29:08.831021[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 11:58:44.665578[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 12:55:14.819447[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 12:55:27.035420[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 13:24:14.209170[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 13:24:26.618208[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 14:08:16.303162[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 14:08:23.089752[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 14:08:24.378055[Thread 0x00007f7a6c431500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-05-30 16:50:12.169022[Thread 0x00007f7a6c431500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-30 16:50:24.754252[Thread 0x00007f7a6c431500]:Unable to open the file/data/led_bar.stl

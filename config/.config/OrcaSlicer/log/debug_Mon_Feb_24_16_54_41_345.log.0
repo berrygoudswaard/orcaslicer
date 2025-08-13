@@ -1,0 +1,28 @@
+[error]	2025-02-24 16:54:45.023166[Thread 0x00007f16395ff500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Creality Generic PLA - Copy.json!
+[error]	2025-02-24 16:54:45.075785[Thread 0x00007f16395ff500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Ender3 V2 0.4mm.json!
+[error]	2025-02-24 16:54:48.044948[Thread 0x00007f16395ff500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-24 16:54:48.257744[Thread 0x00007f157bfff6c0]:Unable to open the file/data/downC920.stl
+[error]	2025-02-24 16:54:48.263393[Thread 0x00007f157affd6c0]:Unable to open the file/data/EufyHanger v13.stl
+[error]	2025-02-24 16:54:48.271646[Thread 0x00007f157affd6c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-02-24 16:54:48.274349[Thread 0x00007f157affd6c0]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-02-24 16:54:48.275393[Thread 0x00007f157affd6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-02-24 16:54:48.317603[Thread 0x00007f15ac7fa6c0]:Unable to open the file/data/Calibration/Calibration Cube.stl
+[error]	2025-02-24 16:54:48.425683[Thread 0x00007f16395ff500]:Unable to open the file/data/Flip_Case.stl
+[error]	2025-02-24 16:54:48.478338[Thread 0x00007f157affd6c0]:Unable to open the file/data/2020_Stealth_Profile_Cover.stl
+[error]	2025-02-24 16:54:48.624551[Thread 0x00007f157affd6c0]:Unable to open the file/data/Clip-Classic.stl
+[error]	2025-02-24 16:54:48.630370[Thread 0x00007f157bfff6c0]:Unable to open the file/data/topRound.stl
+[error]	2025-02-24 16:54:48.686760[Thread 0x00007f15ac7fa6c0]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-02-24 16:54:48.686812[Thread 0x00007f15ac7fa6c0]:Unable to open the file/data/BroomHolder_screws.STL
+[error]	2025-02-24 16:54:48.892291[Thread 0x00007f16395ff500]:Unable to open the file/data/TicTacToe/tic_tac_toe_box.stl
+[error]	2025-02-24 16:54:48.945291[Thread 0x00007f157bfff6c0]:Unable to open the file/data/Broomholder/Gear.STL
+[error]	2025-02-24 16:54:48.957835[Thread 0x00007f157affd6c0]:Unable to open the file/data/StealthBurner Main Body for KNOMI 2 v1.1.stl
+[error]	2025-02-24 16:54:49.184731[Thread 0x00007f157bfff6c0]:Unable to open the file/data/CNC_Voron_TAP_XY_Switch_Adapter_V2.stl
+[error]	2025-02-24 16:54:49.250013[Thread 0x00007f15ac7fa6c0]:Unable to open the file/data/Blowgun/Tensioner.stl
+[error]	2025-02-24 16:54:49.387797[Thread 0x00007f16395ff500]:Unable to open the file/data/Broomholder/BroomHolder_screws.STL
+[warning]	2025-02-24 16:54:50.217916[Thread 0x00007f16395ff500]:04:54:50 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 16:54:50.221896[Thread 0x00007f16395ff500]:04:54:50 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 16:54:50.225979[Thread 0x00007f16395ff500]:04:54:50 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 16:54:50.229952[Thread 0x00007f16395ff500]:04:54:50 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-02-24 16:54:53.001948[Thread 0x00007f16395ff500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-24 16:54:53.058754[Thread 0x00007f16395ff500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-24 16:54:54.873822[Thread 0x00007f16395ff500]:calc_exclude_triangles:Unable to create exclude triangles

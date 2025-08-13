@@ -1,0 +1,33 @@
+[error]	2025-07-06 16:03:17.727090[Thread 0x00007fa458bea500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/PIF @ Klipper.json!
+[error]	2025-07-06 16:03:17.832991[Thread 0x00007fa458bea500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Creality Generic PLA - Copy.json!
+[error]	2025-07-06 16:03:17.910914[Thread 0x00007fa458bea500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Ender3 V2 0.4mm.json!
+[error]	2025-07-06 16:03:23.708580[Thread 0x00007fa458bea500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-06 16:03:23.963958[Thread 0x00007fa3767fc6c0]:Unable to open the file/data/5x - 5x_1-2.stl
+[error]	2025-07-06 16:03:23.968305[Thread 0x00007fa3767fc6c0]:Unable to open the file/data/4x - 4x_1-2.stl
+[error]	2025-07-06 16:03:24.013648[Thread 0x00007fa3a86fb6c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-07-06 16:03:24.118719[Thread 0x00007fa3a86fb6c0]:Unable to open the file/data/z-locks-150.stl
+[error]	2025-07-06 16:03:24.132276[Thread 0x00007fa3987f86c0]:Unable to open the file/data/a_drive_frame_upper_with_jst_y_endstop.stl
+[error]	2025-07-06 16:03:24.289524[Thread 0x00007fa3767fc6c0]:Unable to open the file/data/Flip_Case.stl
+[error]	2025-07-06 16:03:24.312792[Thread 0x00007fa3767fc6c0]:Unable to open the file/data/Calibration/First_Layer_Patch-0.25mm.stl
+[error]	2025-07-06 16:03:24.343227[Thread 0x00007fa3987f86c0]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-07-06 16:03:24.561388[Thread 0x00007fa3a86fb6c0]:Unable to open the file/data/superellipse-shell.stl
+[error]	2025-07-06 16:03:24.599673[Thread 0x00007fa3987f86c0]:Unable to open the file/data/Untitled v5.stl
+[error]	2025-07-06 16:03:24.740137[Thread 0x00007fa458bea500]:Unable to open the file/data/Clamp Rabbitcage v1.stl
+[error]	2025-07-06 16:03:24.752145[Thread 0x00007fa3987f86c0]:Unable to open the file/data/Untitled v4.stl
+[error]	2025-07-06 16:03:24.758659[Thread 0x00007fa458bea500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-07-06 16:03:24.846405[Thread 0x00007fa3767fc6c0]:Unable to open the file/data/Untitled v3.stl
+[error]	2025-07-06 16:03:24.884508[Thread 0x00007fa3a86fb6c0]:Unable to open the file/data/Untitled v8.stl
+[error]	2025-07-06 16:03:24.991314[Thread 0x00007fa3767fc6c0]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-07-06 16:03:25.067706[Thread 0x00007fa3987f86c0]:Unable to open the file/data/led_bar.stl
+[error]	2025-07-06 16:03:25.083626[Thread 0x00007fa458bea500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[warning]	2025-07-06 16:03:26.941578[Thread 0x00007fa458bea500]:04:03:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-06 16:03:26.945808[Thread 0x00007fa458bea500]:04:03:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-06 16:03:26.949920[Thread 0x00007fa458bea500]:04:03:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-06 16:03:26.953792[Thread 0x00007fa458bea500]:04:03:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-06 16:03:31.248797[Thread 0x00007fa458bea500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-07-06 16:54:25.546690[Thread 0x00007fa458bea500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-06 16:54:26.418249[Thread 0x00007fa458bea500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-06 16:54:36.035226[Thread 0x00007fa458bea500]:Unable to open the file/data/Rabbit paper protector v1.stl
+[error]	2025-07-06 16:54:52.367730[Thread 0x00007fa398ff96c0]:call_process:got cancelled exception
+[error]	2025-07-07 12:17:52.362019[Thread 0x00007fa458bea500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-07 12:17:55.880607[Thread 0x00007fa458bea500]:calc_exclude_triangles:Unable to create exclude triangles

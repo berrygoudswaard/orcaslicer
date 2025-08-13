@@ -1,0 +1,119 @@
+[error]	2025-08-01 01:56:11.033314[Thread 0x00007f58f0fd1500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/PIF @ Klipper.json!
+[error]	2025-08-01 01:56:11.327922[Thread 0x00007f58f0fd1500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Creality Generic PLA - Copy.json!
+[error]	2025-08-01 01:56:11.462231[Thread 0x00007f58f0fd1500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Ender3 V2 0.4mm.json!
+[error]	2025-08-01 01:56:20.462672[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-01 01:56:20.784200[Thread 0x00007f58547f86c0]:Unable to open the file/data/Untitled v5.stl
+[error]	2025-08-01 01:56:20.922073[Thread 0x00007f582c7f86c0]:Unable to open the file/data/led_bar.stl
+[error]	2025-08-01 01:56:20.933453[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-08-01 01:56:20.937437[Thread 0x00007f58547f86c0]:Unable to open the file/data/Untitled v4.stl
+[error]	2025-08-01 01:56:21.041447[Thread 0x00007f580e7fc6c0]:Unable to open the file/data/superellipse-shell.stl
+[error]	2025-08-01 01:56:21.042748[Thread 0x00007f582c7f86c0]:Unable to open the file/data/Calibration/First_Layer_Patch-0.24mm.stl
+[error]	2025-08-01 01:56:21.052805[Thread 0x00007f580e7fc6c0]:Unable to open the file/data/Calibration/First_Layer_Patch-0.25mm.stl
+[error]	2025-08-01 01:56:21.112451[Thread 0x00007f58547f86c0]:Unable to open the file/data/Untitled v3.stl
+[error]	2025-08-01 01:56:21.155780[Thread 0x00007f580e7fc6c0]:Unable to open the file/data/z-locks-150.stl
+[error]	2025-08-01 01:56:21.326293[Thread 0x00007f58547f86c0]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-08-01 01:56:21.350638[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Rabbit paper protector v1.stl
+[error]	2025-08-01 01:56:21.423452[Thread 0x00007f582c7f86c0]:Unable to open the file/data/a_drive_frame_upper_with_jst_y_endstop.stl
+[error]	2025-08-01 01:56:21.466784[Thread 0x00007f58547f86c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-08-01 01:56:21.474689[Thread 0x00007f580e7fc6c0]:Unable to open the file/data/5x - 5x_1-2.stl
+[error]	2025-08-01 01:56:21.533119[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Clamp Rabbitcage v1.stl
+[error]	2025-08-01 01:56:21.616144[Thread 0x00007f582c7f86c0]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-08-01 01:56:21.625644[Thread 0x00007f58547f86c0]:Unable to open the file/data/4x - 4x_1-2.stl
+[error]	2025-08-01 01:56:21.704665[Thread 0x00007f580e7fc6c0]:Unable to open the file/data/Untitled v8.stl
+[warning]	2025-08-01 01:56:23.770592[Thread 0x00007f58f0fd1500]:01:56:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-01 01:56:23.776312[Thread 0x00007f58f0fd1500]:01:56:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-01 01:56:23.780578[Thread 0x00007f58f0fd1500]:01:56:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-01 01:56:23.785268[Thread 0x00007f58f0fd1500]:01:56:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-01 01:56:30.469086[Thread 0x00007f58f0fd1500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-08-08 20:43:30.017675[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-08 20:43:32.126380[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-08 20:43:44.302095[Thread 0x00007f58f0fd1500]:Unable to open the file/data/LED Clamp v3.stl
+[error]	2025-08-08 20:43:58.380233[Thread 0x00007f58c103a6c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 192.168.2.74 port 80: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-08-09 11:54:49.674860[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 11:55:03.793805[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-08-09 12:07:30.808467[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-09 12:17:10.026407[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-09 12:29:46.364779[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 12:30:23.218618[Thread 0x00007f58f0fd1500]:Unable to open the file/data/LED Clamp v3.stl
+[error]	2025-08-09 12:30:46.366310[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-09 12:30:54.282910[Thread 0x00007f58577fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-08-09 12:30:59.334166[Thread 0x00007f58577fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-08-09 12:31:16.386356[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-09 12:31:46.664120[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-09 12:33:39.045720[Thread 0x00007f58577fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-08-09 13:42:23.795719[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 13:50:09.512431[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-08-09 14:37:04.417551[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 14:37:25.059687[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 15:30:52.942964[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 15:30:58.009483[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 15:31:13.789230[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-08-09 19:30:12.560441[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 19:30:25.776037[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/Calibration Cube.stl
+[error]	2025-08-09 19:31:03.573794[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 19:31:35.430172[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-08-09 22:43:44.982249[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 22:43:58.425946[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 23:24:28.606014[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 23:25:06.852913[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-08-10 12:12:40.447787[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-10 12:13:14.034822[Thread 0x00007f58f0fd1500]:Unable to open the file/data/footbalgoalcorner.stl
+[error]	2025-08-10 12:14:24.732392[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-10 12:14:32.947303[Thread 0x00007f58f0fd1500]:Unable to open the file/data/footbalgoalcorner.stl
+[error]	2025-08-10 12:54:16.549356[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-10 12:54:31.304197[Thread 0x00007f58f0fd1500]:Unable to open the file/data/footbalgoalcorner.stl
+[error]	2025-08-10 12:54:59.470076[Thread 0x00007f58c103a6c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 192.168.2.74 port 80: No route to host
+[Error 7], HTTP 0, body: ``
+[warning]	2025-08-10 13:49:10.072112[Thread 0x00007f58577fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-08-10 13:49:20.560240[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-10 13:49:28.243542[Thread 0x00007f58f0fd1500]:Unable to open the file/data/footbalgoalcorner.stl
+[error]	2025-08-10 16:56:56.746011[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 16:56:56.969929[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 16:56:58.382516[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 16:57:57.600975[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 19:48:54.938365[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-10 19:49:38.970804[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-08-10 19:50:08.637896[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 20:15:33.731191[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 20:29:31.433156[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-10 20:29:38.433393[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-08-10 20:30:30.162361[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 20:30:41.627454[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 21:20:11.915690[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 21:32:03.126150[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 23:14:35.897713[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-11 07:58:50.724663[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-11 08:03:15.456866[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-11 18:50:57.989344[Thread 0x00007f58f0fd1500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-11 18:53:46.152677[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-11 18:53:54.963590[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-11 21:37:17.015478[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-11 21:37:39.879913[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-11 21:37:45.924038[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-11 21:37:56.573635[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-08-12 00:08:06.907486[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:08:23.095640[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:08:24.319835[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:08:24.435885[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-12 00:08:24.518531[Thread 0x00007f58f0fd1500]:validate_preset: preset_name Bambu Lab A1 mini 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-12 00:08:24.518588[Thread 0x00007f58f0fd1500]:validate_presets:file_name UNO Flip case Jordan.3mf, found the printer preset not inherit from system
+[warning]	2025-08-12 00:08:24.518603[Thread 0x00007f58f0fd1500]:validate_preset: preset_name A1 mini  eSUN PLA-Lite Filament, inherit_name eSUN PLA+ @BBL A1M, can not found preset and inherit in list
+[warning]	2025-08-12 00:08:24.518612[Thread 0x00007f58f0fd1500]:validate_presets:file_name UNO Flip case Jordan.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-08-12 00:08:24.518623[Thread 0x00007f58f0fd1500]:validate_preset: preset_name eSUN PLA+ @BBL A1M, no inherit, set to not found
+[warning]	2025-08-12 00:08:24.518630[Thread 0x00007f58f0fd1500]:validate_presets:file_name UNO Flip case Jordan.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-08-12 00:08:24.518638[Thread 0x00007f58f0fd1500]:validate_preset: preset_name eSUN PLA+ @BBL A1M, no inherit, set to not found
+[warning]	2025-08-12 00:08:24.518645[Thread 0x00007f58f0fd1500]:validate_presets:file_name UNO Flip case Jordan.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-08-12 00:08:24.518655[Thread 0x00007f58f0fd1500]:validate_preset: preset_name Overture Matte PLA @BBL A1M, no inherit, set to not found
+[warning]	2025-08-12 00:08:24.518661[Thread 0x00007f58f0fd1500]:validate_presets:file_name UNO Flip case Jordan.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-08-12 00:08:24.518671[Thread 0x00007f58f0fd1500]:validate_presets:file_name UNO Flip case Jordan.3mf, found self defined presets, count 4
+[error]	2025-08-12 00:08:28.885169[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:08:28.891623[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:09:33.599739[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:41:46.915464[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:41:47.006926[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:41:55.102148[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Uno Flip Case v1.stl
+[error]	2025-08-12 00:43:28.063374[Thread 0x00007f58f0fd1500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-12 00:43:40.354788[Thread 0x00007f58f0fd1500]:Unable to open the file/data/Uno Flip Case Top.stl
