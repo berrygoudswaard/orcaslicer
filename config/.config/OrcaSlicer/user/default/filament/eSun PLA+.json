@@ -1,0 +1,37 @@
+{
+    "fan_max_speed": [
+        "80"
+    ],
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_deretraction_speed": [
+        "40"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "eSun PLA+"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "eSun PLA+",
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "2.2.0.4"
+}
