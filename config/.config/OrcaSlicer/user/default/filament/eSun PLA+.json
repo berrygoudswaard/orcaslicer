@@ -1,15 +1,21 @@
 {
+    "default_filament_colour": [
+        "#FF7800"
+    ],
     "fan_max_speed": [
-        "80"
+        "60"
     ],
     "fan_min_speed": [
-        "80"
+        "60"
     ],
     "filament_deretraction_speed": [
         "40"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.988"
+    ],
+    "filament_retract_restart_extra": [
+        "0"
     ],
     "filament_retraction_length": [
         "0.6"
@@ -22,6 +28,12 @@
     ],
     "filament_vendor": [
         "eSun"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "filament_wipe_distance": [
+        "0.4"
     ],
     "from": "User",
     "inherits": "Voron Generic PLA",

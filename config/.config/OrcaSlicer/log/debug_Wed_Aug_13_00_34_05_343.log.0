@@ -43,3 +43,15 @@
 [error]	2025-08-13 21:31:06.273134[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-08-13 21:31:17.134827[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-08-13 23:15:03.140890[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-13 23:23:16.885024[Thread 0x00007f4f7e79a500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-08-14 00:48:13.473154[Thread 0x00007f4e82ffd6c0]:gcode path conflicts found between 3DBenchy.stl and Voron_Design_Cube_v7.stl
+[error]	2025-08-14 00:48:15.110441[Thread 0x00007f4e82ffd6c0]:call_process:got cancelled exception
+[error]	2025-08-14 00:48:19.970531[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-14 00:48:27.529983[Thread 0x00007f4f7e79a500]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-08-14 14:02:27.225487[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-14 14:02:47.820830[Thread 0x00007f4f7e79a500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-08-14 15:11:32.296993[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-14 15:13:42.527158[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-14 15:13:52.502438[Thread 0x00007f4f7e79a500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-08-14 15:15:06.010030[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-14 20:51:25.999875[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
