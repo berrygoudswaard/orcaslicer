@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#E01B24"
+    ],
+    "filament_deretraction_speed": [
+        "30"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_retraction_length": [
+        "0.3"
+    ],
+    "filament_retraction_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "Polymaker PolyLite ABS"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Polymaker PolyLite ABS",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "version": "2.0.2.0"
+}

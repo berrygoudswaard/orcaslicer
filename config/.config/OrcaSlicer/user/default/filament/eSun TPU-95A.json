@@ -1,4 +1,7 @@
 {
+    "default_filament_colour": [
+        "#000000"
+    ],
     "fan_max_speed": [
         "20"
     ],
