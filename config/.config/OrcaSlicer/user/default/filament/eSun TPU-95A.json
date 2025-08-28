@@ -3,22 +3,22 @@
         "#000000"
     ],
     "fan_max_speed": [
-        "20"
+        "40"
     ],
     "fan_min_speed": [
-        "0"
+        "20"
     ],
     "filament_deretraction_speed": [
         "20"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "6"
     ],
     "filament_retract_when_changing_layer": [
         "0"
     ],
     "filament_retraction_length": [
-        "0.3"
+        "0.6"
     ],
     "filament_retraction_minimum_travel": [
         "2"
@@ -32,8 +32,11 @@
     "filament_vendor": [
         "eSun"
     ],
+    "filament_wipe": [
+        "1"
+    ],
     "filament_wipe_distance": [
-        "6"
+        "10"
     ],
     "filament_z_hop": [
         "0.2"
@@ -49,10 +52,10 @@
     "is_custom_defined": "0",
     "name": "eSun TPU-95A",
     "nozzle_temperature": [
-        "215"
+        "230"
     ],
     "nozzle_temperature_initial_layer": [
-        "215"
+        "235"
     ],
     "nozzle_temperature_range_low": [
         "220"
