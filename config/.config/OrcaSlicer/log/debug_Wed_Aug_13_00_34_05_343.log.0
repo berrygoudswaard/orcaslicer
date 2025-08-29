@@ -413,3 +413,15 @@
 [error]	2025-08-28 22:02:14.428913[Thread 0x00007f4ec8ff96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
 [error]	2025-08-28 22:02:14.431335[Thread 0x00007f4ec8ff96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
 [error]	2025-08-28 22:02:14.431561[Thread 0x00007f4ec8ff96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.432040[Thread 0x00007f4ec8ff96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.432213[Thread 0x00007f4ec8ff96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.433510[Thread 0x00007f4ec8ff96c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.501900[Thread 0x00007f4eaffff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.502653[Thread 0x00007f4eaffff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.503506[Thread 0x00007f4eaffff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.503646[Thread 0x00007f4eaffff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.503882[Thread 0x00007f4eaffff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-28 22:02:14.519340[Thread 0x00007f4eaffff6c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-08-29 10:13:22.333444[Thread 0x00007f4f7e79a500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-29 10:13:47.858807[Thread 0x00007f4f7e79a500]:Unable to open the file/data/Basketball Tools/Pole Connector v1.stl
+[error]	2025-08-29 10:15:27.170360[Thread 0x00007f4e82ffd6c0]:call_process:got cancelled exception
