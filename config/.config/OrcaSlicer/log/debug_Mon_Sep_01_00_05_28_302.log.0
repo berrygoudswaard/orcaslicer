@@ -41,3 +41,29 @@
 [warning]	2025-09-01 11:01:01.827585[Thread 0x00007f4d1f7fe6c0]:Arrange full params: {"min_obj_distance":13290000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
 [warning]	2025-09-01 11:01:31.198308[Thread 0x00007f4d1f7fe6c0]:Arrange full params: {"min_obj_distance":13290000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
 [warning]	2025-09-01 11:01:39.624095[Thread 0x00007f4d1f7fe6c0]:Arrange full params: {"min_obj_distance":13290000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-09-02 08:16:40.359457[Thread 0x00007f4d1f7fe6c0]:Arrange full params: {"min_obj_distance":13290000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-09-02 08:16:41.465716[Thread 0x00007f4ce2ffd6c0]:call_process:got cancelled exception
+[error]	2025-09-02 08:17:28.188887[Thread 0x00007f4ce2ffd6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_BFI-V2.4_Front_x2_ABS_1h45m
+ ^
+[error]	2025-09-09 10:32:08.547251[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 10:32:31.461778[Thread 0x00007f4dc8e61500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-09-09 11:10:58.684019[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 12:34:18.253923[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 12:34:26.430583[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 13:03:16.251762[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 13:57:36.857395[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 13:59:01.498070[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 13:59:22.454465[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 13:59:31.273813[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 13:59:36.350367[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 15:28:27.409645[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 15:37:48.032675[Thread 0x00007f4ce2ffd6c0]:call_process:got cancelled exception
+[error]	2025-09-09 15:37:56.126900[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 16:21:57.503271[Thread 0x00007f4dc8e61500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-09-09 16:21:57.763926[Thread 0x00007f4dc8e61500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-09-09 16:21:58.411556[Thread 0x00007f4dc8e61500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-09-09 16:22:01.562369[Thread 0x00007f4dc8e61500]:04:22:01 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-09 17:42:07.458030[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 17:42:54.478225[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 19:32:43.197681[Thread 0x00007f4dc8e61500]:calc_exclude_triangles:Unable to create exclude triangles
