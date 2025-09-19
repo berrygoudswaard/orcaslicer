@@ -1,0 +1,29 @@
+[error]	2025-09-19 12:03:29.773610[Thread 0x00007f23df8cf500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-19 12:03:29.924503[Thread 0x00007f23097fa6c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-09-19 12:03:29.924570[Thread 0x00007f23097fa6c0]:Unable to open the file/data/Hotwheels/Jump/jump-double.stl
+[error]	2025-09-19 12:03:30.024384[Thread 0x00007f23093f96c0]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.stl
+[error]	2025-09-19 12:03:30.034230[Thread 0x00007f23df8cf500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-09-19 12:03:30.034290[Thread 0x00007f23df8cf500]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.3mf
+[error]	2025-09-19 12:03:30.034306[Thread 0x00007f23df8cf500]:Unable to open the file/data/GT2 BTM/Black/GT2 Calibration Wire Pivot 0.032.stl
+[error]	2025-09-19 12:03:30.034319[Thread 0x00007f23df8cf500]:Unable to open the file/data/GT2 BTM/Meter Base-RC2.stl
+[error]	2025-09-19 12:03:30.178492[Thread 0x00007f23247f86c0]:Unable to open the file/data/Basketball Goggles/Goggles v5.stl
+[error]	2025-09-19 12:03:30.235407[Thread 0x00007f23097fa6c0]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-09-19 12:03:30.235482[Thread 0x00007f23097fa6c0]:Unable to open the file/data/Uno Flip Case Bottom.stl
+[error]	2025-09-19 12:03:30.235498[Thread 0x00007f23097fa6c0]:Unable to open the file/data/Uno Flip Case Top.stl
+[error]	2025-09-19 12:03:30.235510[Thread 0x00007f23097fa6c0]:Unable to open the file/data/Uno Flip Case v1.stl
+[error]	2025-09-19 12:03:30.235522[Thread 0x00007f23097fa6c0]:Unable to open the file/data/UNO Flip case Jordan.3mf
+[error]	2025-09-19 12:03:30.235533[Thread 0x00007f23097fa6c0]:Unable to open the file/data/footbalgoalcorner.stl
+[error]	2025-09-19 12:03:30.272082[Thread 0x00007f23097fa6c0]:Unable to open the file/data/Calibration/Calibration Cube.stl
+[error]	2025-09-19 12:03:30.359525[Thread 0x00007f23df8cf500]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-09-19 12:03:30.397093[Thread 0x00007f23093f96c0]:Unable to open the file/data/Basketball Tools/Pole Connector v1.stl
+[error]	2025-09-19 12:03:30.649318[Thread 0x00007f23247f86c0]:Unable to open the file/data/Basketball Goggles/Front-Glasses-Frame v2.stl
+[warning]	2025-09-19 12:03:31.840131[Thread 0x00007f23df8cf500]:12:03:31 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-19 12:03:31.846378[Thread 0x00007f23df8cf500]:12:03:31 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-19 12:03:31.850792[Thread 0x00007f23df8cf500]:12:03:31 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-19 12:03:31.855341[Thread 0x00007f23df8cf500]:12:03:31 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-19 12:03:35.536452[Thread 0x00007f23df8cf500]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-09-19 12:03:36.380489[Thread 0x00007f23df8cf500]:12:03:36 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-19 12:03:47.378575[Thread 0x00007f23df8cf500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-19 12:03:47.684639[Thread 0x00007f23df8cf500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-19 12:03:57.436588[Thread 0x00007f23df8cf500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-19 13:30:55.556087[Thread 0x00007f23df8cf500]:calc_exclude_triangles:Unable to create exclude triangles
