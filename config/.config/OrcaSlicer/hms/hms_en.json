@@ -6,6 +6,10 @@
                 "intro": "The accessory firmware does not match the printer. Please update it on the \"Firmware\" page."
             },
             {
+                "ecode": "07FF8007",
+                "intro": "Please observe the nozzle. If the filament has been extruded, select \"Done\"; if it has not, please push the filament forward slightly, and then select \"Retry\"."
+            },
+            {
                 "ecode": "05004033",
                 "intro": "The AMS firmware does not match the printer. Please update it on the \"Firmware\" page."
             },
@@ -46,8 +50,16 @@
                 "intro": "The firmware of AMS B does not match the printer; the device cannot continue working. Please update it on the \"Firmware\" page."
             },
             {
-                "ecode": "07FF8007",
-                "intro": "Please observe the nozzle. If the filament has been extruded, select \"Done\"; if it has not, please push the filament forward slightly, and then select \"Retry\"."
+                "ecode": "07024025",
+                "intro": "Failed to read the filament information."
+            },
+            {
+                "ecode": "0500803C",
+                "intro": "The current nozzle setting does not match the slicing file. Continuing to print may affect print quality. It is recommended to re-slice before starting the print."
+            },
+            {
+                "ecode": "0300400D",
+                "intro": "Resume failed after power loss."
             },
             {
                 "ecode": "0500400E",
@@ -706,10 +718,6 @@
                 "intro": "Binding configuration information parsing failed; please try again."
             },
             {
-                "ecode": "0500403C",
-                "intro": "The nozzle setup does not match the slicing file. Please initiate the print after re-slicing."
-            },
-            {
                 "ecode": "07048012",
                 "intro": "Failed to get AMS mapping table; please select \"Resume\" to retry."
             },
@@ -1238,10 +1246,6 @@
                 "intro": "An error occurred during AMS A drying. Please go to Assistant for more details."
             },
             {
-                "ecode": "0300400D",
-                "intro": "Resume failed after power loss."
-            },
-            {
                 "ecode": "03008009",
                 "intro": "Heatbed temperature malfunction"
             },
@@ -1484,10 +1488,6 @@
             {
                 "ecode": "05014038",
                 "intro": "The regional settings do not match the printer; please check the printer's regional settings."
-            },
-            {
-                "ecode": "07024025",
-                "intro": "Failed to read the filament information."
             },
             {
                 "ecode": "07FF8002",
@@ -1938,7 +1938,7 @@
                 "intro": "The cutter is stuck. Please make sure the cutter handle is out and check the filament sensor cable connection."
             }
         ],
-        "ver": 202509191200
+        "ver": 202509291200
     },
     "device_hms": {
         "en": [
@@ -1999,8 +1999,16 @@
                 "intro": "The firmware of AMS-HT A does not match the printer. Please update it on the \"Firmware\" page."
             },
             {
+                "ecode": "0500010000020002",
+                "intro": "Liveview camera is not connected. Please check the hardware and cable connections."
+            },
+            {
                 "ecode": "0705210000010082",
                 "intro": "Failed to read the filament information from AMS F slot 2. A third party RFID tag was detected."
+            },
+            {
+                "ecode": "0502050000010010",
+                "intro": "The firmware of AMS C does not match the printer. Please update it on the \"Firmware\" page."
             },
             {
                 "ecode": "0704200000010082",
@@ -2075,6 +2083,10 @@
                 "intro": "Failed to read the filament information from AMS C slot 2. A third party RFID tag was detected."
             },
             {
+                "ecode": "050005000001000F",
+                "intro": "The accessory firmware does not match the printer. Please update it on the \"Firmware\" page."
+            },
+            {
                 "ecode": "0586050000010010",
                 "intro": "The firmware of AMS-HT G does not match the printer. Please update it on the \"Firmware\" page."
             },
@@ -2089,6 +2101,10 @@
             {
                 "ecode": "1801230000010082",
                 "intro": "Failed to read the filament information from AMS-HT B slot 4. A third party RFID tag was detected."
+            },
+            {
+                "ecode": "0505050000010010",
+                "intro": "The firmware of AMS F does not match the printer. Please update it on the \"Firmware\" page."
             },
             {
                 "ecode": "1802200000010082",
@@ -2113,6 +2129,10 @@
             {
                 "ecode": "0701200000010082",
                 "intro": "Failed to read the filament information from AMS B slot 1. A third party RFID tag was detected."
+            },
+            {
+                "ecode": "0500050000010010",
+                "intro": "The firmware of AMS A does not match the printer. Please update it on the \"Firmware\" page."
             },
             {
                 "ecode": "0706220000010082",
@@ -2207,6 +2227,10 @@
                 "intro": "Failed to read the filament information from AMS-HT A slot 1. A third party RFID tag was detected."
             },
             {
+                "ecode": "12FF200000030007",
+                "intro": "Checking the filament location of all AMS slots; please wait."
+            },
+            {
                 "ecode": "0706210000010082",
                 "intro": "Failed to read the filament information from AMS G slot 2. A third party RFID tag was detected."
             },
@@ -2299,28 +2323,8 @@
                 "intro": "The firmware of AMS-HT B does not match the printer. Please update it on the \"Firmware\" page."
             },
             {
-                "ecode": "0500010000020002",
-                "intro": "Liveview camera is not connected. Please check the hardware and cable connections."
-            },
-            {
-                "ecode": "0502050000010010",
-                "intro": "The firmware of AMS C does not match the printer. Please update it on the \"Firmware\" page."
-            },
-            {
-                "ecode": "050005000001000F",
-                "intro": "The accessory firmware does not match the printer. Please update it on the \"Firmware\" page."
-            },
-            {
-                "ecode": "0505050000010010",
-                "intro": "The firmware of AMS F does not match the printer. Please update it on the \"Firmware\" page."
-            },
-            {
-                "ecode": "0500050000010010",
-                "intro": "The firmware of AMS A does not match the printer. Please update it on the \"Firmware\" page."
-            },
-            {
-                "ecode": "12FF200000030007",
-                "intro": "Checking the filament location of all AMS slots; please wait."
+                "ecode": "0C00020000010005",
+                "intro": "A new Micro Lidar was detected. Please calibrate it on the Calibration page before use."
             },
             {
                 "ecode": "0500020000020008",
@@ -17559,10 +17563,6 @@
                 "intro": "AMS-HT D Slot 4 filament has run out and automatically switched to the slot with the same filament."
             },
             {
-                "ecode": "0C00020000010005",
-                "intro": "A new Micro Lidar was detected. Please calibrate it on the Calibration page before use."
-            },
-            {
                 "ecode": "0704310000020002",
                 "intro": "The RFID-tag on AMS E Slot2 is damaged, or its content cannot be identified."
             },
@@ -18543,7 +18543,7 @@
                 "intro": "External disturbance was detected on the heatbed acceleeration sensor. The sensor signal wire may not be affixed."
             }
         ],
-        "ver": 202509191200
+        "ver": 202509291200
     },
-    "version": "202509191200"
+    "version": "202509291200"
 }

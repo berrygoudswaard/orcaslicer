@@ -1,0 +1,19 @@
+[error]	2025-10-01 00:05:34.787005[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-01 00:05:35.202310[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/Uno Flip Case Top.stl
+[error]	2025-10-01 00:05:35.202378[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/Uno Flip Case v1.stl
+[error]	2025-10-01 00:05:35.202393[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/UNO Flip case Jordan.3mf
+[error]	2025-10-01 00:05:35.202407[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/footbalgoalcorner.stl
+[error]	2025-10-01 00:05:35.255110[Thread 0x00007f7b847f86c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-10-01 00:05:35.255179[Thread 0x00007f7b847f86c0]:Unable to open the file/data/Hotwheels/Jump/jump-double.stl
+[error]	2025-10-01 00:05:35.280103[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/Calibration/Calibration Cube.stl
+[error]	2025-10-01 00:05:35.280173[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/Uno Flip Case Bottom.stl
+[error]	2025-10-01 00:05:35.280189[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/GT2 BTM/Black/GT2 Calibration Wire Pivot 0.032.stl
+[error]	2025-10-01 00:05:35.280201[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/GT2 BTM/Meter Base-RC2.stl
+[error]	2025-10-01 00:05:35.349793[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-10-01 00:05:35.349881[Thread 0x00007f7c44ff5500]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.3mf
+[error]	2025-10-01 00:05:35.678247[Thread 0x00007f7b987f86c0]:Unable to open the file/data/Basketball Goggles/Goggles v5.stl
+[error]	2025-10-01 00:05:35.786572[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/Calibration/Voron_Design_Cube_v7.stl
+[error]	2025-10-01 00:05:35.860100[Thread 0x00007f7b847f86c0]:Unable to open the file/data/Calibration/3DBenchy.stl
+[error]	2025-10-01 00:05:35.985884[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/Basketball Tools/Pole Connector v1.stl
+[error]	2025-10-01 00:05:36.124013[Thread 0x00007f7b987f86c0]:Unable to open the file/data/Basketball Goggles/Front-Glasses-Frame v2.stl
+[error]	2025-10-01 00:05:36.154631[Thread 0x00007f7c44ff5500]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.stl
