@@ -17,3 +17,22 @@
 [error]	2025-10-01 00:05:35.985884[Thread 0x00007f7b5dffb6c0]:Unable to open the file/data/Basketball Tools/Pole Connector v1.stl
 [error]	2025-10-01 00:05:36.124013[Thread 0x00007f7b987f86c0]:Unable to open the file/data/Basketball Goggles/Front-Glasses-Frame v2.stl
 [error]	2025-10-01 00:05:36.154631[Thread 0x00007f7c44ff5500]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.stl
+[warning]	2025-10-01 00:05:39.200642[Thread 0x00007f7c44ff5500]:12:05:39 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-01 00:05:39.213045[Thread 0x00007f7c44ff5500]:12:05:39 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-01 00:05:39.217754[Thread 0x00007f7c44ff5500]:12:05:39 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-01 00:05:39.221949[Thread 0x00007f7c44ff5500]:12:05:39 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-01 00:05:46.000563[Thread 0x00007f7c44ff5500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-08 01:58:14.226740[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 01:58:15.664196[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 02:00:49.677894[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Hoop Spark Box v2.stl
+[error]	2025-10-08 14:00:46.546374[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 14:00:56.725734[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Hoop Spark/Spark Bottom.stl
+[warning]	2025-10-08 14:01:44.079106[Thread 0x00007f7b9b7fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-10-08 14:02:04.735017[Thread 0x00007f7b9b7fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-10-08 14:02:30.202429[Thread 0x00007f7b857fa6c0]:call_process:got cancelled exception
+[error]	2025-10-08 14:04:42.608370[Thread 0x00007f7b857fa6c0]:call_process:got cancelled exception
+[error]	2025-10-08 14:04:49.153935[Thread 0x00007f7b857fa6c0]:call_process:got cancelled exception
+[warning]	2025-10-08 14:04:53.295283[Thread 0x00007f7b9b7fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-10-08 23:42:25.059753[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-08 23:42:44.030938[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Hoop Spark/Booster Mount Plate.stl
+[warning]	2025-10-08 23:43:07.517768[Thread 0x00007f7b9b7fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
