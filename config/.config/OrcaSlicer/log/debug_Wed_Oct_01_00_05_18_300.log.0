@@ -235,3 +235,4 @@
 [error]	2025-10-11 00:05:37.297813[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Hoop Spark/Booster Tray.stl
 [warning]	2025-10-11 00:05:40.920491[Thread 0x00007f7b9b7fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
 [error]	2025-10-11 00:09:02.166656[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-11 00:09:54.262583[Thread 0x00007f7b857fa6c0]:call_process:got cancelled exception
