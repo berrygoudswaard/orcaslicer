@@ -237,3 +237,15 @@
 [error]	2025-10-11 00:09:02.166656[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-10-11 00:09:54.262583[Thread 0x00007f7b857fa6c0]:call_process:got cancelled exception
 [error]	2025-10-11 00:15:49.186473[Thread 0x00007f7c44ff5500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-11 20:07:49.635296[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-11 20:07:49.770762[Thread 0x00007f7c44ff5500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-11 20:07:56.097136[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-11 20:08:01.377295[Thread 0x00007f7c44ff5500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-11 20:08:02.555665[Thread 0x00007f7c44ff5500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-11 20:08:03.556195[Thread 0x00007f7c44ff5500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-11 20:08:19.717402[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Hoop Spark/Led Mountplate.stl
+[error]	2025-10-11 20:46:10.422702[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-11 20:46:17.251333[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Hoop Spark/Led Mountplate.stl
+[error]	2025-10-11 21:51:33.512252[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-11 21:51:49.178840[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Hoop Spark/Spark Bottom.stl
+[warning]	2025-10-11 21:52:01.894727[Thread 0x00007f7b9b7fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
