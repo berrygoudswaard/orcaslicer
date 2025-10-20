@@ -277,3 +277,16 @@
 [error]	2025-10-16 09:02:34.475612[Thread 0x00007f7b857fa6c0]:call_process:got cancelled exception
 [error]	2025-10-16 17:40:13.966240[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-10-16 17:41:02.170627[Thread 0x00007f7c44ff5500]:Unable to open the file/data/Hoop Spark/Led Mountplate.stl
+[warning]	2025-10-16 17:41:11.936983[Thread 0x00007f7b9b7fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-10-20 21:52:25.153171[Thread 0x00007f7c44ff5500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-10-20 21:52:25.314862[Thread 0x00007f7c44ff5500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-10-20 21:52:25.840936[Thread 0x00007f7c44ff5500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-10-20 21:52:28.824118[Thread 0x00007f7c44ff5500]:09:52:28 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-10-20 21:53:06.635408[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-20 21:54:27.992467[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-20 21:55:34.137488[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-20 21:55:37.839433[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-20 21:55:45.802150[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-20 21:55:48.725895[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-20 21:55:55.858396[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-20 21:56:08.757834[Thread 0x00007f7c44ff5500]:calc_exclude_triangles:Unable to create exclude triangles
