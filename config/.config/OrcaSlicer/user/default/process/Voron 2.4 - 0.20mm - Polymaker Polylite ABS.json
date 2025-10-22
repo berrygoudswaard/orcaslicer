@@ -1,5 +1,5 @@
 {
-    "bottom_shell_layers": "4",
+    "bottom_shell_layers": "5",
     "elefant_foot_compensation": "0.15",
     "enable_support": "1",
     "from": "User",
@@ -15,13 +15,16 @@
     "outer_wall_acceleration": "3500",
     "outer_wall_line_width": "120%",
     "outer_wall_speed": "40",
+    "print_sequence": "by object",
     "print_settings_id": "Voron 2.4 - 0.20mm - Polymaker Polylite ABS",
+    "sparse_infill_density": "50%",
     "sparse_infill_line_width": "120%",
     "support_interface_pattern": "concentric",
     "support_line_width": "120%",
+    "support_type": "tree(auto)",
+    "top_shell_layers": "5",
     "top_surface_line_width": "110%",
     "top_surface_speed": "40",
     "version": "2.2.0.4",
-    "wall_loops": "4",
-    "wall_sequence": "inner-outer-inner wall"
+    "wall_loops": "5"
 }
