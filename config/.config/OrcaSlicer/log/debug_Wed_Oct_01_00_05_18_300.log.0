@@ -306,3 +306,5 @@
 [error]	2025-10-22 20:57:50.184094[Thread 0x00007f7b5effd6c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
 Failed to connect to 192.168.2.75 port 80: No route to host
 [Error 7], HTTP 0, body: ``
+[warning]	2025-10-23 00:08:44.777547[Thread 0x00007f7b9b7fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-10-23 00:09:21.043047[Thread 0x00007f7b857fa6c0]:call_process:got cancelled exception
