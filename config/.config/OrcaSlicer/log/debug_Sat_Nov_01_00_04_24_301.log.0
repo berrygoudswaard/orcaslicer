@@ -1,0 +1,18 @@
+[error]	2025-11-01 00:05:05.230655[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 00:05:05.300404[Thread 0x00007fa7c37fe6c0]:Unable to open the file/data/DnMD20/1_Right.stl
+[error]	2025-11-01 00:05:05.300452[Thread 0x00007fa7c37fe6c0]:Unable to open the file/data/DnMD20/2_TensionerClampV3.stl
+[error]	2025-11-01 00:05:05.300477[Thread 0x00007fa87cc6b500]:Unable to open the file/data/DnVD20/3_Spacer2.stl
+[error]	2025-11-01 00:05:05.300667[Thread 0x00007fa87cc6b500]:Unable to open the file/data/DnMD20/E3V2 Dual Y Rail Bracket.stl
+[error]	2025-11-01 00:05:05.300683[Thread 0x00007fa87cc6b500]:Unable to open the file/data/DnMD20/2_80TRingGear(Voron).stl
+[error]	2025-11-01 00:05:05.300695[Thread 0x00007fa87cc6b500]:Unable to open the file/data/DnMD20/1_RightV3.7.stl
+[error]	2025-11-01 00:05:05.419277[Thread 0x00007fa7c37fe6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-11-01 00:05:05.560981[Thread 0x00007fa8485c76c0]:Unable to open the file/data/Hoop Spark/Led Mountplate.stl
+[error]	2025-11-01 00:05:05.586920[Thread 0x00007fa8485c76c0]:Unable to open the file/data/Hoop Spark Box v2.stl
+[error]	2025-11-01 00:05:05.586945[Thread 0x00007fa8485c76c0]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.3mf
+[error]	2025-11-01 00:05:05.668487[Thread 0x00007fa7c37fe6c0]:Unable to open the file/data/Hoop Spark/Spark Bottom.stl
+[error]	2025-11-01 00:05:05.668557[Thread 0x00007fa7c37fe6c0]:Unable to open the file/data/Hoop Spark/Charger Mountplate.stl
+[error]	2025-11-01 00:05:05.668571[Thread 0x00007fa7c37fe6c0]:Unable to open the file/data/Hoop Spark/Booster Mount Plate.stl
+[error]	2025-11-01 00:05:05.759531[Thread 0x00007fa7c2ffd6c0]:Unable to open the file/data/Hoop Spark/Booster Tray.stl
+[error]	2025-11-01 00:05:05.875712[Thread 0x00007fa7c37fe6c0]:Unable to open the file/data/Hoop Spark/Default Cap.stl
+[error]	2025-11-01 00:05:05.890199[Thread 0x00007fa8485c76c0]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.stl
+[error]	2025-11-01 00:05:06.133215[Thread 0x00007fa87cc6b500]:Unable to open the file/data/Hoop Spark/Battery Mount.stl
