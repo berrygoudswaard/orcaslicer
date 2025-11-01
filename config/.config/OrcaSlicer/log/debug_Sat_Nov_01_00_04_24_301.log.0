@@ -16,3 +16,68 @@
 [error]	2025-11-01 00:05:05.875712[Thread 0x00007fa7c37fe6c0]:Unable to open the file/data/Hoop Spark/Default Cap.stl
 [error]	2025-11-01 00:05:05.890199[Thread 0x00007fa8485c76c0]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.stl
 [error]	2025-11-01 00:05:06.133215[Thread 0x00007fa87cc6b500]:Unable to open the file/data/Hoop Spark/Battery Mount.stl
+[warning]	2025-11-01 00:05:08.701393[Thread 0x00007fa87cc6b500]:12:05:08 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-01 00:05:08.706240[Thread 0x00007fa87cc6b500]:12:05:08 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-01 00:05:08.710506[Thread 0x00007fa87cc6b500]:12:05:08 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-01 00:05:08.714814[Thread 0x00007fa87cc6b500]:12:05:08 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-01 00:05:15.090835[Thread 0x00007fa87cc6b500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-01 09:54:26.333051[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 09:54:28.048838[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 09:54:39.038921[Thread 0x00007fa87cc6b500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-11-01 09:55:05.685789[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 10:12:38.267495[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:16:24.833027[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:16:25.032580[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:16:25.431978[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-11-01 11:16:26.827361[Thread 0x00007fa87cc6b500]:11:16:26 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-01 11:16:36.357062[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:17:23.732987[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:17:27.836952[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:17:27.869522[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:17:27.962874[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-11-01 11:17:28.558331[Thread 0x00007fa87cc6b500]:11:17:28 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-01 11:17:34.182089[Thread 0x00007fa87cc6b500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-01 11:17:55.846933[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:17:58.255503[Thread 0x00007fa87cc6b500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-01 11:25:24.932209[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:25:32.707878[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:25:32.738216[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:25:32.821834[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-11-01 11:25:33.355123[Thread 0x00007fa87cc6b500]:11:25:33 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-01 11:25:50.593884[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - PLA.json!
+[error]	2025-11-01 11:25:50.594261[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - TPU-95A.json!
+[error]	2025-11-01 11:25:50.594451[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - Polymaker Polylite PLA.json!
+[error]	2025-11-01 11:25:50.594670[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - eSun PLA+.json!
+[error]	2025-11-01 11:25:50.594920[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - Polymaker Polylite ABS.json!
+[error]	2025-11-01 11:25:50.595148[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - GT2 BTM.json!
+[error]	2025-11-01 11:25:50.595334[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - PIF.json!
+[error]	2025-11-01 11:25:50.595569[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Eryone Matte PLA.json!
+[error]	2025-11-01 11:25:50.595826[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/eSun PLA+.json!
+[error]	2025-11-01 11:25:50.596101[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/eSun TPU-95A.json!
+[error]	2025-11-01 11:25:50.596335[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Polymaker Polylite PLA.json!
+[error]	2025-11-01 11:25:50.596530[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Polymaker PolyLite ABS.json!
+[error]	2025-11-01 11:25:50.596681[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/Voron Generic ABS - Copy.json!
+[error]	2025-11-01 11:25:50.596934[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Voron 2.4 300 0.4mm nozzle.json!
+[error]	2025-11-01 11:25:50.597062[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Creality Ender3 V2 0.4 nozzle.json!
+[error]	2025-11-01 11:26:35.752200[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - PLA.json!
+[error]	2025-11-01 11:26:35.752574[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - TPU-95A.json!
+[error]	2025-11-01 11:26:35.752772[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - Polymaker Polylite PLA.json!
+[error]	2025-11-01 11:26:35.752981[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - eSun PLA+.json!
+[error]	2025-11-01 11:26:35.753212[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - Polymaker Polylite ABS.json!
+[error]	2025-11-01 11:26:35.753429[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - GT2 BTM.json!
+[error]	2025-11-01 11:26:35.753613[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - PIF.json!
+[error]	2025-11-01 11:26:35.760624[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Voron 2.4 300 0.4mm nozzle.json!
+[error]	2025-11-01 11:26:35.760801[Thread 0x00007fa87cc6b500]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/Creality Ender3 V2 0.4 nozzle.json!
+[error]	2025-11-01 11:26:44.073851[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:26:44.104415[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:26:44.188289[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-11-01 11:26:44.736840[Thread 0x00007fa87cc6b500]:11:26:44 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-01 11:27:09.471458[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:27:09.505633[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-11-01 11:27:09.615305[Thread 0x00007fa87cc6b500]:LoadProfileFamily: parse /opt/orcaslicer/resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2025-11-01 11:27:10.255903[Thread 0x00007fa87cc6b500]:11:27:10 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-01 11:33:19.723235[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:35:44.861152[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:37:49.571957[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:38:18.797673[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 11:38:28.007531[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
