@@ -9,5 +9,17 @@
     "name": "Creality Ender3 V2 0.4 nozzle",
     "print_host": "http://192.168.2.73",
     "printer_settings_id": "Creality Ender3 V2 0.4 nozzle",
-    "version": "2.2.0.4"
+    "retraction_length": [
+        "0.4"
+    ],
+    "retraction_minimum_travel": [
+        "1"
+    ],
+    "retraction_speed": [
+        "30"
+    ],
+    "version": "2.2.0.4",
+    "z_hop": [
+        "0.2"
+    ]
 }
