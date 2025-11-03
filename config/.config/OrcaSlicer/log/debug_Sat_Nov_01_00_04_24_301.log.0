@@ -93,3 +93,15 @@
 [error]	2025-11-02 14:23:41.865084[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-11-02 14:23:52.785896[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-11-02 14:36:03.689330[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-02 14:36:17.583647[Thread 0x00007fa87cc6b500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-03 11:43:53.793513[Thread 0x00007fa87cc6b500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-03 11:44:29.491940[Thread 0x00007fa87cc6b500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-03 11:46:06.291030[Thread 0x00007fa87cc6b500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-03 18:32:49.283438[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-03 18:32:52.237205[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-03 18:33:10.083298[Thread 0x00007fa87cc6b500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-03 18:54:13.706508[Thread 0x00007fa87cc6b500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-03 19:12:07.038666[Thread 0x00007fa87cc6b500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-03 19:15:13.889391[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-03 19:23:18.298166[Thread 0x00007fa87cc6b500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-03 20:30:23.474139[Thread 0x00007fa87cc6b500]:calc_exclude_triangles:Unable to create exclude triangles

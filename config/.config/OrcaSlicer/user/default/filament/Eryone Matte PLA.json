@@ -15,8 +15,11 @@
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
     "name": "Eryone Matte PLA",
+    "nozzle_temperature": [
+        "230"
+    ],
     "nozzle_temperature_initial_layer": [
-        "215"
+        "225"
     ],
     "nozzle_temperature_range_high": [
         "220"

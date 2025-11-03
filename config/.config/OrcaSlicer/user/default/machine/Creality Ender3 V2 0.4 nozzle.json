@@ -1,5 +1,8 @@
 {
     "change_filament_gcode": "PAUSE",
+    "deretraction_speed": [
+        "30"
+    ],
     "from": "User",
     "inherits": "Creality Ender-3 V2 0.4 nozzle",
     "is_custom_defined": "0",

@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "Creality Generic PLA - Copy"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA - Copy",
+    "version": "2.2.0.4"
+}
