@@ -23,3 +23,16 @@
 [error]	2025-11-04 11:42:31.828386[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
 [warning]	2025-11-04 11:42:31.994385[Thread 0x00007f298d88e500]:get_version, get_version not supported,return 00.00.00.00!
 [error]	2025-11-04 11:42:36.045016[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-04 12:06:18.301523[Thread 0x00007f298d88e500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-04 13:43:43.051783[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 13:46:52.454878[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 13:47:03.349884[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 14:06:15.302458[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 14:06:41.502484[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 14:10:49.951850[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 14:18:41.500647[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 14:19:14.348853[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 14:43:17.531583[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-04 14:48:03.806560[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 15:30:57.399050[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-04 15:44:43.579784[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles

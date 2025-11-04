@@ -10,13 +10,13 @@
     "outer_wall_speed": "40",
     "print_sequence": "by object",
     "print_settings_id": "Voron 2.4 - 0.20mm - Polymaker Polylite ABS - PIF",
-    "sparse_infill_density": "40%",
+    "seam_position": "random",
+    "sparse_infill_density": "0%",
     "sparse_infill_line_width": "0.4",
     "sparse_infill_pattern": "grid",
     "support_interface_pattern": "concentric",
-    "top_shell_layers": "5",
+    "top_shell_layers": "0",
     "top_surface_speed": "40",
     "version": "2.2.0.4",
-    "wall_loops": "4",
-    "wall_sequence": "inner-outer-inner wall"
+    "wall_loops": "1"
 }
