@@ -1,0 +1,25 @@
+[error]	2025-11-04 09:00:22.513783[Thread 0x00007fe2bbe99500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-04 09:00:22.526690[Thread 0x00007fe2bbe99500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-04 09:00:22.526720[Thread 0x00007fe211fff6c0]:Unable to open the file/data/DnMD20/2_80TRingGear(Voron).stl
+[error]	2025-11-04 09:00:22.526752[Thread 0x00007fe211fff6c0]:Unable to open the file/data/DnMD20/1_RightV3.7.stl
+[error]	2025-11-04 09:00:22.526766[Thread 0x00007fe2bbe99500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-11-04 09:00:22.526767[Thread 0x00007fe211fff6c0]:Unable to open the file/data/DnMD20/1_Right.stl
+[error]	2025-11-04 09:00:22.526791[Thread 0x00007fe2bbe99500]:Unable to open the file/data/DnMD20/2_TensionerClampV3.stl
+[error]	2025-11-04 09:00:22.526932[Thread 0x00007fe1fd7fa6c0]:Unable to open the file/data/DnVD20/3_Spacer2.stl
+[error]	2025-11-04 09:00:22.526958[Thread 0x00007fe1fd7fa6c0]:Unable to open the file/data/Hoop Spark/Charger Mountplate.stl
+[error]	2025-11-04 09:00:22.526972[Thread 0x00007fe2bbe99500]:Unable to open the file/data/Hoop Spark/Led Mountplate.stl
+[error]	2025-11-04 09:00:22.526976[Thread 0x00007fe211fff6c0]:Unable to open the file/data/DnMD20/E3V2 Dual Y Rail Bracket.stl
+[error]	2025-11-04 09:00:22.527100[Thread 0x00007fe2aa96a6c0]:Unable to open the file/data/Hoop Spark/Booster Tray.stl
+[error]	2025-11-04 09:00:22.527124[Thread 0x00007fe2aa96a6c0]:Unable to open the file/data/Hoop Spark/Booster Mount Plate.stl
+[error]	2025-11-04 09:00:22.527135[Thread 0x00007fe1fd7fa6c0]:Unable to open the file/data/Hoop Spark/Battery Mount.stl
+[error]	2025-11-04 09:00:22.527137[Thread 0x00007fe2aa96a6c0]:Unable to open the file/data/Hoop Spark Box v2.stl
+[error]	2025-11-04 09:00:22.527151[Thread 0x00007fe2bbe99500]:Unable to open the file/data/Hoop Spark/Default Cap.stl
+[error]	2025-11-04 09:00:22.527151[Thread 0x00007fe1fd7fa6c0]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.3mf
+[error]	2025-11-04 09:00:22.527160[Thread 0x00007fe211fff6c0]:Unable to open the file/data/Hoop Spark/Spark Bottom.stl
+[warning]	2025-11-04 09:00:23.244788[Thread 0x00007fe2bbe99500]:09:00:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-04 09:00:23.258808[Thread 0x00007fe2bbe99500]:09:00:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-04 09:00:23.269257[Thread 0x00007fe2bbe99500]:09:00:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-04 09:00:23.276903[Thread 0x00007fe2bbe99500]:09:00:23 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-04 09:00:25.959312[Thread 0x00007fe2bbe99500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-04 09:00:26.025352[Thread 0x00007fe2bbe99500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-04 09:00:27.533706[Thread 0x00007fe2bbe99500]:calc_exclude_triangles:Unable to create exclude triangles

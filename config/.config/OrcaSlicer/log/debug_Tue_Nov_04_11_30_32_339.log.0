@@ -1,0 +1,25 @@
+[error]	2025-11-04 11:30:38.867574[Thread 0x00007f7225192500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-04 11:30:38.886298[Thread 0x00007f7225192500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-04 11:30:38.886324[Thread 0x00007f71677fe6c0]:Unable to open the file/data/DnMD20/2_80TRingGear(Voron).stl
+[error]	2025-11-04 11:30:38.886352[Thread 0x00007f71677fe6c0]:Unable to open the file/data/DnMD20/1_RightV3.7.stl
+[error]	2025-11-04 11:30:38.886357[Thread 0x00007f71787f86c0]:Unable to open the file/data/Hoop Spark/Charger Mountplate.stl
+[error]	2025-11-04 11:30:38.886369[Thread 0x00007f71677fe6c0]:Unable to open the file/data/DnMD20/1_Right.stl
+[error]	2025-11-04 11:30:38.886370[Thread 0x00007f7225192500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-11-04 11:30:38.886385[Thread 0x00007f71677fe6c0]:Unable to open the file/data/DnMD20/2_TensionerClampV3.stl
+[error]	2025-11-04 11:30:38.886557[Thread 0x00007f7225192500]:Unable to open the file/data/DnVD20/3_Spacer2.stl
+[error]	2025-11-04 11:30:38.886560[Thread 0x00007f71787f86c0]:Unable to open the file/data/Hoop Spark/Battery Mount.stl
+[error]	2025-11-04 11:30:38.886574[Thread 0x00007f71677fe6c0]:Unable to open the file/data/Hoop Spark/Led Mountplate.stl
+[error]	2025-11-04 11:30:38.886578[Thread 0x00007f71787f86c0]:Unable to open the file/data/Hoop Spark/Booster Mount Plate.stl
+[error]	2025-11-04 11:30:38.886591[Thread 0x00007f71677fe6c0]:Unable to open the file/data/Hoop Spark Box v2.stl
+[error]	2025-11-04 11:30:38.886596[Thread 0x00007f71787f86c0]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.3mf
+[error]	2025-11-04 11:30:38.886648[Thread 0x00007f7166ffd6c0]:Unable to open the file/data/Hoop Spark/Booster Tray.stl
+[error]	2025-11-04 11:30:38.886736[Thread 0x00007f7225192500]:Unable to open the file/data/DnMD20/E3V2 Dual Y Rail Bracket.stl
+[error]	2025-11-04 11:30:38.886783[Thread 0x00007f71787f86c0]:Unable to open the file/data/Hoop Spark/Spark Bottom.stl
+[error]	2025-11-04 11:30:38.886785[Thread 0x00007f71677fe6c0]:Unable to open the file/data/Hoop Spark/Default Cap.stl
+[warning]	2025-11-04 11:30:40.069976[Thread 0x00007f7225192500]:11:30:40 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-04 11:30:40.109637[Thread 0x00007f7225192500]:11:30:40 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-04 11:30:40.116324[Thread 0x00007f7225192500]:11:30:40 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-04 11:30:40.124173[Thread 0x00007f7225192500]:11:30:40 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-04 11:30:42.947430[Thread 0x00007f7225192500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-04 11:30:43.016106[Thread 0x00007f7225192500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-04 11:30:44.166693[Thread 0x00007f7225192500]:calc_exclude_triangles:Unable to create exclude triangles
