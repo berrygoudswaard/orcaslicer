@@ -36,3 +36,5 @@
 [error]	2025-11-04 14:48:03.806560[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
 [error]	2025-11-04 15:30:57.399050[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
 [error]	2025-11-04 15:44:43.579784[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-09 10:08:21.821723[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-09 10:09:43.050869[Thread 0x00007f298d88e500]:Unable to open the file/data/White Castle/meeple_box_v3.1.stl
