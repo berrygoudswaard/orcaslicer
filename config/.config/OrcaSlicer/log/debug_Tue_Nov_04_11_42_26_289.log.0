@@ -43,3 +43,68 @@
 [error]	2025-11-10 08:36:53.437594[Thread 0x00007f298d88e500]:Unable to open the file/data/White Castle/turn_token_box_v3.stl
 [warning]	2025-11-10 08:36:59.681929[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
 [warning]	2025-11-10 08:37:18.361782[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-11-10 20:48:32.915736[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-11-11 09:35:35.325422[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 09:35:43.137118[Thread 0x00007f298d88e500]:Unable to open the file/data/White Castle/cards_box_1_v3.stl
+[warning]	2025-11-11 09:36:09.776267[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 09:36:31.117459[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-11 09:37:19.513427[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-11 09:37:51.819996[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 09:38:47.516320[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 09:41:21.038952[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-11 09:41:29.012252[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-11 09:41:41.161256[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 09:44:15.502156[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 09:45:12.083292[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-11 09:45:19.848317[Thread 0x00007f28937ff6c0]:call_process:got cancelled exception
+[warning]	2025-11-11 09:45:26.282911[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-11 10:49:07.702381[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 10:49:18.670693[Thread 0x00007f298d88e500]:Unable to open the file/data/White Castle/cards_box_2_v3.stl
+[warning]	2025-11-11 10:49:28.184548[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 10:49:45.193206[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 10:50:42.484482[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-11 10:55:42.346787[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 10:55:49.759237[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 11:02:35.660264[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 11:03:21.931320[Thread 0x00007f298d88e500]:Unable to open the file/data/White Castle/cards_box_2_v3.stl
+[error]	2025-11-11 11:03:32.742699[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-11 11:04:30.278257[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 11:04:59.621710[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 11:05:12.009837[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 11:05:42.988100[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-11 12:10:49.812237[Thread 0x00007f28937ff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-11 16:07:03.596794[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 16:07:18.984849[Thread 0x00007f298d88e500]:Unable to open the file/data/White Castle/bridge_box_v3.1.stl
+[warning]	2025-11-11 16:07:23.752125[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-11-11 16:07:41.058239[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-11-11 16:20:51.133839[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 16:20:56.430011[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 16:25:10.205691[Thread 0x00007f298d88e500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-11-11 17:52:07.904439[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 18:17:36.927587[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-11 18:17:42.613784[Thread 0x00007f298d88e500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-11 18:18:07.798599[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 18:18:25.220241[Thread 0x00007f298d88e500]:Unable to open the file/data/White Castle/bridge_box_v3.1.stl
+[warning]	2025-11-11 18:18:38.364780[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-11-11 18:18:53.762109[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-11-11 18:22:33.856220[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-11-11 18:23:25.979065[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 18:23:30.168083[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 18:51:44.756955[Thread 0x00007f298d88e500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-11-11 19:12:48.758052[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 19:12:57.722396[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 19:13:05.610816[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 19:13:18.160444[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 19:28:48.412662[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 19:38:43.306159[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 19:41:13.249037[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 19:41:14.350223[Thread 0x00007f298d88e500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-11-11 19:41:25.632171[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-11 19:41:26.334240[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-11 19:41:26.426787[Thread 0x00007f298d88e500]:validate_preset: preset_name Polymaker ABS PolyLite, no inherit, set to not found
+[warning]	2025-11-11 19:41:26.426842[Thread 0x00007f298d88e500]:validate_presets:file_name bridge_box_v3.1.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-11 19:41:26.426860[Thread 0x00007f298d88e500]:validate_presets:file_name bridge_box_v3.1.3mf, found self defined presets, count 1
+[error]	2025-11-11 20:02:21.292331[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-11 20:02:31.303002[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":34.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[warning]	2025-11-11 20:02:42.997906[Thread 0x00007f28e37fe6c0]:Arrange full params: {"min_obj_distance":47001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-18.500000,"bed_shrink_y":-18.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":34.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-11-11 20:02:43.041617[Thread 0x00007f298d88e500]:calc_exclude_triangles:Unable to create exclude triangles

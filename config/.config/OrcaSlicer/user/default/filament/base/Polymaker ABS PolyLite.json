@@ -64,7 +64,7 @@
         "30"
     ],
     "fan_max_speed": [
-        "20"
+        "0"
     ],
     "fan_min_speed": [
         "0"
@@ -94,7 +94,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.96"
+        "0.98"
     ],
     "filament_id": "P66a7456",
     "filament_is_support": [
@@ -213,7 +213,7 @@
         "0"
     ],
     "hot_plate_temp": [
-        "105"
+        "95"
     ],
     "hot_plate_temp_initial_layer": [
         "100"
