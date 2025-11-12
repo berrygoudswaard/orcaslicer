@@ -1,0 +1,36 @@
+[error]	2025-11-12 09:59:02.344537[Thread 0x00007fe2db681500]:load_from_json: parse /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - eSun PLA+.json got a nlohmann::detail::parse_error, reason = [json.exception.parse_error.101] parse error at line 78, column 31: syntax error while parsing object - unexpected string literal; expected '}'
+[error]	2025-11-12 09:59:02.345146[Thread 0x00007fe2db681500]:parse config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - eSun PLA+.json failed
+[error]	2025-11-12 09:59:05.954362[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-12 09:59:05.979324[Thread 0x00007fe2307fc6c0]:Unable to open the file/data/White Castle/cards_box_1_v3.stl
+[error]	2025-11-12 09:59:06.026342[Thread 0x00007fe2307fc6c0]:Unable to open the file/data/White Castle/turn_token_box_v3.stl
+[error]	2025-11-12 09:59:06.026403[Thread 0x00007fe2307fc6c0]:Unable to open the file/data/White Castle/meeple_box_v3.1.stl
+[error]	2025-11-12 09:59:06.045566[Thread 0x00007fe208ff96c0]:Unable to open the file/data/DnMD20/2_TensionerClampV3.stl
+[error]	2025-11-12 09:59:06.135110[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-11-12 09:59:06.242350[Thread 0x00007fe2307fc6c0]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-12 09:59:06.246442[Thread 0x00007fe2247f86c0]:Unable to open the file/data/DnMD20/E3V2 Dual Y Rail Bracket.stl
+[error]	2025-11-12 09:59:06.246477[Thread 0x00007fe2247f86c0]:Unable to open the file/data/DnMD20/2_80TRingGear(Voron).stl
+[error]	2025-11-12 09:59:06.246491[Thread 0x00007fe2247f86c0]:Unable to open the file/data/DnMD20/1_RightV3.7.stl
+[error]	2025-11-12 09:59:06.246503[Thread 0x00007fe2247f86c0]:Unable to open the file/data/DnMD20/1_Right.stl
+[error]	2025-11-12 09:59:06.246517[Thread 0x00007fe2247f86c0]:Unable to open the file/data/White Castle/cards_box_2_v3.stl
+[error]	2025-11-12 09:59:06.294208[Thread 0x00007fe208ff96c0]:Unable to open the file/data/Hoop Spark/Led Mountplate.stl
+[error]	2025-11-12 09:59:06.414850[Thread 0x00007fe2307fc6c0]:Unable to open the file/data/DnVD20/3_Spacer2.stl
+[error]	2025-11-12 09:59:06.568880[Thread 0x00007fe2247f86c0]:Unable to open the file/data/Hoop Spark/Default Cap.stl
+[error]	2025-11-12 09:59:06.597634[Thread 0x00007fe208ff96c0]:Unable to open the file/data/Hoop Spark/Booster Tray.stl
+[error]	2025-11-12 09:59:06.626963[Thread 0x00007fe2db681500]:Unable to open the file/data/White Castle/bridge_box_v3.1.stl
+[warning]	2025-11-12 09:59:07.759779[Thread 0x00007fe2db681500]:09:59:07 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-12 09:59:07.767165[Thread 0x00007fe2db681500]:09:59:07 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-12 09:59:07.771833[Thread 0x00007fe2db681500]:09:59:07 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-12 09:59:07.776318[Thread 0x00007fe2db681500]:09:59:07 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-12 09:59:11.432989[Thread 0x00007fe2db681500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-12 09:59:13.732919[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-12 09:59:14.069993[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-12 09:59:14.080384[Thread 0x00007fe2db681500]:validate_preset: preset_name Polymaker ABS PolyLite, no inherit, set to not found
+[warning]	2025-11-12 09:59:14.080436[Thread 0x00007fe2db681500]:validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-12 09:59:14.080449[Thread 0x00007fe2db681500]:validate_presets:file_name .3mf, found self defined presets, count 1
+[error]	2025-11-12 22:43:01.496354[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-12 22:43:46.594938[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-12 23:36:12.929458[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-12 23:36:16.910814[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-12 23:36:59.879194[Thread 0x00007fe2db681500]:Unable to open the file/data/White Castle/bridge_box_v3.1.stl
+[error]	2025-11-12 23:38:45.461347[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-12 23:38:48.407678[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles

@@ -11,9 +11,7 @@
     "internal_solid_infill_line_width": "0.48",
     "is_custom_defined": "0",
     "name": "Voron 2.4 - 0.20mm - Polymaker Polylite ABS",
-    "outer_wall_acceleration": "3500",
     "outer_wall_line_width": "0.48",
-    "outer_wall_speed": "40",
     "print_sequence": "by object",
     "print_settings_id": "Voron 2.4 - 0.20mm - Polymaker Polylite ABS",
     "seam_position": "nearest",
@@ -24,7 +22,6 @@
     "support_type": "tree(auto)",
     "top_shell_layers": "5",
     "top_surface_line_width": "0.44",
-    "top_surface_speed": "120",
     "version": "2.2.0.4",
     "wall_loops": "5"
 }

@@ -213,10 +213,10 @@
         "0"
     ],
     "hot_plate_temp": [
-        "95"
+        "100"
     ],
     "hot_plate_temp_initial_layer": [
-        "100"
+        "110"
     ],
     "idle_temperature": [
         "0"
@@ -225,10 +225,10 @@
     "is_custom_defined": "0",
     "name": "Polymaker ABS PolyLite",
     "nozzle_temperature": [
-        "245"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "250"
+        "265"
     ],
     "nozzle_temperature_range_high": [
         "270"
@@ -258,7 +258,7 @@
         "0"
     ],
     "slow_down_layer_time": [
-        "3"
+        "1"
     ],
     "slow_down_min_speed": [
         "10"
