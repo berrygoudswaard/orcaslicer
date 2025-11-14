@@ -34,3 +34,34 @@
 [error]	2025-11-12 23:36:59.879194[Thread 0x00007fe2db681500]:Unable to open the file/data/White Castle/bridge_box_v3.1.stl
 [error]	2025-11-12 23:38:45.461347[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-11-12 23:38:48.407678[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-12 23:39:29.490907[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-14 11:15:46.392237[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 11:15:54.048875[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 13:18:00.513429[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 13:18:11.481098[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-14 13:39:04.775028[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 13:40:30.396915[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[warning]	2025-11-14 13:40:34.166974[Thread 0x00007fe231fff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":34.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[warning]	2025-11-14 13:40:38.944701[Thread 0x00007fe231fff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":34.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-11-14 13:40:45.233022[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 13:44:39.527576[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 13:44:44.404166[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 13:44:50.525822[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[warning]	2025-11-14 13:44:54.816471[Thread 0x00007fe231fff6c0]:Arrange full params: {"min_obj_distance":2001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-11-14 14:23:34.089766[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 14:23:36.845820[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 14:23:45.166618[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-14 14:52:21.567299[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 14:52:33.459901[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[warning]	2025-11-14 14:52:37.776587[Thread 0x00007fe231fff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":34.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-11-14 14:56:18.136479[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 14:56:19.151608[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[error]	2025-11-14 14:58:44.606061[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 14:58:45.673130[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[error]	2025-11-14 14:58:53.637176[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-14 14:59:01.245736[Thread 0x00007fe231fff6c0]:Arrange full params: {"min_obj_distance":2001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-11-14 15:28:21.848684[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 15:28:40.108089[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/30 mm cube.stl
+[error]	2025-11-14 15:49:17.768353[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-14 15:49:41.179408[Thread 0x00007fe2db681500]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.stl
+[warning]	2025-11-14 15:49:48.972199[Thread 0x00007fe231fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
