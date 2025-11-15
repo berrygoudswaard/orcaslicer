@@ -65,3 +65,9 @@
 [error]	2025-11-14 15:49:17.768353[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-11-14 15:49:41.179408[Thread 0x00007fe2db681500]:Unable to open the file/data/BFI/BFI-V2.4_Housing_x2.stl
 [warning]	2025-11-14 15:49:48.972199[Thread 0x00007fe231fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-11-14 15:50:29.771474[Thread 0x00007fe231fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-11-14 15:53:04.162579[Thread 0x00007fe2097fa6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_BFI-V2.4_Belt_Clamp_x4_ABS_2h25m
+ ^
+[error]	2025-11-15 22:15:59.895348[Thread 0x00007fe2db681500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-15 22:16:18.576723[Thread 0x00007fe2db681500]:Unable to open the file/data/Calibration/calibration_s_plug.stl
