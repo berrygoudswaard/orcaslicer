@@ -1,9 +1,9 @@
 {
     "bottom_shell_layers": "5",
     "brim_object_gap": "0.15",
-    "brim_type": "outer_only",
     "brim_width": "15",
     "elefant_foot_compensation": "0.15",
+    "enable_support": "1",
     "from": "User",
     "hole_to_polyhole": "1",
     "inherits": "0.20mm Standard @Voron",
@@ -22,6 +22,5 @@
     "top_shell_layers": "5",
     "version": "2.2.0.4",
     "wall_loops": "4",
-    "xy_contour_compensation": "0.1",
-    "xy_hole_compensation": "0.1"
+    "xy_hole_compensation": "0.2"
 }
