@@ -3,7 +3,6 @@
     "brim_object_gap": "0.15",
     "brim_width": "15",
     "elefant_foot_compensation": "0.15",
-    "enable_support": "1",
     "from": "User",
     "hole_to_polyhole": "1",
     "inherits": "0.20mm Standard @Voron",
