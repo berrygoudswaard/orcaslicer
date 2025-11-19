@@ -64,7 +64,7 @@
         "30"
     ],
     "fan_max_speed": [
-        "0"
+        "10"
     ],
     "fan_min_speed": [
         "0"
@@ -225,10 +225,10 @@
     "is_custom_defined": "0",
     "name": "Polymaker ABS PolyLite",
     "nozzle_temperature": [
-        "260"
+        "250"
     ],
     "nozzle_temperature_initial_layer": [
-        "265"
+        "255"
     ],
     "nozzle_temperature_range_high": [
         "270"
