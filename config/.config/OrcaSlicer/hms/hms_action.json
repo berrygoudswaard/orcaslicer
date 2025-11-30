@@ -2,6 +2,163 @@
     "data": [
         {
             "actions": [
+                4,
+                6
+            ],
+            "device": "039",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "030",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "22E",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "31B",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "094",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "239",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "093",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "00W",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "00M",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "03W",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "01S",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                4,
+                6
+            ],
+            "device": "01P",
+            "ecode": "03008014",
+            "image": ""
+        },
+        {
+            "actions": [
+                28,
+                27
+            ],
+            "device": "22E",
+            "ecode": "05008093",
+            "image": "https://public-cdn.bblmw.com/hms/actionimage/us/05008093/26e3cd42939e022782ecc5eee9ced240.png"
+        },
+        {
+            "actions": [
+                52
+            ],
+            "device": "093",
+            "ecode": "03002E0000030001",
+            "image": ""
+        },
+        {
+            "actions": [
+                52
+            ],
+            "device": "094",
+            "ecode": "03002E0000030001",
+            "image": ""
+        },
+        {
+            "actions": [
+                52
+            ],
+            "device": "239",
+            "ecode": "03002E0000030001",
+            "image": ""
+        },
+        {
+            "actions": [
+                52
+            ],
+            "device": "31B",
+            "ecode": "03002E0000030001",
+            "image": ""
+        },
+        {
+            "actions": [
+                52
+            ],
+            "device": "22E",
+            "ecode": "03002E0000030001",
+            "image": ""
+        },
+        {
+            "actions": [
                 11
             ],
             "device": "31B",
@@ -3070,15 +3227,6 @@
             ],
             "device": "22E",
             "ecode": "03008005",
-            "image": ""
-        },
-        {
-            "actions": [
-                28,
-                27
-            ],
-            "device": "22E",
-            "ecode": "05008093",
             "image": ""
         },
         {
@@ -11836,15 +11984,6 @@
         },
         {
             "actions": [
-                4,
-                6
-            ],
-            "device": "default",
-            "ecode": "03008014",
-            "image": ""
-        },
-        {
-            "actions": [
                 1,
                 3,
                 5
@@ -14481,5 +14620,5 @@
             "image": ""
         }
     ],
-    "version": "202511182147"
+    "version": "202511241851"
 }
