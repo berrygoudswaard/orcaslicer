@@ -17,3 +17,23 @@
 [error]	2025-12-01 00:05:59.775019[Thread 0x00007f90f07f86c0]:Unable to open the file/data/Tool Free Tensioner for Voron 2.4 Z Axis/tensioner-bracket-b.stl
 [error]	2025-12-01 00:06:00.039449[Thread 0x00007f91999b5500]:Unable to open the file/data/White Castle/bridge_box_v3.1.stl
 [error]	2025-12-01 00:06:00.062588[Thread 0x00007f90ae7fc6c0]:Unable to open the file/data/Basketball Tools/Pole Connector v1.stl
+[warning]	2025-12-01 00:06:02.696924[Thread 0x00007f91999b5500]:12:06:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-01 00:06:02.702214[Thread 0x00007f91999b5500]:12:06:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-01 00:06:02.706744[Thread 0x00007f91999b5500]:12:06:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-01 00:06:02.711675[Thread 0x00007f91999b5500]:12:06:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-01 00:06:07.947063[Thread 0x00007f91999b5500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-02 12:33:30.881704[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 12:33:34.523572[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 14:00:57.132947[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 14:01:32.355708[Thread 0x00007f91999b5500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-02 15:05:10.267864[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 15:07:32.135019[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 15:08:03.137586[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 15:08:16.506944[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 15:08:25.045028[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 15:53:44.280819[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 17:30:23.886427[Thread 0x00007f91999b5500]:Unable to open the file/data/Basketball Tools/Pole Connector v2.stl
+[error]	2025-12-02 17:33:48.531223[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-02 17:33:56.783055[Thread 0x00007f91999b5500]:Unable to open the file/data/Basketball Tools/Pole Connector v2.stl
+[error]	2025-12-02 17:36:49.475532[Thread 0x00007f91999b5500]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-02 17:37:57.273096[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,

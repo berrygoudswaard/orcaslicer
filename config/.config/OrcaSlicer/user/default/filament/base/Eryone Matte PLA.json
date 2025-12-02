@@ -24,7 +24,7 @@
         "0"
     ],
     "close_fan_the_first_x_layers": [
-        "3"
+        "1"
     ],
     "compatible_printers": [],
     "compatible_printers_condition": "",
@@ -64,10 +64,10 @@
         "100"
     ],
     "fan_max_speed": [
-        "0"
+        "100"
     ],
     "fan_min_speed": [
-        "0"
+        "100"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -94,7 +94,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "1.06"
+        "0.98"
     ],
     "filament_id": "Pec9f4cf",
     "filament_is_support": [
@@ -110,7 +110,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "9"
+        "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -228,7 +228,7 @@
         "220"
     ],
     "nozzle_temperature_initial_layer": [
-        "225"
+        "220"
     ],
     "nozzle_temperature_range_high": [
         "220"
@@ -237,7 +237,7 @@
         "190"
     ],
     "overhang_fan_speed": [
-        "70"
+        "100"
     ],
     "overhang_fan_threshold": [
         "50%"
