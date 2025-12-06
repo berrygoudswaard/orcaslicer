@@ -49,3 +49,8 @@
 [warning]	2025-12-05 13:26:43.849096[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
 [error]	2025-12-05 21:34:57.158232[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-12-05 21:35:03.564430[Thread 0x00007f91999b5500]:Unable to open the file/data/Voron/z_drive_main_b_x2.stl
+[warning]	2025-12-05 21:35:07.355792[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-06 11:53:08.500686[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-06 11:53:22.327410[Thread 0x00007f91999b5500]:Unable to open the file/data/Voron/z_drive_retainer_a_x2.stl
+[error]	2025-12-06 20:53:13.858121[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-06 20:53:21.869169[Thread 0x00007f91999b5500]:Unable to open the file/data/Voron/z_drive_retainer_b_x2.stl
