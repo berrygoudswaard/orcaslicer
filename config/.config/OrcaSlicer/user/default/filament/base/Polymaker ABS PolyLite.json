@@ -94,7 +94,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.97"
+        "0.98"
     ],
     "filament_id": "P66a7456",
     "filament_is_support": [
@@ -225,10 +225,10 @@
     "is_custom_defined": "0",
     "name": "Polymaker ABS PolyLite",
     "nozzle_temperature": [
-        "250"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "255"
+        "265"
     ],
     "nozzle_temperature_range_high": [
         "270"

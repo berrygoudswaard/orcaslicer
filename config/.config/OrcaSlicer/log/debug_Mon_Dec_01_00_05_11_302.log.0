@@ -77,3 +77,32 @@
 [error]	2025-12-07 22:00:57.854608[Thread 0x00007f91999b5500]:Unable to open the file/data/Voron/[a]_z_drive_baseplate_a_x2.stl
 [warning]	2025-12-07 22:01:05.543547[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
 [warning]	2025-12-07 22:01:14.123385[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-07 22:02:20.442630[Thread 0x00007f90aeffd6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_z_drive_baseplate_b_x2_ABS_2h27m
+ ^
+[error]	2025-12-08 08:22:05.174493[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 08:22:21.018385[Thread 0x00007f91999b5500]:Unable to open the file/data/BFI/[a]_BFI-V2.4_Front_x2.stl
+[warning]	2025-12-08 08:22:31.770878[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-08 08:23:34.148118[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 08:23:54.163815[Thread 0x00007f91999b5500]:Unable to open the file/data/BFI/[a]_BFI-V2.4_Carrier_BHCS_x2_.stl
+[error]	2025-12-08 08:24:01.562760[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 08:24:13.791732[Thread 0x00007f90aeffd6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_BFI-V2.4_Carrier_BHCS_x2__ABS_15m55s
+ ^
+[warning]	2025-12-08 09:00:25.503346[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-12-08 09:00:41.846234[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-08 09:01:34.337780[Thread 0x00007f90aeffd6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_BFI-VT_Carrier_LDO_BHCS_remix_x2_ABS_15m32s
+ ^
+[error]	2025-12-08 10:00:31.711321[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 10:00:51.988635[Thread 0x00007f91999b5500]:Unable to open the file/data/BFI/[a]_BFI-V2.4_Front_x2.stl
+[error]	2025-12-08 10:00:59.844747[Thread 0x00007f90aeffd6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_BFI-V2.4_Front_x2_ABS_11m4s
+ ^
+[error]	2025-12-08 12:21:47.103396[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 12:21:56.543456[Thread 0x00007f91999b5500]:Unable to open the file/data/Voron/[a]_z_belt_clip_upper_x4.stl
+[warning]	2025-12-08 12:22:04.762088[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-08 12:22:15.438731[Thread 0x00007f90aeffd6c0]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_z_belt_clip_upper_x4_ABS_18m9s
+ ^
+[error]	2025-12-08 16:53:50.435423[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
