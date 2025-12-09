@@ -9,8 +9,11 @@
     "manual_filament_change": "1",
     "name": "Voron 2.4 300 0.4mm nozzle",
     "nozzle_type": "hardened_steel",
-    "print_host": "http://192.168.2.74",
+    "print_host": "http://192.168.2.75",
     "printer_settings_id": "Voron 2.4 300 0.4mm nozzle",
+    "retract_when_changing_layer": [
+        "0"
+    ],
     "retraction_length": [
         "0.4"
     ],

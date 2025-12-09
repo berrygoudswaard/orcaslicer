@@ -106,3 +106,16 @@
 [a]_z_belt_clip_upper_x4_ABS_18m9s
  ^
 [error]	2025-12-08 16:53:50.435423[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 20:06:55.029286[Thread 0x00007f90d1ffb6c0]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10001 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2025-12-09 23:23:06.354043[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 23:23:37.389943[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 23:23:57.838572[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 23:24:06.557809[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 23:24:31.225679[Thread 0x00007f91999b5500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:25:04.140753[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 23:25:12.418809[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 23:25:46.685683[Thread 0x00007f91999b5500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:59:22.388287[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 23:59:45.033986[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
