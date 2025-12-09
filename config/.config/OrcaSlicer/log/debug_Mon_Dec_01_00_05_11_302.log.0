@@ -122,3 +122,8 @@ Connection timed out after 10001 milliseconds
 [error]	2025-12-09 23:59:56.626785[Thread 0x00007f91999b5500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
 [error]	2025-12-10 00:25:36.726165[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-12-10 00:39:32.580139[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 00:40:11.337596[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 00:40:32.341973[Thread 0x00007f91999b5500]:Unable to open the file/data/White Castle/money_box_lid_v3.stl
+[warning]	2025-12-10 00:40:35.840465[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-10 00:40:35.916914[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-10 00:41:24.491423[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
