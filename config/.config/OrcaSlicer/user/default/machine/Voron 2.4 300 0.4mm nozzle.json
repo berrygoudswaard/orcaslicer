@@ -8,23 +8,11 @@
     "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] MATERIAL=[filament_type] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]} INITIAL_TOOL=[initial_tool]\n",
     "manual_filament_change": "1",
     "name": "Voron 2.4 300 0.4mm nozzle",
-    "nozzle_type": "hardened_steel",
+    "nozzle_type": "brass",
     "print_host": "http://192.168.2.75",
     "printer_settings_id": "Voron 2.4 300 0.4mm nozzle",
-    "retract_when_changing_layer": [
-        "0"
-    ],
     "retraction_length": [
         "0.4"
     ],
-    "version": "2.2.0.4",
-    "wipe": [
-        "0"
-    ],
-    "wipe_distance": [
-        "0"
-    ],
-    "z_hop": [
-        "0"
-    ]
+    "version": "2.2.0.4"
 }
