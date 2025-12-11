@@ -24,14 +24,14 @@
         "0"
     ],
     "close_fan_the_first_x_layers": [
-        "3"
+        "5"
     ],
     "compatible_printers": [],
     "compatible_printers_condition": "",
     "compatible_prints": [],
     "compatible_prints_condition": "",
     "complete_print_exhaust_fan_speed": [
-        "80"
+        "0"
     ],
     "cool_plate_temp": [
         "105"
@@ -46,7 +46,7 @@
         "0"
     ],
     "during_print_exhaust_fan_speed": [
-        "60"
+        "0"
     ],
     "enable_overhang_bridge_fan": [
         "1"
@@ -64,10 +64,10 @@
         "30"
     ],
     "fan_max_speed": [
-        "35"
+        "10"
     ],
     "fan_min_speed": [
-        "35"
+        "0"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -213,7 +213,7 @@
         "0"
     ],
     "hot_plate_temp": [
-        "100"
+        "105"
     ],
     "hot_plate_temp_initial_layer": [
         "110"
@@ -255,7 +255,7 @@
         "0"
     ],
     "slow_down_for_layer_cooling": [
-        "1"
+        "0"
     ],
     "slow_down_layer_time": [
         "3"
