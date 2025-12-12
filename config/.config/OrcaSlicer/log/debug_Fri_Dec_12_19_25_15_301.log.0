@@ -1,0 +1,28 @@
+[error]	2025-12-12 19:25:29.216129[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 19:25:29.352741[Thread 0x00007f18f344c500]:Unable to open the file/data/superellipse-pen-holder.stl
+[error]	2025-12-12 19:25:29.352814[Thread 0x00007f18f344c500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-12 19:25:29.539110[Thread 0x00007f18f344c500]:Unable to open the file/data/superellipse-shell.stl
+[error]	2025-12-12 19:25:29.605886[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Voron/[a]_belt_tensioner_a_x2.stl
+[error]	2025-12-12 19:25:29.605959[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Voron/z_motor_mount_b_x2.stl
+[error]	2025-12-12 19:25:29.605973[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Voron/z_motor_mount_a_x2.stl
+[error]	2025-12-12 19:25:29.605986[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Voron/z_drive_retainer_b_x2.stl
+[error]	2025-12-12 19:25:29.605997[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Voron/z_drive_retainer_a_x2.stl
+[error]	2025-12-12 19:25:29.606009[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Voron/z_drive_main_b_x2.stl
+[error]	2025-12-12 19:25:29.606020[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Voron/z_drive_main_a_x2.stl
+[error]	2025-12-12 19:25:29.710277[Thread 0x00007f183d7fa6c0]:Unable to open the file/data/Voron/[a]_z_belt_clip_upper_x4.stl
+[error]	2025-12-12 19:25:29.904080[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Calibration/Thread_Test_2_x1_Rev1.STL
+[error]	2025-12-12 19:25:30.160587[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Basketball Tools/Pole Connector v2.stl
+[error]	2025-12-12 19:25:30.229122[Thread 0x00007f18487fc6c0]:Unable to open the file/data/BFI/[a]_BFI-V2.4_Carrier_BHCS_x2_.stl
+[error]	2025-12-12 19:25:30.245843[Thread 0x00007f183d7fa6c0]:Unable to open the file/data/BFI/[a]_BFI-V2.4_Front_x2.stl
+[error]	2025-12-12 19:25:30.309869[Thread 0x00007f183dffb6c0]:Unable to open the file/data/Voron/[a]_z_drive_baseplate_a_x2.stl
+[error]	2025-12-12 19:25:30.524892[Thread 0x00007f18f344c500]:Unable to open the file/data/White Castle/money_box_lid_v3.stl
+[error]	2025-12-12 19:25:30.571891[Thread 0x00007f18487fc6c0]:Unable to open the file/data/Voron/[a]_belt_tensioner_b_x2.stl
+[warning]	2025-12-12 19:25:33.286012[Thread 0x00007f18f344c500]:07:25:33 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-12 19:25:33.290180[Thread 0x00007f18f344c500]:07:25:33 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-12 19:25:33.294330[Thread 0x00007f18f344c500]:07:25:33 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-12 19:25:33.298922[Thread 0x00007f18f344c500]:07:25:33 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-12 19:25:39.040526[Thread 0x00007f18f344c500]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-12 19:26:19.581024[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 19:26:46.023982[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:18:29.369875[Thread 0x00007f18f344c500]:Unable to open the file/data/superellipse-shell.stl
+[warning]	2025-12-12 23:18:35.109845[Thread 0x00007f1849fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,

@@ -139,3 +139,17 @@ Connection timed out after 10001 milliseconds
 [warning]	2025-12-11 13:09:09.849809[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
 [error]	2025-12-11 20:36:20.356705[Thread 0x00007f91999b5500]:tree_sel_change_delayedcan not find page with current selection 
 [error]	2025-12-11 20:36:36.606881[Thread 0x00007f91999b5500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-12 07:54:39.915464[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 07:54:58.407798[Thread 0x00007f91999b5500]:Unable to open the file/data/superellipse-shell.stl
+[warning]	2025-12-12 07:55:47.650195[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-12 08:05:13.342800[Thread 0x00007f90aeffd6c0]:call_process:got cancelled exception
+[error]	2025-12-12 08:07:46.419201[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 08:09:33.649997[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 08:09:53.536488[Thread 0x00007f91999b5500]:Unable to open the file/data/superellipse-pen-holder.stl
+[error]	2025-12-12 08:35:06.213017[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 08:35:20.870631[Thread 0x00007f91999b5500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-12 08:52:57.178399[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 10:46:17.413788[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 15:31:13.467500[Thread 0x00007f91999b5500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 15:31:30.147644[Thread 0x00007f91999b5500]:Unable to open the file/data/superellipse-pen-holder.stl
+[warning]	2025-12-12 15:31:34.134253[Thread 0x00007f90f8ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,

@@ -1,5 +1,6 @@
 {
     "bottom_shell_layers": "5",
+    "brim_type": "outer_only",
     "brim_width": "25",
     "elefant_foot_compensation": "0.15",
     "enable_support": "1",
