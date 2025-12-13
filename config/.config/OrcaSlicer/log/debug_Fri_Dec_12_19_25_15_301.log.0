@@ -26,3 +26,23 @@
 [error]	2025-12-12 19:26:46.023982[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-12-12 23:18:29.369875[Thread 0x00007f18f344c500]:Unable to open the file/data/superellipse-shell.stl
 [warning]	2025-12-12 23:18:35.109845[Thread 0x00007f1849fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-13 17:57:33.926349[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 17:57:54.653981[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 17:58:03.890750[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 17:58:03.971409[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-13 17:58:07.009430[Thread 0x00007f18f344c500]:validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-13 17:58:07.009480[Thread 0x00007f18f344c500]:validate_presets:file_name asanoha-desk-organizer-tray.3mf, found the printer preset not inherit from system
+[warning]	2025-12-13 17:58:07.009495[Thread 0x00007f18f344c500]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2025-12-13 17:58:07.009502[Thread 0x00007f18f344c500]:validate_presets:file_name asanoha-desk-organizer-tray.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-13 17:58:07.009512[Thread 0x00007f18f344c500]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2025-12-13 17:58:07.009519[Thread 0x00007f18f344c500]:validate_presets:file_name asanoha-desk-organizer-tray.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-12-13 17:58:07.009527[Thread 0x00007f18f344c500]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2025-12-13 17:58:07.009534[Thread 0x00007f18f344c500]:validate_presets:file_name asanoha-desk-organizer-tray.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-12-13 17:58:07.009541[Thread 0x00007f18f344c500]:validate_preset: preset_name Bambu PETG Translucent @BBL X1C, no inherit, set to not found
+[warning]	2025-12-13 17:58:07.009547[Thread 0x00007f18f344c500]:validate_presets:file_name asanoha-desk-organizer-tray.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-12-13 17:58:07.009554[Thread 0x00007f18f344c500]:validate_preset: preset_name Bambu PETG HF @BBL X1C, no inherit, set to not found
+[warning]	2025-12-13 17:58:07.009561[Thread 0x00007f18f344c500]:validate_presets:file_name asanoha-desk-organizer-tray.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-12-13 17:58:07.009568[Thread 0x00007f18f344c500]:validate_preset: preset_name Bambu PLA Wood @BBL X1C, no inherit, set to not found
+[warning]	2025-12-13 17:58:07.009575[Thread 0x00007f18f344c500]:validate_presets:file_name asanoha-desk-organizer-tray.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-12-13 17:58:07.009582[Thread 0x00007f18f344c500]:validate_presets:file_name asanoha-desk-organizer-tray.3mf, found self defined presets, count 5
+[error]	2025-12-13 17:58:37.143045[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
