@@ -222,3 +222,58 @@
 [warning]	2025-12-14 23:38:02.081836[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
 [warning]	2025-12-14 23:44:23.844167[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
 [warning]	2025-12-14 23:44:23.924164[Thread 0x00007f18487fc6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:24.076532[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:24.231090[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:26.130803[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:27.455556[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:27.505836[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:27.634349[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:28.487629[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:29.261587[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:30.725583[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:31.130914[Thread 0x00007f18487fc6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:32.705229[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:32.742031[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:34.263064[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:35.068029[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:36.140702[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:38.337412[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:38.508622[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:38.601076[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:39.661585[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:41.182058[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:43.072489[Thread 0x00007f18487fc6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:43.199580[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:43.397319[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:44:43.586942[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[error]	2025-12-14 23:47:50.412609[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-14 23:56:09.925175[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:10.240620[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:10.299684[Thread 0x00007f183dffb6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:10.560243[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:11.115994[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:12.943379[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:13.002596[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:13.704867[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:14.730906[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:16.411815[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:16.758492[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:17.389196[Thread 0x00007f183dffb6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:18.654636[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:19.825981[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:20.767783[Thread 0x00007f18487fc6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:20.829643[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:23.188444[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:23.369383[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:23.661006[Thread 0x00007f183dffb6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:25.539847[Thread 0x00007f18487fc6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:26.099459[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:26.846797[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:26.924095[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:28.933052[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:29.646736[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-14 23:56:30.547680[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-12-14 23:58:43.557268[Thread 0x00007f17f62bf6c0]:call_process:got cancelled exception
+[warning]	2025-12-15 00:02:15.752451[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:16.036705[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:16.222516[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
