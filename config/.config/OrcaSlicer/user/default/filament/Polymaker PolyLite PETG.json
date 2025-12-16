@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#F6F5F4"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Polymaker PolyLite PETG"
+    ],
+    "filament_type": [
+        "PET"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Polymaker PolyLite PETG",
+    "version": "2.2.0.4"
+}

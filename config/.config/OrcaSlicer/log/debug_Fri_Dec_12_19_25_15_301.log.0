@@ -277,3 +277,42 @@
 [warning]	2025-12-15 00:02:15.752451[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
 [warning]	2025-12-15 00:02:16.036705[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
 [warning]	2025-12-15 00:02:16.222516[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:16.388768[Thread 0x00007f18487fc6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:16.908052[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:19.103025[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:20.018645[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:20.288655[Thread 0x00007f183dffb6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:20.542713[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:20.932957[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:23.160747[Thread 0x00007f17f62bf6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:23.917402[Thread 0x00007f18487fc6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:23.933154[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:24.009742[Thread 0x00007f183d7fa6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:25.074764[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:27.440321[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:27.497060[Thread 0x00007f183d7fa6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:28.295575[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:29.145489[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:29.355472[Thread 0x00007f183d7fa6c0]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:31.716990[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:32.135316[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:32.355563[Thread 0x00007f183d7fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:35.333322[Thread 0x00007f183dffb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:35.612079[Thread 0x00007f18487fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-15 00:02:35.940402[Thread 0x00007f17f62bf6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-12-16 13:51:42.948147[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-16 13:52:04.714786[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-16 13:54:25.257446[Thread 0x00007f18f344c500]:Unable to open the file/data/Hoop Spark Box V2.stl
+[warning]	2025-12-16 13:54:34.244757[Thread 0x00007f1849fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-16 13:57:42.201095[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-16 13:58:10.490620[Thread 0x00007f18f344c500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-16 14:01:57.222497[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-16 14:02:16.507178[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-16 14:03:00.469727[Thread 0x00007f18f344c500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-16 14:07:10.800472[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-16 14:07:18.836544[Thread 0x00007f18f344c500]:Unable to open the file/data/Hoop Spark Box V2.stl
+[warning]	2025-12-16 14:07:22.053483[Thread 0x00007f1849fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-16 14:29:44.286219[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-16 14:29:58.028777[Thread 0x00007f18f344c500]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-16 14:51:49.873614[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-16 14:52:13.889840[Thread 0x00007f18f344c500]:Unable to open the file/data/Hoop Spark Box V2.stl
