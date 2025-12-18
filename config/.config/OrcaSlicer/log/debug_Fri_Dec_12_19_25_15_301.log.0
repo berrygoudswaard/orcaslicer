@@ -356,3 +356,36 @@
 [error]	2025-12-17 23:45:21.340582[Thread 0x00007f18f344c500]:Unable to open the file/data/Body.stl
 [warning]	2025-12-17 23:45:26.339055[Thread 0x00007f1849fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
 [error]	2025-12-17 23:45:48.756629[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 11:34:29.510142[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 11:34:49.526375[Thread 0x00007f18f344c500]:Unable to open the file/data/Hoop Spark/Body.stl
+[warning]	2025-12-18 11:34:57.134282[Thread 0x00007f1849fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-12-18 11:37:02.276115[Thread 0x00007f1849fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-18 11:39:38.874250[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:43:39.519883[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 11:44:58.098790[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:45:02.306831[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:46:53.013971[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:46:56.101771[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:48:50.120153[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:48:54.094187[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:55:10.546364[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:55:12.096484[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 11:57:52.934953[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 12:01:00.717714[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 12:01:32.831200[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 13:23:58.013500[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 13:24:02.012813[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 13:24:24.929393[Thread 0x00007f17f62bf6c0]:call_process:got cancelled exception
+[warning]	2025-12-18 19:00:37.662566[Thread 0x00007f1849fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-18 22:58:16.043343[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 22:58:17.141661[Thread 0x00007f18f344c500]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-18 22:58:17.246512[Thread 0x00007f18f344c500]:validate_preset: preset_name eSUN Matte PLA, inherit_name eSUN PLA+, can not found preset and inherit in list
+[warning]	2025-12-18 22:58:17.246562[Thread 0x00007f18f344c500]:validate_presets:file_name Body.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-18 22:58:17.246575[Thread 0x00007f18f344c500]:validate_presets:file_name Body.3mf, found self defined presets, count 1
+[error]	2025-12-18 22:58:19.410529[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 22:58:26.411212[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 22:58:32.570202[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 22:58:34.842026[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 22:58:36.752488[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 22:58:38.587602[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-18 22:58:43.711254[Thread 0x00007f18f344c500]:tree_sel_change_delayedcan not find page with current selection 
