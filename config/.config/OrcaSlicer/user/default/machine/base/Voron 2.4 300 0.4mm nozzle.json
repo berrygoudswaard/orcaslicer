@@ -1,0 +1,18 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\n;G92 E0\nTIMELAPSE_TAKE_FRAME\n",
+    "change_filament_gcode": "PAUSE",
+    "from": "User",
+    "inherits": "Voron 2.4 300 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] MATERIAL=[filament_type] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]} INITIAL_TOOL=[initial_tool]\n",
+    "manual_filament_change": "1",
+    "name": "Voron 2.4 300 0.4mm nozzle",
+    "nozzle_type": "hardened_steel",
+    "print_host": "http://192.168.2.75",
+    "printer_settings_id": "Voron 2.4 300 0.4mm nozzle",
+    "retraction_length": [
+        "0.4"
+    ],
+    "version": "2.2.0.4"
+}

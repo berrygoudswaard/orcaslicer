@@ -1,0 +1,24 @@
+[error]	2025-12-19 09:55:58.359041[Thread 0x00007fbe9bfff6c0]:Unable to open connection to spacenavd
+[error]	2025-12-19 09:56:00.051707[Thread 0x00007fbf3c36f4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:56:00.087762[Thread 0x00007fbe9a7fc6c0]:Unable to open the file/data/bolt.stl
+[error]	2025-12-19 09:56:00.087776[Thread 0x00007fbe9a3fb6c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2025-12-19 09:56:00.087813[Thread 0x00007fbe9a7fc6c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2025-12-19 09:56:00.087866[Thread 0x00007fbf3c36f4c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2025-12-19 09:56:00.087874[Thread 0x00007fbe9a7fc6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-19 09:56:00.087978[Thread 0x00007fbe9a3fb6c0]:Unable to open the file/data/Body.stl
+[error]	2025-12-19 09:56:00.088022[Thread 0x00007fbf3c36f4c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2025-12-19 09:56:00.088030[Thread 0x00007fbe9a7fc6c0]:Unable to open the file/data/Hoop Spark Box V2.stl
+[error]	2025-12-19 09:56:00.088083[Thread 0x00007fbf110216c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2025-12-19 09:56:00.088126[Thread 0x00007fbe9a3fb6c0]:Unable to open the file/data/screw.stl
+[error]	2025-12-19 09:56:00.088175[Thread 0x00007fbe9a7fc6c0]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[error]	2025-12-19 09:56:00.088180[Thread 0x00007fbf3c36f4c0]:Unable to open the file/data/Multiboard/11x11 MU Bottom Left Corner - Multiboard Border Tile.stl
+[error]	2025-12-19 09:56:00.088236[Thread 0x00007fbe9a7fc6c0]:Unable to open the file/data/Gravitrax/Ring.stl
+[error]	2025-12-19 09:56:00.088240[Thread 0x00007fbf110216c0]:Unable to open the file/data/Voron/Nozzle Removal Tool grip V2.stl
+[error]	2025-12-19 09:56:00.088280[Thread 0x00007fbe9a3fb6c0]:Unable to open the file/data/Multiboard/11x11 MU Single - Multiboard Border Tile.stl
+[warning]	2025-12-19 09:56:01.147949[Thread 0x00007fbf3c36f4c0]:09:56:01 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:56:01.153905[Thread 0x00007fbf3c36f4c0]:09:56:01 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:56:01.159963[Thread 0x00007fbf3c36f4c0]:09:56:01 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:56:01.168850[Thread 0x00007fbf3c36f4c0]:09:56:01 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-19 09:56:04.223805[Thread 0x00007fbf3c36f4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 09:56:04.287945[Thread 0x00007fbf3c36f4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-19 09:56:11.705408[Thread 0x00007fbf3c36f4c0]:calc_exclude_triangles:Unable to create exclude triangles

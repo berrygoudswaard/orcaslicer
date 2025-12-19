@@ -1,0 +1,28 @@
+{
+    "change_filament_gcode": "PAUSE",
+    "deretraction_speed": [
+        "30"
+    ],
+    "from": "User",
+    "inherits": "Creality Ender-3 V2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_pause_gcode": "PAUSE",
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] MATERIAL=[filament_type] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]} INITIAL_TOOL=[initial_tool]\n",
+    "name": "Creality Ender3 V2 0.4 nozzle",
+    "print_host": "http://192.168.2.73",
+    "printer_settings_id": "Creality Ender3 V2 0.4 nozzle",
+    "retraction_length": [
+        "0.4"
+    ],
+    "retraction_minimum_travel": [
+        "1"
+    ],
+    "retraction_speed": [
+        "30"
+    ],
+    "version": "2.2.0.4",
+    "z_hop": [
+        "0.2"
+    ]
+}

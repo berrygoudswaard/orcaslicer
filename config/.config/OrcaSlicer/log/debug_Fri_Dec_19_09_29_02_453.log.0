@@ -1,0 +1,28 @@
+[error]	2025-12-19 09:29:10.312459[Thread 0x00007ff4460346c0]:Unable to open connection to spacenavd
+[error]	2025-12-19 09:29:11.974449[Thread 0x00007ff4dfb1a4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:29:12.008415[Thread 0x00007ff433fff6c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2025-12-19 09:29:12.008505[Thread 0x00007ff4dfb1a4c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2025-12-19 09:29:12.048214[Thread 0x00007ff433bfe6c0]:Unable to open the file/data/Body.stl
+[error]	2025-12-19 09:29:12.076443[Thread 0x00007ff433bfe6c0]:Unable to open the file/data/screw.stl
+[error]	2025-12-19 09:29:12.084623[Thread 0x00007ff4447306c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2025-12-19 09:29:12.115280[Thread 0x00007ff433fff6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-19 09:29:12.153104[Thread 0x00007ff4dfb1a4c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2025-12-19 09:29:12.168898[Thread 0x00007ff4447306c0]:Unable to open the file/data/Voron/Nozzle Removal Tool grip V2.stl
+[error]	2025-12-19 09:29:12.174120[Thread 0x00007ff433bfe6c0]:Unable to open the file/data/bolt.stl
+[error]	2025-12-19 09:29:12.198839[Thread 0x00007ff433bfe6c0]:Unable to open the file/data/Multiboard/11x11 MU Single - Multiboard Border Tile.stl
+[error]	2025-12-19 09:29:12.209995[Thread 0x00007ff433bfe6c0]:Unable to open the file/data/Gravitrax/Ring.stl
+[error]	2025-12-19 09:29:12.231515[Thread 0x00007ff4dfb1a4c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2025-12-19 09:29:12.300433[Thread 0x00007ff433fff6c0]:Unable to open the file/data/Hoop Spark Box V2.stl
+[error]	2025-12-19 09:29:12.334628[Thread 0x00007ff4447306c0]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[error]	2025-12-19 09:29:12.349163[Thread 0x00007ff433bfe6c0]:Unable to open the file/data/Gravitrax/Looping+with+slope+easy+print.stl
+[error]	2025-12-19 09:29:12.375049[Thread 0x00007ff4dfb1a4c0]:Unable to open the file/data/Multiboard/11x11 MU Bottom Left Corner - Multiboard Border Tile.stl
+[warning]	2025-12-19 09:29:13.317938[Thread 0x00007ff4dfb1a4c0]:09:29:13 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:29:13.323970[Thread 0x00007ff4dfb1a4c0]:09:29:13 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:29:13.331020[Thread 0x00007ff4dfb1a4c0]:09:29:13 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:29:13.338210[Thread 0x00007ff4dfb1a4c0]:09:29:13 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-19 09:29:16.505780[Thread 0x00007ff4dfb1a4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 09:29:16.570027[Thread 0x00007ff4dfb1a4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-19 09:29:22.187185[Thread 0x00007ff4dfb1a4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:29:22.615649[Thread 0x00007ff4dfb1a4c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[warning]	2025-12-19 09:29:42.513025[Thread 0x00007ff45cff76c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-19 09:36:24.111562[Thread 0x00007ff4dfb1a4c0]:calc_exclude_triangles:Unable to create exclude triangles

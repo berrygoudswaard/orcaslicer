@@ -1,0 +1,24 @@
+[error]	2025-12-19 09:53:59.299283[Thread 0x00007f40520346c0]:Unable to open connection to spacenavd
+[error]	2025-12-19 09:54:01.559736[Thread 0x00007f40eb81f4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:54:01.805384[Thread 0x00007f403fbfe6c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2025-12-19 09:54:01.919911[Thread 0x00007f403ffff6c0]:Unable to open the file/data/bolt.stl
+[error]	2025-12-19 09:54:01.919971[Thread 0x00007f403ffff6c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2025-12-19 09:54:01.920017[Thread 0x00007f403ffff6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-19 09:54:01.957243[Thread 0x00007f405042d6c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2025-12-19 09:54:02.000446[Thread 0x00007f40eb81f4c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2025-12-19 09:54:02.109017[Thread 0x00007f403fbfe6c0]:Unable to open the file/data/Body.stl
+[error]	2025-12-19 09:54:02.269711[Thread 0x00007f405042d6c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2025-12-19 09:54:02.271043[Thread 0x00007f40eb81f4c0]:Unable to open the file/data/screw.stl
+[error]	2025-12-19 09:54:02.385704[Thread 0x00007f403fbfe6c0]:Unable to open the file/data/Multiboard/11x11 MU Bottom Left Corner - Multiboard Border Tile.stl
+[error]	2025-12-19 09:54:02.387878[Thread 0x00007f403ffff6c0]:Unable to open the file/data/Hoop Spark Box V2.stl
+[error]	2025-12-19 09:54:02.439178[Thread 0x00007f403ffff6c0]:Unable to open the file/data/Gravitrax/Ring.stl
+[error]	2025-12-19 09:54:02.481707[Thread 0x00007f405042d6c0]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[error]	2025-12-19 09:54:02.536373[Thread 0x00007f40eb81f4c0]:Unable to open the file/data/Multiboard/11x11 MU Single - Multiboard Border Tile.stl
+[error]	2025-12-19 09:54:02.682835[Thread 0x00007f403fbfe6c0]:Unable to open the file/data/Voron/Nozzle Removal Tool grip V2.stl
+[warning]	2025-12-19 09:54:03.538450[Thread 0x00007f40eb81f4c0]:09:54:03 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:54:03.544397[Thread 0x00007f40eb81f4c0]:09:54:03 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:54:03.554400[Thread 0x00007f40eb81f4c0]:09:54:03 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:54:03.575472[Thread 0x00007f40eb81f4c0]:09:54:03 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-19 09:54:06.787330[Thread 0x00007f40eb81f4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 09:54:06.856560[Thread 0x00007f40eb81f4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-19 09:54:31.401285[Thread 0x00007f40eb81f4c0]:calc_exclude_triangles:Unable to create exclude triangles

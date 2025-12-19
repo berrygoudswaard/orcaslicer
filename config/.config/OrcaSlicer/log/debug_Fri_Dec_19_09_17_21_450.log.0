@@ -1,0 +1,25 @@
+[error]	2025-12-19 09:17:31.612654[Thread 0x00007f363c82f6c0]:Unable to open connection to spacenavd
+[error]	2025-12-19 09:17:33.355996[Thread 0x00007f36c071c4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:17:33.457851[Thread 0x00007f3601ffb6c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2025-12-19 09:17:33.500127[Thread 0x00007f36c071c4c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2025-12-19 09:17:33.591402[Thread 0x00007f361c7f86c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2025-12-19 09:17:33.661240[Thread 0x00007f3601bfa6c0]:Unable to open the file/data/Voron/Nozzle Removal Tool grip V2.stl
+[error]	2025-12-19 09:17:33.696617[Thread 0x00007f3601ffb6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-19 09:17:33.714251[Thread 0x00007f361c7f86c0]:Unable to open the file/data/Body.stl
+[error]	2025-12-19 09:17:33.762745[Thread 0x00007f36c071c4c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2025-12-19 09:17:33.861839[Thread 0x00007f36c071c4c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2025-12-19 09:17:33.892852[Thread 0x00007f3601bfa6c0]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[error]	2025-12-19 09:17:33.942426[Thread 0x00007f361c7f86c0]:Unable to open the file/data/screw.stl
+[error]	2025-12-19 09:17:34.011386[Thread 0x00007f36c071c4c0]:Unable to open the file/data/Multiboard/11x11 MU Single - Multiboard Border Tile.stl
+[error]	2025-12-19 09:17:34.042662[Thread 0x00007f36c071c4c0]:Unable to open the file/data/Gravitrax/Ring.stl
+[error]	2025-12-19 09:17:34.182801[Thread 0x00007f3601ffb6c0]:Unable to open the file/data/Hoop Spark Box V2.stl
+[error]	2025-12-19 09:17:34.231566[Thread 0x00007f361c7f86c0]:Unable to open the file/data/bolt.stl
+[error]	2025-12-19 09:17:34.249081[Thread 0x00007f36c071c4c0]:Unable to open the file/data/Gravitrax/Looping+with+slope+easy+print.stl
+[error]	2025-12-19 09:17:34.265734[Thread 0x00007f3601bfa6c0]:Unable to open the file/data/Multiboard/11x11 MU Bottom Left Corner - Multiboard Border Tile.stl
+[warning]	2025-12-19 09:17:35.433252[Thread 0x00007f36c071c4c0]:09:17:35 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:17:35.462455[Thread 0x00007f36c071c4c0]:09:17:35 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:17:35.478330[Thread 0x00007f36c071c4c0]:09:17:35 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:17:35.648783[Thread 0x00007f36c071c4c0]:09:17:35 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-19 09:17:38.822838[Thread 0x00007f36c071c4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 09:17:38.888693[Thread 0x00007f36c071c4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-19 09:17:53.036061[Thread 0x00007f36c071c4c0]:calc_exclude_triangles:Unable to create exclude triangles

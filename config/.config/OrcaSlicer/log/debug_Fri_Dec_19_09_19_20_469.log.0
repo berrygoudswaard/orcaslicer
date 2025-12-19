@@ -1,0 +1,26 @@
+[error]	2025-12-19 09:19:28.799747[Thread 0x00007f1a890326c0]:Unable to open connection to spacenavd
+[error]	2025-12-19 09:19:30.692758[Thread 0x00007f1b22fcc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:19:30.724161[Thread 0x00007f1b22fcc4c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2025-12-19 09:19:30.724184[Thread 0x00007f1a7b3fd6c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2025-12-19 09:19:30.724238[Thread 0x00007f1a7b3fd6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-19 09:19:30.724340[Thread 0x00007f1b22fcc4c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2025-12-19 09:19:30.724393[Thread 0x00007f1a7b3fd6c0]:Unable to open the file/data/Hoop Spark Box V2.stl
+[error]	2025-12-19 09:19:30.724495[Thread 0x00007f1b22fcc4c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2025-12-19 09:19:30.724521[Thread 0x00007f1a7b7fe6c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2025-12-19 09:19:30.724548[Thread 0x00007f1a7b3fd6c0]:Unable to open the file/data/Multiboard/11x11 MU Bottom Left Corner - Multiboard Border Tile.stl
+[error]	2025-12-19 09:19:30.724676[Thread 0x00007f1a7b7fe6c0]:Unable to open the file/data/Body.stl
+[error]	2025-12-19 09:19:30.724698[Thread 0x00007f1a7b3fd6c0]:Unable to open the file/data/Voron/Nozzle Removal Tool grip V2.stl
+[error]	2025-12-19 09:19:30.724836[Thread 0x00007f1b22fcc4c0]:Unable to open the file/data/screw.stl
+[error]	2025-12-19 09:19:30.724844[Thread 0x00007f1a7b7fe6c0]:Unable to open the file/data/Multiboard/11x11 MU Single - Multiboard Border Tile.stl
+[error]	2025-12-19 09:19:30.724845[Thread 0x00007f1a7b3fd6c0]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[error]	2025-12-19 09:19:30.724913[Thread 0x00007f1a7b7fe6c0]:Unable to open the file/data/Gravitrax/Ring.stl
+[error]	2025-12-19 09:19:30.724984[Thread 0x00007f1b22fcc4c0]:Unable to open the file/data/bolt.stl
+[error]	2025-12-19 09:19:30.725014[Thread 0x00007f1a7b3fd6c0]:Unable to open the file/data/Gravitrax/Looping+with+slope+easy+print.stl
+[warning]	2025-12-19 09:19:31.709967[Thread 0x00007f1b22fcc4c0]:09:19:31 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:19:31.737278[Thread 0x00007f1b22fcc4c0]:09:19:31 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:19:31.743337[Thread 0x00007f1b22fcc4c0]:09:19:31 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:19:31.751772[Thread 0x00007f1b22fcc4c0]:09:19:31 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-19 09:19:35.275087[Thread 0x00007f1b22fcc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 09:19:35.339937[Thread 0x00007f1b22fcc4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-19 09:19:36.289136[Thread 0x00007f1b22fcc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:19:36.760659[Thread 0x00007f1b22fcc4c0]:Unable to open the file/data/Hoop Spark/LED Window.stl

@@ -1,0 +1,55 @@
+[error]	2025-12-19 09:58:29.992661[Thread 0x00007fa391ff96c0]:Unable to open connection to spacenavd
+[error]	2025-12-19 09:58:32.008988[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:58:32.098089[Thread 0x00007fa36bfff6c0]:Unable to open the file/data/bolt.stl
+[error]	2025-12-19 09:58:32.098126[Thread 0x00007fa36bfff6c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2025-12-19 09:58:32.098164[Thread 0x00007fa36bfff6c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2025-12-19 09:58:32.098255[Thread 0x00007fa36bbfe6c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2025-12-19 09:58:32.098317[Thread 0x00007fa36bfff6c0]:Unable to open the file/data/Hoop Spark Box V2.stl
+[error]	2025-12-19 09:58:32.098346[Thread 0x00007fa41603b4c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2025-12-19 09:58:32.098415[Thread 0x00007fa36bbfe6c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2025-12-19 09:58:32.098474[Thread 0x00007fa36bfff6c0]:Unable to open the file/data/Multiboard/11x11 MU Bottom Left Corner - Multiboard Border Tile.stl
+[error]	2025-12-19 09:58:32.098503[Thread 0x00007fa41603b4c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2025-12-19 09:58:32.098569[Thread 0x00007fa36bbfe6c0]:Unable to open the file/data/Body.stl
+[error]	2025-12-19 09:58:32.098581[Thread 0x00007fa3907f66c0]:Unable to open the file/data/screw.stl
+[error]	2025-12-19 09:58:32.098646[Thread 0x00007fa41603b4c0]:Unable to open the file/data/Calibration/Dimension Accuracy.stl
+[error]	2025-12-19 09:58:32.098650[Thread 0x00007fa3907f66c0]:Unable to open the file/data/Gravitrax/Ring.stl
+[error]	2025-12-19 09:58:32.098706[Thread 0x00007fa36bfff6c0]:Unable to open the file/data/Voron/Nozzle Removal Tool grip V2.stl
+[error]	2025-12-19 09:58:32.098860[Thread 0x00007fa36bbfe6c0]:Unable to open the file/data/Multiboard/11x11 MU Single - Multiboard Border Tile.stl
+[warning]	2025-12-19 09:58:33.486287[Thread 0x00007fa41603b4c0]:09:58:33 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:58:33.493292[Thread 0x00007fa41603b4c0]:09:58:33 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:58:33.499558[Thread 0x00007fa41603b4c0]:09:58:33 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-19 09:58:33.505811[Thread 0x00007fa41603b4c0]:09:58:33 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-19 09:58:37.052710[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 09:58:37.118702[Thread 0x00007fa41603b4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-19 10:06:18.503739[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 10:06:41.455913[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 10:06:43.015617[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 10:06:43.211440[Thread 0x00007fa41603b4c0]:validate_preset: preset_name Polymaker PolyLite PETG, no inherit, set to not found
+[warning]	2025-12-19 10:06:43.211499[Thread 0x00007fa41603b4c0]:validate_presets:file_name LED Window.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-19 10:06:43.211514[Thread 0x00007fa41603b4c0]:validate_presets:file_name LED Window.3mf, found self defined presets, count 1
+[error]	2025-12-19 10:35:10.477837[Thread 0x00007fa41603b4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-19 12:05:24.387781[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 12:06:31.388082[Thread 0x00007fa3e17fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-19 12:19:02.775886[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 12:19:07.812973[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 12:19:09.313335[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 12:19:09.653882[Thread 0x00007fa41603b4c0]:validate_preset: preset_name eSUN Matte PLA, inherit_name eSUN PLA+, can not found preset and inherit in list
+[warning]	2025-12-19 12:19:09.653932[Thread 0x00007fa41603b4c0]:validate_presets:file_name Legs.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-19 12:19:09.653948[Thread 0x00007fa41603b4c0]:validate_presets:file_name Legs.3mf, found self defined presets, count 1
+[error]	2025-12-19 12:19:12.483812[Thread 0x00007fa41603b4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-19 12:19:14.076136[Thread 0x00007fa41603b4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-19 12:19:19.414858[Thread 0x00007fa41603b4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-19 12:19:20.229017[Thread 0x00007fa41603b4c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-19 12:19:27.105671[Thread 0x00007fa3e17fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-19 12:19:35.611056[Thread 0x00007fa41603b4c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-19 12:22:56.451431[Thread 0x00007fa3e17fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-19 13:09:13.889103[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 13:10:03.074385[Thread 0x00007fa3e17fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2025-12-19 13:10:14.542602[Thread 0x00007fa3e17fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-19 16:40:31.246335[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 16:41:04.996655[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 16:41:07.119677[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 16:41:07.356165[Thread 0x00007fa41603b4c0]:validate_preset: preset_name Polymaker PolyLite PETG, no inherit, set to not found
+[warning]	2025-12-19 16:41:07.356210[Thread 0x00007fa41603b4c0]:validate_presets:file_name LED Window.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-19 16:41:07.356222[Thread 0x00007fa41603b4c0]:validate_presets:file_name LED Window.3mf, found self defined presets, count 1
+[error]	2025-12-19 22:40:04.579300[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles

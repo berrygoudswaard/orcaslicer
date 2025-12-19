@@ -703,7 +703,7 @@
             },
             {
                 "ecode": "03008019",
-                "intro": "No build plate is placed."
+                "intro": "Build plate not detected. Please ensure there are no bulges or debris on the plate and that the nozzle is clean."
             },
             {
                 "ecode": "05004033",
@@ -1956,12 +1956,124 @@
             {
                 "ecode": "05004057",
                 "intro": "The filament selected in the slicer requires a harder nozzle. Please replace the nozzle or adjust the filament settings before reprinting."
+            },
+            {
+                "ecode": "05024027",
+                "intro": "The current AMS does not support drying while printing. Please connect to the network and update the AMS firmware on the “Firmware” page."
+            },
+            {
+                "ecode": "0500C04F",
+                "intro": "The AMS is drying and cannot perform this operation at the moment."
+            },
+            {
+                "ecode": "0500C04D",
+                "intro": "The device is currently in laser or cutting mode and cannot start drying. Please do not initiate the drying process."
+            },
+            {
+                "ecode": "0500C04B",
+                "intro": "Filament in AMS outlet, the high drying temperature may cause AMS blockage. Drying cannot be started. Please unload the filament first."
+            },
+            {
+                "ecode": "0500C04C",
+                "intro": "The AMS is currently drying. Please do not start the process again."
+            },
+            {
+                "ecode": "0500C04A",
+                "intro": "AMS is calibrating, reading RFID or loading/unloading material, unable to initiate drying process, please wait."
+            },
+            {
+                "ecode": "0500C04E",
+                "intro": "Please connect a power adapter to the AMS-HT before starting the drying process."
+            },
+            {
+                "ecode": "05004095",
+                "intro": "No print plate detected. Please place it correctly and recalibrate."
             }
         ],
-        "ver": 202512101744
+        "ver": 202512171220
     },
     "device_hms": {
         "en": [
+            {
+                "ecode": "1804200000020025",
+                "intro": "AMS-HT E slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1804210000020025",
+                "intro": "AMS-HT E slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0707210000020025",
+                "intro": "AMS H slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0703230000020025",
+                "intro": "AMS D slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1803200000020025",
+                "intro": "AMS-HT D slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0703210000020025",
+                "intro": "AMS D slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1801200000020025",
+                "intro": "AMS-HT B slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0700230000020025",
+                "intro": "AMS A slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1806230000020025",
+                "intro": "AMS-HT G slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0703220000020025",
+                "intro": "AMS D slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1805210000020025",
+                "intro": "AMS-HT F slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0700200000020025",
+                "intro": "AMS A slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1801220000020025",
+                "intro": "AMS-HT B slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1802220000020025",
+                "intro": "AMS-HT C slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0704210000020025",
+                "intro": "AMS E slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1800210000020025",
+                "intro": "AMS-HT A slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1804230000020025",
+                "intro": "AMS-HT E slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1802210000020025",
+                "intro": "AMS-HT C slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0706200000020025",
+                "intro": "AMS G slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0702200000020025",
+                "intro": "AMS C slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
             {
                 "ecode": "1802230000020025",
                 "intro": "AMS-HT C slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
@@ -3151,6 +3263,106 @@
                 "intro": "Temperature sensor 1 on the AMS-HT A heater has malfunctioned, resulting in abnormal temperature readings."
             },
             {
+                "ecode": "0706220000010083",
+                "intro": "Failed to read the filament information from AMS G slot 3. The RFID tag may be damaged."
+            },
+            {
+                "ecode": "1805200000020002",
+                "intro": "AMS-HT F Slot 1 is empty; please insert a new filament."
+            },
+            {
+                "ecode": "0700220000020021",
+                "intro": "AMS A slot 3 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
+            },
+            {
+                "ecode": "1804230000020016",
+                "intro": "AMS-HT E slot 4 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
+            },
+            {
+                "ecode": "0703200000020016",
+                "intro": "AMS D slot 1 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
+            },
+            {
+                "ecode": "0707230000020024",
+                "intro": "AMS H slot 4 failed to rotate the filament spool when pulling filament back to AMS."
+            },
+            {
+                "ecode": "1801230000020007",
+                "intro": "AMS-HT B Slot 4 feed-out Hall sensor is disconnected. The connector may have poor contact."
+            },
+            {
+                "ecode": "0500030000020016",
+                "intro": ""
+            },
+            {
+                "ecode": "0703200000020005",
+                "intro": "AMS D Slot 1 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
+            },
+            {
+                "ecode": "0706810000010001",
+                "intro": "AMS G Heater 2, heater malfunction or abnormal current sensor detected."
+            },
+            {
+                "ecode": "1801010000020011",
+                "intro": "AMS-HT B The motor assist parameter is lost. Please pull out the filament from the filament hub and then restart the AMS."
+            },
+            {
+                "ecode": "0700220000020019",
+                "intro": "AMS A slot 3 assist motor is stalled，due to excessive resistance in the tube between AMS and the filament buffer."
+            },
+            {
+                "ecode": "0705230000020005",
+                "intro": "AMS F Slot 4 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
+            },
+            {
+                "ecode": "0700220000020014",
+                "intro": "AMS A slot 3 filament odometer has no signal, which may be due to poor contact in the odometer connector or a odometer fault."
+            },
+            {
+                "ecode": "0700210000020016",
+                "intro": "AMS A slot 2 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
+            },
+            {
+                "ecode": "0702230000020013",
+                "intro": "AMS C slot 4 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
+            },
+            {
+                "ecode": "1806210000020012",
+                "intro": "AMS-HT G slot 2 feeder unit motor is stalled, cannot rotate the spool."
+            },
+            {
+                "ecode": "0705910000010002",
+                "intro": "AMS F The coil resistance of exhaust valve 2 is abnormal, which may be due to abnormal wiring or damage."
+            },
+            {
+                "ecode": "0705220000030002",
+                "intro": "AMS F Slot 3 filament has run out and automatically switched to the slot with the same filament."
+            },
+            {
+                "ecode": "1803200000010085",
+                "intro": "Failed to read the filament information from AMS-HT D slot 1. RFID tag verification failed. You can try to use Bambu Lab filament."
+            },
+            {
+                "ecode": "0705230000020009",
+                "intro": "Failed to extrude AMS F Slot 4 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
+            },
+            {
+                "ecode": "0701230000020005",
+                "intro": "AMS B Slot 4 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
+            },
+            {
+                "ecode": "0705930000020002",
+                "intro": "AMS F The cooling fan speed of heater 2 is too low, which could be due to excessive fan resistance."
+            },
+            {
+                "ecode": "1804130000020004",
+                "intro": "AMS-HT E The brushed motor 4 has no signal, which may be due to poor contact in the motor connector or a motor fault."
+            },
+            {
+                "ecode": "0703200000020024",
+                "intro": "AMS D slot 1 failed to rotate the filament spool when pulling filament back to AMS."
+            },
+            {
                 "ecode": "1803230000020015",
                 "intro": "AMS-HT D slot 4 filament status is abnormal, which may be due to a filament breakage inside the AMS."
             },
@@ -3480,7 +3692,7 @@
             },
             {
                 "ecode": "0700810000010001",
-                "intro": "AMS A The current sensor of heater 2 is abnormal."
+                "intro": "AMS A Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1801210000010083",
@@ -4220,7 +4432,7 @@
             },
             {
                 "ecode": "1801810000010001",
-                "intro": "AMS-HT B The current sensor of heater 2 is abnormal."
+                "intro": "AMS-HT B Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0702010000020010",
@@ -4280,7 +4492,7 @@
             },
             {
                 "ecode": "0701800000010001",
-                "intro": "AMS B The current sensor of heater 1 is abnormal."
+                "intro": "AMS B Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1801220000010081",
@@ -4916,7 +5128,7 @@
             },
             {
                 "ecode": "1800810000010001",
-                "intro": "AMS-HT A The current sensor of heater 2 is abnormal."
+                "intro": "AMS-HT A Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0707010000010001",
@@ -5792,7 +6004,7 @@
             },
             {
                 "ecode": "0500030000010025",
-                "intro": "The current firmware is abnormal. Please go to the “Firmware” page to update."
+                "intro": "The current firmware version is abnormal and printing cannot start. Please ensure the printer is connected to the network and go to the “Firmware” page to update."
             },
             {
                 "ecode": "1800120000010003",
@@ -6268,7 +6480,7 @@
             },
             {
                 "ecode": "0707800000010001",
-                "intro": "AMS H The current sensor of heater 1 is abnormal."
+                "intro": "AMS H Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1800230000020014",
@@ -6960,7 +7172,7 @@
             },
             {
                 "ecode": "1804800000010001",
-                "intro": "AMS-HT E The current sensor of heater 1 is abnormal."
+                "intro": "AMS-HT E Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1806230000010086",
@@ -8124,7 +8336,7 @@
             },
             {
                 "ecode": "0700800000010001",
-                "intro": "AMS A The current sensor of heater 1 is abnormal."
+                "intro": "AMS A Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1805210000020017",
@@ -8152,7 +8364,7 @@
             },
             {
                 "ecode": "1802800000010001",
-                "intro": "AMS-HT C The current sensor of heater 1 is abnormal."
+                "intro": "AMS-HT C Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0300110000020001",
@@ -8245,98 +8457,6 @@
             {
                 "ecode": "1803700000020004",
                 "intro": "Failed to pull back the filament from the toolhead to AMS-HT. Possible cause: filament or spool stuck."
-            },
-            {
-                "ecode": "0706120000020002",
-                "intro": "The AMS G slot 3 motor is overloaded. The filament may be tangled or stuck."
-            },
-            {
-                "ecode": "1806200000020001",
-                "intro": "AMS-HT G Slot 1 filament has run out. Please insert a new filament."
-            },
-            {
-                "ecode": "1801230000020015",
-                "intro": "AMS-HT B slot 4 filament status is abnormal, which may be due to a filament breakage inside the AMS."
-            },
-            {
-                "ecode": "0583050000010010",
-                "intro": "The firmware of AMS-HT D does not match the printer. Please upgrade it on the \"Firmware\" page."
-            },
-            {
-                "ecode": "0701200000020023",
-                "intro": "AMS B slot 1 the tube inside the AMS is broken, or feed-out hall sensor is faulty and cannot detect the filament."
-            },
-            {
-                "ecode": "0700200000010084",
-                "intro": "Failed to read the filament information from AMS A slot 1. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "0701220000010082",
-                "intro": "Failed to read the filament information from AMS B slot 3. A non-official RFID tag was detected. You can try to use Bambu Lab filament."
-            },
-            {
-                "ecode": "1800220000030001",
-                "intro": "AMS-HT A Slot 3 filament has run out. Please wait while old filament is purged."
-            },
-            {
-                "ecode": "0701200000020007",
-                "intro": "AMS B Slot 1 feed-out Hall sensor is disconnected. The connector may have poor contact."
-            },
-            {
-                "ecode": "1801810000010004",
-                "intro": "AMS-HT B The heater 2 is heating abnormally."
-            },
-            {
-                "ecode": "1802210000020010",
-                "intro": "AMS-HT C slot 2 feeds filament out of AMS timeout."
-            },
-            {
-                "ecode": "0707200000020009",
-                "intro": "Failed to extrude AMS H Slot 1 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
-            },
-            {
-                "ecode": "0C00010000020015",
-                "intro": ""
-            },
-            {
-                "ecode": "0702010000020009",
-                "intro": "AMS C The assist motor has unbalanced tree-phase resistaance. The assist motor may be faulty."
-            },
-            {
-                "ecode": "1800920000020002",
-                "intro": "AMS-HT A The cooling fan speed of heater 1 is too low, which could be due to excessive fan resistance."
-            },
-            {
-                "ecode": "1803500000020001",
-                "intro": "AMS-HT D communication is abnormal; please check the connection cable."
-            },
-            {
-                "ecode": "1804220000010084",
-                "intro": "Failed to read the filament information from AMS-HT E slot 3. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "1805600000020001",
-                "intro": "The AMS-HT F Slot 1 is overloaded. The filament may be tangled or the filament buffer may be stuck."
-            },
-            {
-                "ecode": "0702910000010003",
-                "intro": "AMS C The exhaust valve 2 is not connected, which may be due to poor connector contact."
-            },
-            {
-                "ecode": "1807110000020004",
-                "intro": "AMS-HT H The brushed motor 2 has no signal, which may be due to poor contact in the motor connector or a motor fault."
-            },
-            {
-                "ecode": "0701810000010001",
-                "intro": "AMS B The current sensor of heater 2 is abnormal."
-            },
-            {
-                "ecode": "0700220000020013",
-                "intro": "AMS A slot 3 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
-            },
-            {
-                "ecode": "1806220000010083",
-                "intro": "Failed to read the filament information from AMS-HT G slot 3. The RFID tag may be damaged."
             },
             {
                 "ecode": "1800120000010001",
@@ -8800,7 +8920,7 @@
             },
             {
                 "ecode": "0704810000010001",
-                "intro": "AMS E The current sensor of heater 2 is abnormal."
+                "intro": "AMS E Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0707230000020020",
@@ -9268,7 +9388,7 @@
             },
             {
                 "ecode": "1804810000010001",
-                "intro": "AMS-HT E The current sensor of heater 2 is abnormal."
+                "intro": "AMS-HT E Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0706210000010081",
@@ -9516,7 +9636,7 @@
             },
             {
                 "ecode": "1805800000010001",
-                "intro": "AMS-HT F The current sensor of heater 1 is abnormal."
+                "intro": "AMS-HT F Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1802210000020011",
@@ -11352,7 +11472,7 @@
             },
             {
                 "ecode": "1803810000010001",
-                "intro": "AMS-HT D The current sensor of heater 2 is abnormal."
+                "intro": "AMS-HT D Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0702250000020001",
@@ -11512,7 +11632,7 @@
             },
             {
                 "ecode": "0706800000010001",
-                "intro": "AMS G The current sensor of heater 1 is abnormal."
+                "intro": "AMS G Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0705200000010083",
@@ -11556,7 +11676,7 @@
             },
             {
                 "ecode": "0704800000010001",
-                "intro": "AMS E The current sensor of heater 1 is abnormal."
+                "intro": "AMS E Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0300020000010001",
@@ -11836,7 +11956,7 @@
             },
             {
                 "ecode": "0702800000010001",
-                "intro": "AMS C The current sensor of heater 1 is abnormal."
+                "intro": "AMS C Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1800200000020022",
@@ -12364,7 +12484,7 @@
             },
             {
                 "ecode": "1800800000010001",
-                "intro": "AMS-HT A The current sensor of heater 1 is abnormal."
+                "intro": "AMS-HT A Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1801220000010084",
@@ -12640,7 +12760,7 @@
             },
             {
                 "ecode": "0702810000010001",
-                "intro": "AMS C The current sensor of heater 2 is abnormal."
+                "intro": "AMS C Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1801010000020009",
@@ -12932,7 +13052,7 @@
             },
             {
                 "ecode": "1801800000010001",
-                "intro": "AMS-HT B The current sensor of heater 1 is abnormal."
+                "intro": "AMS-HT B Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0702200000020007",
@@ -13144,7 +13264,7 @@
             },
             {
                 "ecode": "0705810000010001",
-                "intro": "AMS F The current sensor of heater 2 is abnormal."
+                "intro": "AMS F Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0300040000020001",
@@ -13964,11 +14084,11 @@
             },
             {
                 "ecode": "0703810000010001",
-                "intro": "AMS D The current sensor of heater 2 is abnormal."
+                "intro": "AMS D Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1806810000010001",
-                "intro": "AMS-HT G The current sensor of heater 2 is abnormal."
+                "intro": "AMS-HT G Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0700450000020002",
@@ -14316,7 +14436,7 @@
             },
             {
                 "ecode": "0707810000010001",
-                "intro": "AMS H The current sensor of heater 2 is abnormal."
+                "intro": "AMS H Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1803230000020004",
@@ -14468,7 +14588,7 @@
             },
             {
                 "ecode": "1802810000010001",
-                "intro": "AMS-HT C The current sensor of heater 2 is abnormal."
+                "intro": "AMS-HT C Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0707230000020004",
@@ -14691,104 +14811,96 @@
                 "intro": "AMS G is undergoing dry cooling; please wait for it to cool down before operating."
             },
             {
-                "ecode": "0706220000010083",
-                "intro": "Failed to read the filament information from AMS G slot 3. The RFID tag may be damaged."
+                "ecode": "0706120000020002",
+                "intro": "The AMS G slot 3 motor is overloaded. The filament may be tangled or stuck."
             },
             {
-                "ecode": "1805200000020002",
-                "intro": "AMS-HT F Slot 1 is empty; please insert a new filament."
+                "ecode": "1806200000020001",
+                "intro": "AMS-HT G Slot 1 filament has run out. Please insert a new filament."
             },
             {
-                "ecode": "0700220000020021",
-                "intro": "AMS A slot 3 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
+                "ecode": "1801230000020015",
+                "intro": "AMS-HT B slot 4 filament status is abnormal, which may be due to a filament breakage inside the AMS."
             },
             {
-                "ecode": "1804230000020016",
-                "intro": "AMS-HT E slot 4 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
+                "ecode": "0583050000010010",
+                "intro": "The firmware of AMS-HT D does not match the printer. Please upgrade it on the \"Firmware\" page."
             },
             {
-                "ecode": "0703200000020016",
-                "intro": "AMS D slot 1 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
+                "ecode": "0701200000020023",
+                "intro": "AMS B slot 1 the tube inside the AMS is broken, or feed-out hall sensor is faulty and cannot detect the filament."
             },
             {
-                "ecode": "0707230000020024",
-                "intro": "AMS H slot 4 failed to rotate the filament spool when pulling filament back to AMS."
+                "ecode": "0700200000010084",
+                "intro": "Failed to read the filament information from AMS A slot 1. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
             },
             {
-                "ecode": "1801230000020007",
-                "intro": "AMS-HT B Slot 4 feed-out Hall sensor is disconnected. The connector may have poor contact."
+                "ecode": "0701220000010082",
+                "intro": "Failed to read the filament information from AMS B slot 3. A non-official RFID tag was detected. You can try to use Bambu Lab filament."
             },
             {
-                "ecode": "0500030000020016",
+                "ecode": "1800220000030001",
+                "intro": "AMS-HT A Slot 3 filament has run out. Please wait while old filament is purged."
+            },
+            {
+                "ecode": "0701200000020007",
+                "intro": "AMS B Slot 1 feed-out Hall sensor is disconnected. The connector may have poor contact."
+            },
+            {
+                "ecode": "1801810000010004",
+                "intro": "AMS-HT B The heater 2 is heating abnormally."
+            },
+            {
+                "ecode": "1802210000020010",
+                "intro": "AMS-HT C slot 2 feeds filament out of AMS timeout."
+            },
+            {
+                "ecode": "0707200000020009",
+                "intro": "Failed to extrude AMS H Slot 1 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
+            },
+            {
+                "ecode": "0C00010000020015",
                 "intro": ""
             },
             {
-                "ecode": "0703200000020005",
-                "intro": "AMS D Slot 1 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
+                "ecode": "0702010000020009",
+                "intro": "AMS C The assist motor has unbalanced tree-phase resistaance. The assist motor may be faulty."
             },
             {
-                "ecode": "0706810000010001",
-                "intro": "AMS G The current sensor of heater 2 is abnormal."
+                "ecode": "1800920000020002",
+                "intro": "AMS-HT A The cooling fan speed of heater 1 is too low, which could be due to excessive fan resistance."
             },
             {
-                "ecode": "1801010000020011",
-                "intro": "AMS-HT B The motor assist parameter is lost. Please pull out the filament from the filament hub and then restart the AMS."
+                "ecode": "1803500000020001",
+                "intro": "AMS-HT D communication is abnormal; please check the connection cable."
             },
             {
-                "ecode": "0700220000020019",
-                "intro": "AMS A slot 3 assist motor is stalled，due to excessive resistance in the tube between AMS and the filament buffer."
+                "ecode": "1804220000010084",
+                "intro": "Failed to read the filament information from AMS-HT E slot 3. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
             },
             {
-                "ecode": "0705230000020005",
-                "intro": "AMS F Slot 4 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
+                "ecode": "1805600000020001",
+                "intro": "The AMS-HT F Slot 1 is overloaded. The filament may be tangled or the filament buffer may be stuck."
             },
             {
-                "ecode": "0700220000020014",
-                "intro": "AMS A slot 3 filament odometer has no signal, which may be due to poor contact in the odometer connector or a odometer fault."
+                "ecode": "0702910000010003",
+                "intro": "AMS C The exhaust valve 2 is not connected, which may be due to poor connector contact."
             },
             {
-                "ecode": "0700210000020016",
-                "intro": "AMS A slot 2 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
+                "ecode": "1807110000020004",
+                "intro": "AMS-HT H The brushed motor 2 has no signal, which may be due to poor contact in the motor connector or a motor fault."
             },
             {
-                "ecode": "0702230000020013",
-                "intro": "AMS C slot 4 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
+                "ecode": "0701810000010001",
+                "intro": "AMS B Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
-                "ecode": "1806210000020012",
-                "intro": "AMS-HT G slot 2 feeder unit motor is stalled, cannot rotate the spool."
+                "ecode": "0700220000020013",
+                "intro": "AMS A slot 3 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
             },
             {
-                "ecode": "0705910000010002",
-                "intro": "AMS F The coil resistance of exhaust valve 2 is abnormal, which may be due to abnormal wiring or damage."
-            },
-            {
-                "ecode": "0705220000030002",
-                "intro": "AMS F Slot 3 filament has run out and automatically switched to the slot with the same filament."
-            },
-            {
-                "ecode": "1803200000010085",
-                "intro": "Failed to read the filament information from AMS-HT D slot 1. RFID tag verification failed. You can try to use Bambu Lab filament."
-            },
-            {
-                "ecode": "0705230000020009",
-                "intro": "Failed to extrude AMS F Slot 4 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
-            },
-            {
-                "ecode": "0701230000020005",
-                "intro": "AMS B Slot 4 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
-            },
-            {
-                "ecode": "0705930000020002",
-                "intro": "AMS F The cooling fan speed of heater 2 is too low, which could be due to excessive fan resistance."
-            },
-            {
-                "ecode": "1804130000020004",
-                "intro": "AMS-HT E The brushed motor 4 has no signal, which may be due to poor contact in the motor connector or a motor fault."
-            },
-            {
-                "ecode": "0703200000020024",
-                "intro": "AMS D slot 1 failed to rotate the filament spool when pulling filament back to AMS."
+                "ecode": "1806220000010083",
+                "intro": "Failed to read the filament information from AMS-HT G slot 3. The RFID tag may be damaged."
             },
             {
                 "ecode": "1803210000020018",
@@ -15572,7 +15684,7 @@
             },
             {
                 "ecode": "1806800000010001",
-                "intro": "AMS-HT G The current sensor of heater 1 is abnormal."
+                "intro": "AMS-HT G Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0701110000010001",
@@ -15640,7 +15752,7 @@
             },
             {
                 "ecode": "1807810000010001",
-                "intro": "AMS-HT H The current sensor of heater 2 is abnormal."
+                "intro": "AMS-HT H Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "1800200000020011",
@@ -15872,7 +15984,7 @@
             },
             {
                 "ecode": "1803800000010001",
-                "intro": "AMS-HT D The current sensor of heater 1 is abnormal."
+                "intro": "AMS-HT D Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0C0001000001000A",
@@ -15880,7 +15992,7 @@
             },
             {
                 "ecode": "1807800000010001",
-                "intro": "AMS-HT H The current sensor of heater 1 is abnormal."
+                "intro": "AMS-HT H Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0707130000020002",
@@ -16244,7 +16356,7 @@
             },
             {
                 "ecode": "0705800000010001",
-                "intro": "AMS F The current sensor of heater 1 is abnormal."
+                "intro": "AMS F Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0707230000020019",
@@ -17284,11 +17396,11 @@
             },
             {
                 "ecode": "1805810000010001",
-                "intro": "AMS-HT F The current sensor of heater 2 is abnormal."
+                "intro": "AMS-HT F Heater 2, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0703800000010001",
-                "intro": "AMS D The current sensor of heater 1 is abnormal."
+                "intro": "AMS D Heater 1, heater malfunction or abnormal current sensor detected."
             },
             {
                 "ecode": "0701230000020001",
@@ -17509,89 +17621,9 @@
             {
                 "ecode": "1807200000020025",
                 "intro": "AMS-HT H slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1804200000020025",
-                "intro": "AMS-HT E slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1804210000020025",
-                "intro": "AMS-HT E slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0707210000020025",
-                "intro": "AMS H slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0703230000020025",
-                "intro": "AMS D slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1803200000020025",
-                "intro": "AMS-HT D slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0703210000020025",
-                "intro": "AMS D slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1801200000020025",
-                "intro": "AMS-HT B slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0700230000020025",
-                "intro": "AMS A slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1806230000020025",
-                "intro": "AMS-HT G slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0703220000020025",
-                "intro": "AMS D slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1805210000020025",
-                "intro": "AMS-HT F slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0700200000020025",
-                "intro": "AMS A slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1801220000020025",
-                "intro": "AMS-HT B slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1802220000020025",
-                "intro": "AMS-HT C slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0704210000020025",
-                "intro": "AMS E slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1800210000020025",
-                "intro": "AMS-HT A slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1804230000020025",
-                "intro": "AMS-HT E slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1802210000020025",
-                "intro": "AMS-HT C slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0706200000020025",
-                "intro": "AMS G slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0702200000020025",
-                "intro": "AMS C slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
             }
         ],
-        "ver": 202512101744
+        "ver": 202512171220
     },
-    "version": "202512101744"
+    "version": "202512171220"
 }
