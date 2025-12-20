@@ -53,3 +53,8 @@
 [warning]	2025-12-19 16:41:07.356210[Thread 0x00007fa41603b4c0]:validate_presets:file_name LED Window.3mf, found the filament 1 preset not inherit from system
 [warning]	2025-12-19 16:41:07.356222[Thread 0x00007fa41603b4c0]:validate_presets:file_name LED Window.3mf, found self defined presets, count 1
 [error]	2025-12-19 22:40:04.579300[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-20 20:35:56.911310[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-20 20:36:27.382730[Thread 0x00007fa3e17fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2025-12-20 20:36:36.278284[Thread 0x00007fa41603b4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-20 22:54:07.498453[Thread 0x00007fa41603b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-20 22:56:04.993440[Thread 0x00007fa41603b4c0]:tree_sel_change_delayedcan not find page with current selection 
