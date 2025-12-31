@@ -1899,19 +1899,19 @@
             },
             {
                 "ecode": "050240A3",
-                "intro": "AMS(or AMS lite) C communication is abnormal. Please reconnect the module cable or restart the printer."
+                "intro": "AMS(or AMS Lite) C communication is abnormal. Please reconnect the module cable or restart the printer."
             },
             {
                 "ecode": "050140A3",
-                "intro": "AMS(or AMS lite) B communication is abnormal. Please reconnect the module cable or restart the printer."
+                "intro": "AMS(or AMS Lite) B communication is abnormal. Please reconnect the module cable or restart the printer."
             },
             {
                 "ecode": "050040A3",
-                "intro": "AMS(or AMS lite) A communication is abnormal. Please reconnect the module cable or restart the printer."
+                "intro": "AMS(or AMS Lite) A communication is abnormal. Please reconnect the module cable or restart the printer."
             },
             {
                 "ecode": "050340A3",
-                "intro": "AMS(or AMS lite) D communication is abnormal. Please reconnect the module cable or restart the printer."
+                "intro": "AMS(or AMS Lite) D communication is abnormal. Please reconnect the module cable or restart the printer."
             },
             {
                 "ecode": "058140A2",
@@ -1988,12 +1988,44 @@
             {
                 "ecode": "05004095",
                 "intro": "No print plate detected. Please place it correctly and recalibrate."
+            },
+            {
+                "ecode": "0502C028",
+                "intro": "The filament currently loaded in the extruder does not support manual feeding."
             }
         ],
-        "ver": 202512171220
+        "ver": 202512292154
     },
     "device_hms": {
         "en": [
+            {
+                "ecode": "1803220000020025",
+                "intro": "AMS-HT D slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0704230000020025",
+                "intro": "AMS E slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1804220000020025",
+                "intro": "AMS-HT E slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1805200000020025",
+                "intro": "AMS-HT F slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "0702230000020025",
+                "intro": "AMS C slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1806210000020025",
+                "intro": "AMS-HT G slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
+            {
+                "ecode": "1807200000020025",
+                "intro": "AMS-HT H slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
+            },
             {
                 "ecode": "1804200000020025",
                 "intro": "AMS-HT E slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
@@ -3080,7 +3112,7 @@
             },
             {
                 "ecode": "0500040000010049",
-                "intro": "Communication error detected with AMS, AMS lite or AMS HT. Please reconnect the module cable or restart the printer when it is idle."
+                "intro": "Communication error detected with AMS, AMS Lite or AMS HT. Please reconnect the module cable or restart the printer when it is idle."
             },
             {
                 "ecode": "0501040000030001",
@@ -3261,6 +3293,38 @@
             {
                 "ecode": "1800940000010002",
                 "intro": "Temperature sensor 1 on the AMS-HT A heater has malfunctioned, resulting in abnormal temperature readings."
+            },
+            {
+                "ecode": "0500020000020009",
+                "intro": ""
+            },
+            {
+                "ecode": "050002000002000B",
+                "intro": ""
+            },
+            {
+                "ecode": "050002000002000A",
+                "intro": ""
+            },
+            {
+                "ecode": "0707130000020004",
+                "intro": "AMS H The brushed motor 4 has no signal, which may be due to poor contact in the motor connector or a motor fault."
+            },
+            {
+                "ecode": "1800200000030001",
+                "intro": "AMS-HT A Slot 1 filament has run out. Please wait while old filament is purged."
+            },
+            {
+                "ecode": "0705900000020001",
+                "intro": "AMS F The operation of the exhaust valve 1 is abnormal, which may be due to excessive resistance."
+            },
+            {
+                "ecode": "1807200000020009",
+                "intro": "Failed to extrude AMS-HT H Slot 1 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
+            },
+            {
+                "ecode": "0706560000030001",
+                "intro": "AMS G is undergoing dry cooling; please wait for it to cool down before operating."
             },
             {
                 "ecode": "0706220000010083",
@@ -6644,7 +6708,7 @@
             },
             {
                 "ecode": "0500010000030007",
-                "intro": "Unable to record time-lapse photography without MicroSD card inserted."
+                "intro": "No MicroSD card detected. The liveview camera cannot record a time-lapse."
             },
             {
                 "ecode": "1805210000020020",
@@ -8429,34 +8493,6 @@
             {
                 "ecode": "1805130000010001",
                 "intro": "The AMS-HT F slot 4 motor has slipped. The extrusion wheel may be malfunctioning, or the filament may be too thin."
-            },
-            {
-                "ecode": "0706700000020002",
-                "intro": "Failed to feed the filament into the toolhead. Possible cause: filament or spool stuck."
-            },
-            {
-                "ecode": "0702200000010082",
-                "intro": "Failed to read the filament information from AMS C slot 1. A non-official RFID tag was detected. You can try to use Bambu Lab filament."
-            },
-            {
-                "ecode": "0706220000020021",
-                "intro": "AMS G slot 3 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
-            },
-            {
-                "ecode": "1802210000020001",
-                "intro": "AMS-HT C Slot 2 filament has run out. Please insert a new filament."
-            },
-            {
-                "ecode": "0701120000020002",
-                "intro": "The AMS B slot 3 motor is overloaded. The filament may be tangled or stuck."
-            },
-            {
-                "ecode": "0706200000020018",
-                "intro": "AMS G slot 1 assist motor is stalled，due to excessive resistance in the tube near AMS."
-            },
-            {
-                "ecode": "1803700000020004",
-                "intro": "Failed to pull back the filament from the toolhead to AMS-HT. Possible cause: filament or spool stuck."
             },
             {
                 "ecode": "1800120000010001",
@@ -14791,24 +14827,32 @@
                 "intro": "Failed to get AMS mapping table; please select \"Resume\" to retry."
             },
             {
-                "ecode": "0707130000020004",
-                "intro": "AMS H The brushed motor 4 has no signal, which may be due to poor contact in the motor connector or a motor fault."
+                "ecode": "0706700000020002",
+                "intro": "Failed to feed the filament into the toolhead. Possible cause: filament or spool stuck."
             },
             {
-                "ecode": "1800200000030001",
-                "intro": "AMS-HT A Slot 1 filament has run out. Please wait while old filament is purged."
+                "ecode": "0702200000010082",
+                "intro": "Failed to read the filament information from AMS C slot 1. A non-official RFID tag was detected. You can try to use Bambu Lab filament."
             },
             {
-                "ecode": "0705900000020001",
-                "intro": "AMS F The operation of the exhaust valve 1 is abnormal, which may be due to excessive resistance."
+                "ecode": "0706220000020021",
+                "intro": "AMS G slot 3 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
             },
             {
-                "ecode": "1807200000020009",
-                "intro": "Failed to extrude AMS-HT H Slot 1 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
+                "ecode": "1802210000020001",
+                "intro": "AMS-HT C Slot 2 filament has run out. Please insert a new filament."
             },
             {
-                "ecode": "0706560000030001",
-                "intro": "AMS G is undergoing dry cooling; please wait for it to cool down before operating."
+                "ecode": "0701120000020002",
+                "intro": "The AMS B slot 3 motor is overloaded. The filament may be tangled or stuck."
+            },
+            {
+                "ecode": "0706200000020018",
+                "intro": "AMS G slot 1 assist motor is stalled，due to excessive resistance in the tube near AMS."
+            },
+            {
+                "ecode": "1803700000020004",
+                "intro": "Failed to pull back the filament from the toolhead to AMS-HT. Possible cause: filament or spool stuck."
             },
             {
                 "ecode": "0706120000020002",
@@ -17593,37 +17637,9 @@
             {
                 "ecode": "0707200000020025",
                 "intro": "AMS H slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1803220000020025",
-                "intro": "AMS-HT D slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0704230000020025",
-                "intro": "AMS E slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1804220000020025",
-                "intro": "AMS-HT E slot 3 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1805200000020025",
-                "intro": "AMS-HT F slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "0702230000020025",
-                "intro": "AMS C slot 4 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1806210000020025",
-                "intro": "AMS-HT G slot 2 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
-            },
-            {
-                "ecode": "1807200000020025",
-                "intro": "AMS-HT H slot 1 feed resistance is too high. Please reduce the feed resistance, decrease the rotation resistance of the spool, and avoid having the filament tube too long and excessively bent."
             }
         ],
-        "ver": 202512171220
+        "ver": 202512292154
     },
-    "version": "202512171220"
+    "version": "202512292154"
 }

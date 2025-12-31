@@ -1,0 +1,15 @@
+[error]	2026-01-01 00:05:35.479204[Thread 0x00007f53d086a6c0]:Unable to open connection to spacenavd
+[error]	2026-01-01 00:05:40.547562[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-01 00:05:40.607236[Thread 0x00007f53a2bfc6c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-01-01 00:05:40.786448[Thread 0x00007f53c07f86c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-01-01 00:05:40.982654[Thread 0x00007f53a2bfc6c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-01-01 00:05:41.017985[Thread 0x00007f546a6af4c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-01-01 00:05:41.018868[Thread 0x00007f53a2ffd6c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2026-01-01 00:05:41.181995[Thread 0x00007f546a6af4c0]:Unable to open the file/data/Multiboard/11x11 MU Bottom Left Corner - Multiboard Border Tile.stl
+[error]	2026-01-01 00:05:41.192353[Thread 0x00007f53c07f86c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2026-01-01 00:05:41.349827[Thread 0x00007f53c07f86c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2026-01-01 00:05:41.377859[Thread 0x00007f53a2ffd6c0]:Unable to open the file/data/Body.stl
+[error]	2026-01-01 00:05:41.378103[Thread 0x00007f53a2ffd6c0]:Unable to open the file/data/bolt.stl
+[error]	2026-01-01 00:05:41.414948[Thread 0x00007f53a2bfc6c0]:Unable to open the file/data/Hoop Spark Box V2.stl
+[error]	2026-01-01 00:05:41.706447[Thread 0x00007f53c07f86c0]:Unable to open the file/data/screw.stl
+[error]	2026-01-01 00:05:41.803531[Thread 0x00007f546a6af4c0]:Unable to open the file/data/Voron/Nozzle Removal Tool grip V2.stl
