@@ -13,3 +13,13 @@
 [error]	2026-01-01 00:05:41.414948[Thread 0x00007f53a2bfc6c0]:Unable to open the file/data/Hoop Spark Box V2.stl
 [error]	2026-01-01 00:05:41.706447[Thread 0x00007f53c07f86c0]:Unable to open the file/data/screw.stl
 [error]	2026-01-01 00:05:41.803531[Thread 0x00007f546a6af4c0]:Unable to open the file/data/Voron/Nozzle Removal Tool grip V2.stl
+[warning]	2026-01-01 00:05:44.206123[Thread 0x00007f546a6af4c0]:12:05:44 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-01 00:05:44.212051[Thread 0x00007f546a6af4c0]:12:05:44 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-01 00:05:44.217933[Thread 0x00007f546a6af4c0]:12:05:44 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-01 00:05:44.224434[Thread 0x00007f546a6af4c0]:12:05:44 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-01 00:05:48.981764[Thread 0x00007f546a6af4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-01 01:09:21.421605[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-01 01:09:22.078086[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-01 01:09:22.107646[Thread 0x00007f546a6af4c0]:validate_preset: preset_name Polymaker ABS PolyLite, no inherit, set to not found
+[warning]	2026-01-01 01:09:22.107695[Thread 0x00007f546a6af4c0]:validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-01 01:09:22.107709[Thread 0x00007f546a6af4c0]:validate_presets:file_name .3mf, found self defined presets, count 1
