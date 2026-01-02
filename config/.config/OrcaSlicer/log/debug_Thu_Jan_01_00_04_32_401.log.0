@@ -23,3 +23,42 @@
 [warning]	2026-01-01 01:09:22.107646[Thread 0x00007f546a6af4c0]:validate_preset: preset_name Polymaker ABS PolyLite, no inherit, set to not found
 [warning]	2026-01-01 01:09:22.107695[Thread 0x00007f546a6af4c0]:validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
 [warning]	2026-01-01 01:09:22.107709[Thread 0x00007f546a6af4c0]:validate_presets:file_name .3mf, found self defined presets, count 1
+[warning]	2026-01-01 01:09:51.342496[Thread 0x00007f53e88176c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-01-02 11:11:06.357468[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-02 11:12:48.291765[Thread 0x00007f53e88176c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-01-02 12:39:12.891405[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:40:16.092764[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-02 20:41:12.983648[Thread 0x00007f53e88176c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-01-02 20:41:14.064712[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:14.073525[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:14.080813[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:14.087983[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:14.094988[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:14.101986[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:14.109210[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:14.116453[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:26.595431[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:27.265606[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:27.514354[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:28.518412[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:41:36.099026[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-02 20:42:00.700315[Thread 0x00007f53e88176c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-01-02 20:42:17.128273[Thread 0x00007f53e88176c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-01-02 20:42:29.662885[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.336084[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.535346[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.556893[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.578091[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.599946[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.862527[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.880949[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.901800[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.919566[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.938923[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.955512[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:30.973952[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:31.278790[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-02 20:42:39.697267[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-02 20:43:04.847528[Thread 0x00007f53e88176c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-01-02 20:43:19.091014[Thread 0x00007f53e88176c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-01-02 20:43:19.167041[Thread 0x00007f546a6af4c0]:calc_exclude_triangles:Unable to create exclude triangles
