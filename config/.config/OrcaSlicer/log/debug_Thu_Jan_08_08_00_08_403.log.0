@@ -1,0 +1,29 @@
+[error]	2026-01-08 08:00:19.453783[Thread 0x00007feb5bfff6c0]:Unable to open connection to spacenavd
+[error]	2026-01-08 08:00:21.541849[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-08 08:00:21.643256[Thread 0x00007febfffa14c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-01-08 08:00:21.758729[Thread 0x00007feb597fa6c0]:Unable to open the file/data/Body.stl
+[error]	2026-01-08 08:00:21.759012[Thread 0x00007feb597fa6c0]:Unable to open the file/data/screw.stl
+[error]	2026-01-08 08:00:21.759043[Thread 0x00007feb597fa6c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-01-08 08:00:21.839390[Thread 0x00007feb58ff86c0]:Unable to open the file/data/bolt.stl
+[error]	2026-01-08 08:00:21.912539[Thread 0x00007febfffa14c0]:Unable to open the file/data/Calibration/FirstLayerCalibration-FirstLayer.stl
+[error]	2026-01-08 08:00:21.977244[Thread 0x00007feb597fa6c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-01-08 08:00:22.069563[Thread 0x00007feb593f96c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2026-01-08 08:00:22.149663[Thread 0x00007feb58ff86c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2026-01-08 08:00:22.157224[Thread 0x00007febfffa14c0]:Unable to open the file/data/Hoop Spark Box V2.stl
+[error]	2026-01-08 08:00:22.444423[Thread 0x00007feb597fa6c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-01-08 08:00:22.481894[Thread 0x00007feb593f96c0]:Unable to open the file/data/Multiboard/11x11 MU Bottom Left Corner - Multiboard Border Tile.stl
+[warning]	2026-01-08 08:00:23.604143[Thread 0x00007febfffa14c0]:08:00:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-08 08:00:23.610275[Thread 0x00007febfffa14c0]:08:00:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-08 08:00:23.616464[Thread 0x00007febfffa14c0]:08:00:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-08 08:00:23.624266[Thread 0x00007febfffa14c0]:08:00:23 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-08 08:00:27.284489[Thread 0x00007febfffa14c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-08 08:00:35.069699[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-08 08:00:36.553983[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-08 08:00:37.121919[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-08 08:00:37.186796[Thread 0x00007febfffa14c0]:validate_preset: preset_name Polymaker ABS PolyLite, no inherit, set to not found
+[warning]	2026-01-08 08:00:37.186871[Thread 0x00007febfffa14c0]:validate_presets:file_name aro-3d-linea.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-08 08:00:37.186888[Thread 0x00007febfffa14c0]:validate_presets:file_name aro-3d-linea.3mf, found self defined presets, count 1
+[warning]	2026-01-08 08:00:52.202514[Thread 0x00007feb72ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-01-08 11:14:15.659510[Thread 0x00007feb72ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-01-08 11:14:18.149833[Thread 0x00007feb72ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-01-08 20:42:22.823559[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
