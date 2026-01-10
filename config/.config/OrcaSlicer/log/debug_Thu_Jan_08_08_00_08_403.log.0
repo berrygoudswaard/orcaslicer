@@ -65,3 +65,25 @@
 [error]	2026-01-09 19:58:27.454148[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2026-01-09 19:58:28.600267[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2026-01-09 19:58:30.004307[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:03:38.287388[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:13:29.221365[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:13:34.085250[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:13:34.140690[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:13:34.193930[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:13:34.248225[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:13:34.301320[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:13:34.308147[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:13:34.314493[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-10 15:13:34.532745[Thread 0x00007febfffa14c0]:validate_preset: preset_name Bambu Lab P1S 0.4, inherit_name Bambu Lab P1S 0.4 nozzle, can not found preset and inherit in list
+[warning]	2026-01-10 15:13:34.532792[Thread 0x00007febfffa14c0]:validate_presets:file_name All_files_w_o_test_files.3mf, found the printer preset not inherit from system
+[warning]	2026-01-10 15:13:34.532814[Thread 0x00007febfffa14c0]:validate_preset: preset_name Elegoo PLA matte @BBL X1C, inherit_name Bambu PLA Basic @BBL X1C, can not found preset and inherit in list
+[warning]	2026-01-10 15:13:34.532834[Thread 0x00007febfffa14c0]:validate_presets:file_name All_files_w_o_test_files.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-10 15:13:34.532845[Thread 0x00007febfffa14c0]:validate_presets:file_name All_files_w_o_test_files.3mf, found self defined presets, count 2
+[error]	2026-01-10 15:13:37.324987[Thread 0x00007febfffa14c0]:Unable to load bed model: C:/Program Files/Bambu Studio/resources/profiles/BBL/bbl-3dp-X1.stl
+[error]	2026-01-10 15:16:02.962572[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:16:10.898415[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-10 15:21:45.640373[Thread 0x00007feb72ffd6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-01-10 15:21:58.020601[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:21:59.204468[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:22:07.020053[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 15:23:05.956738[Thread 0x00007febfffa14c0]:calc_exclude_triangles:Unable to create exclude triangles
