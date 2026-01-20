@@ -1,0 +1,18 @@
+[error]	2026-01-20 13:29:05.221899[Thread 0x00007fda448316c0]:Unable to open connection to spacenavd
+[error]	2026-01-20 13:29:08.124738[Thread 0x00007fdad4b954c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-20 13:29:08.202140[Thread 0x00007fda307f86c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-01-20 13:29:08.359762[Thread 0x00007fda15ffb6c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-01-20 13:29:08.471471[Thread 0x00007fdac04a36c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2026-01-20 13:29:08.482860[Thread 0x00007fda307f86c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-01-20 13:29:08.685945[Thread 0x00007fdac04a36c0]:Unable to open the file/data/Body.stl
+[error]	2026-01-20 13:29:08.867451[Thread 0x00007fdac04a36c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2026-01-20 13:29:08.881053[Thread 0x00007fda307f86c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-01-20 13:29:08.889666[Thread 0x00007fda15ffb6c0]:Unable to open the file/data/screw.stl
+[error]	2026-01-20 13:29:08.930646[Thread 0x00007fdad4b954c0]:Unable to open the file/data/bolt.stl
+[warning]	2026-01-20 13:29:10.143600[Thread 0x00007fdad4b954c0]:01:29:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-20 13:29:10.153196[Thread 0x00007fdad4b954c0]:01:29:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-20 13:29:10.159528[Thread 0x00007fdad4b954c0]:01:29:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-20 13:29:10.165655[Thread 0x00007fdad4b954c0]:01:29:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-20 13:29:13.647214[Thread 0x00007fdad4b954c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-20 13:32:46.992078[Thread 0x00007fdad4b954c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-20 13:32:50.394099[Thread 0x00007fdad4b954c0]:calc_exclude_triangles:Unable to create exclude triangles
