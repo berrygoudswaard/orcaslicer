@@ -1,5 +1,5 @@
 {
-    "brim_width": "25",
+    "brim_object_gap": "0",
     "elefant_foot_compensation": "0.15",
     "from": "User",
     "hole_to_polyhole": "1",
@@ -14,6 +14,7 @@
     "outer_wall_line_width": "120%",
     "print_sequence": "by object",
     "print_settings_id": "Voron 2.4 - 0.20mm - Polymaker Polylite ABS",
+    "skirt_loops": "3",
     "sparse_infill_line_width": "120%",
     "sparse_infill_pattern": "gyroid",
     "support_interface_pattern": "concentric",
