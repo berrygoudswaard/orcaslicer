@@ -1,0 +1,11 @@
+[error]	2026-02-01 00:06:44.458368[Thread 0x00007f7f248316c0]:Unable to open connection to spacenavd
+[error]	2026-02-01 00:06:50.291572[Thread 0x00007f7fb4cfb4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-01 00:06:50.371755[Thread 0x00007f7f107f86c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-02-01 00:06:50.546542[Thread 0x00007f7f107f86c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-02-01 00:06:50.741361[Thread 0x00007f7dedffb6c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2026-02-01 00:06:50.820839[Thread 0x00007f7fa05f76c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-02-01 00:06:50.891899[Thread 0x00007f7dedffb6c0]:Unable to open the file/data/Body.stl
+[error]	2026-02-01 00:06:50.894597[Thread 0x00007f7f107f86c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-02-01 00:06:50.972868[Thread 0x00007f7fb4cfb4c0]:Unable to open the file/data/screw.stl
+[error]	2026-02-01 00:06:51.134077[Thread 0x00007f7dedffb6c0]:Unable to open the file/data/bolt.stl
+[error]	2026-02-01 00:06:51.172413[Thread 0x00007f7f107f86c0]:Unable to open the file/data/Hoop Spark/bolt.stl

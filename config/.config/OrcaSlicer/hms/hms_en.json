@@ -455,7 +455,7 @@
             },
             {
                 "ecode": "03008003",
-                "intro": "Spaghetti defects were detected by the AI Print Monitoring. Please check the quality of the printed model before continuing your print."
+                "intro": "Spaghetti defects were detected by the AI Print Monitoring. Please check the quality of the printed model before continuing your print. Cleaning the build plate or drying the filament can effectively reduce the risk of spaghetti failure."
             },
             {
                 "ecode": "18048010",
@@ -955,7 +955,7 @@
             },
             {
                 "ecode": "0C00C004",
-                "intro": "Possible spaghetti failure was detected."
+                "intro": "Possible spaghetti failure was detected. Cleaning the build plate or drying the filament can effectively reduce the risk of spaghetti failure."
             },
             {
                 "ecode": "05024001",
@@ -1459,7 +1459,7 @@
             },
             {
                 "ecode": "0300800C",
-                "intro": "Skipped step detected: auto-recover complete; please resume print and check if there are any layer shift problems."
+                "intro": "Multiple motion steps lost detected. Please check if the toolhead is blocked by obstructions or making abnormal noise. You may continue printing to observe. If the print shows layer shifting, refer to the Wiki for maintenance."
             },
             {
                 "ecode": "07034001",
@@ -1987,7 +1987,7 @@
             },
             {
                 "ecode": "05004095",
-                "intro": "No print plate detected. Please place it correctly and recalibrate."
+                "intro": "No print plate detected. Please place it correctly and recalibrate on the device."
             },
             {
                 "ecode": "0502C028",
@@ -2004,9 +2004,17 @@
             {
                 "ecode": "050040A6",
                 "intro": "File download failed due to missing certificates. Please check the Fleet Hub certificate configuration and restart the printer before trying again"
+            },
+            {
+                "ecode": "0500809B",
+                "intro": "Build plate not properly positioned, may collide with the waste chute. Please reposition build plate and align with heatbed."
+            },
+            {
+                "ecode": "050040A8",
+                "intro": "The device firmware requires a repair upgrade, and the current operation cannot be performed. Please upgrade it on the \"Firmware\" page."
             }
         ],
-        "ver": 202601201035
+        "ver": 202601271217
     },
     "device_hms": {
         "en": [
@@ -3381,6 +3389,66 @@
             {
                 "ecode": "0300900000010007",
                 "intro": "High chamber temperature detected. If the hotend is overheating or emitting smoke, immediately power off the printer. Please refer to the Wiki for detailed troubleshooting instructions."
+            },
+            {
+                "ecode": "0500040000010061",
+                "intro": ""
+            },
+            {
+                "ecode": "1800970000030001",
+                "intro": "AMS-HT A chamber temperature is too high; auxiliary feeding or RFID reading is currently not allowed."
+            },
+            {
+                "ecode": "030001000001000C",
+                "intro": "The heatbed has worked at full load for a long time. The temperature control system may be abnormal."
+            },
+            {
+                "ecode": "1806200000010084",
+                "intro": "Failed to read the filament information from AMS-HT G slot 1. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+            },
+            {
+                "ecode": "1805230000020022",
+                "intro": "AMS-HT F slot 4 assist motor is stalled，due to excessive resistance in the tube near the toolhead."
+            },
+            {
+                "ecode": "1803200000020004",
+                "intro": "AMS-HT D Slot 1 filament may be broken in the tool head."
+            },
+            {
+                "ecode": "1803120000020004",
+                "intro": "AMS-HT D The brushed motor 3 has no signal, which may be due to poor contact in the motor connector or a motor fault."
+            },
+            {
+                "ecode": "1800130000010003",
+                "intro": "The AMS-HT A slot 4 motor torque control is malfunctioning. The current sensor may be faulty."
+            },
+            {
+                "ecode": "1801230000020013",
+                "intro": "AMS-HT B slot 4 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
+            },
+            {
+                "ecode": "0703200000030002",
+                "intro": "AMS D Slot 1 filament has run out and automatically switched to the slot with the same filament."
+            },
+            {
+                "ecode": "1806220000020002",
+                "intro": "AMS-HT G Slot 3 is empty; please insert a new filament."
+            },
+            {
+                "ecode": "1804210000010084",
+                "intro": "Failed to read the filament information from AMS-HT E slot 2. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+            },
+            {
+                "ecode": "1800230000010084",
+                "intro": "Failed to read the filament information from AMS-HT A slot 4. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+            },
+            {
+                "ecode": "0706910000010002",
+                "intro": "AMS G The coil resistance of exhaust valve 2 is abnormal, which may be due to abnormal wiring or damage."
+            },
+            {
+                "ecode": "1800220000020012",
+                "intro": "AMS-HT A slot 3 feeder unit motor is stalled, cannot rotate the spool."
             },
             {
                 "ecode": "0704210000020007",
@@ -8529,50 +8597,6 @@
             {
                 "ecode": "1807210000020007",
                 "intro": "AMS-HT H Slot 2 feed-out Hall sensor is disconnected. The connector may have poor contact."
-            },
-            {
-                "ecode": "0703200000010082",
-                "intro": "Failed to read the filament information from AMS D slot 1. A non-official RFID tag was detected. You can try to use Bambu Lab filament."
-            },
-            {
-                "ecode": "0707120000010003",
-                "intro": "The AMS H slot 3 motor torque control is malfunctioning. The current sensor may be faulty."
-            },
-            {
-                "ecode": "1806930000010001",
-                "intro": "AMS-HT G The cooling fan of heater 2 is blocked, which may be due to the fan being stuck."
-            },
-            {
-                "ecode": "1807930000020002",
-                "intro": "AMS-HT H The cooling fan speed of heater 2 is too low, which could be due to excessive fan resistance."
-            },
-            {
-                "ecode": "1800210000020024",
-                "intro": "AMS-HT A slot 2 failed to rotate the filament spool when pulling filament back to AMS."
-            },
-            {
-                "ecode": "1803200000020016",
-                "intro": "AMS-HT D slot 1 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
-            },
-            {
-                "ecode": "1800200000020014",
-                "intro": "AMS-HT A slot 1 filament odometer has no signal, which may be due to poor contact in the odometer connector or a odometer fault."
-            },
-            {
-                "ecode": "1804300000010004",
-                "intro": "Encryption chip failure"
-            },
-            {
-                "ecode": "1802620000020001",
-                "intro": "The AMS-HT C Slot 3 is overloaded. The filament may be tangled or the filament buffer may be stuck."
-            },
-            {
-                "ecode": "1807230000010084",
-                "intro": "Failed to read the filament information from AMS-HT H slot 4. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "1806200000020006",
-                "intro": "AMS-HT G has detected a breakage of the PTFE tube during filament loading. Please check whether the PTFE tubes inside and outside the AMS have fallen off or been damaged."
             },
             {
                 "ecode": "1800120000010001",
@@ -14743,60 +14767,48 @@
                 "intro": "The resonance frequency of the Y-axis differs greatly from the last calibration. Please clean the Y-axis liner rod and conduct a calibration after printing."
             },
             {
-                "ecode": "1800970000030001",
-                "intro": "AMS-HT A chamber temperature is too high; auxiliary feeding or RFID reading is currently not allowed."
+                "ecode": "0703200000010082",
+                "intro": "Failed to read the filament information from AMS D slot 1. A non-official RFID tag was detected. You can try to use Bambu Lab filament."
             },
             {
-                "ecode": "030001000001000C",
-                "intro": "The heatbed has worked at full load for a long time. The temperature control system may be abnormal."
+                "ecode": "0707120000010003",
+                "intro": "The AMS H slot 3 motor torque control is malfunctioning. The current sensor may be faulty."
             },
             {
-                "ecode": "1806200000010084",
-                "intro": "Failed to read the filament information from AMS-HT G slot 1. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+                "ecode": "1806930000010001",
+                "intro": "AMS-HT G The cooling fan of heater 2 is blocked, which may be due to the fan being stuck."
             },
             {
-                "ecode": "1805230000020022",
-                "intro": "AMS-HT F slot 4 assist motor is stalled，due to excessive resistance in the tube near the toolhead."
+                "ecode": "1807930000020002",
+                "intro": "AMS-HT H The cooling fan speed of heater 2 is too low, which could be due to excessive fan resistance."
             },
             {
-                "ecode": "1803200000020004",
-                "intro": "AMS-HT D Slot 1 filament may be broken in the tool head."
+                "ecode": "1800210000020024",
+                "intro": "AMS-HT A slot 2 failed to rotate the filament spool when pulling filament back to AMS."
             },
             {
-                "ecode": "1803120000020004",
-                "intro": "AMS-HT D The brushed motor 3 has no signal, which may be due to poor contact in the motor connector or a motor fault."
+                "ecode": "1803200000020016",
+                "intro": "AMS-HT D slot 1 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
             },
             {
-                "ecode": "1800130000010003",
-                "intro": "The AMS-HT A slot 4 motor torque control is malfunctioning. The current sensor may be faulty."
+                "ecode": "1800200000020014",
+                "intro": "AMS-HT A slot 1 filament odometer has no signal, which may be due to poor contact in the odometer connector or a odometer fault."
             },
             {
-                "ecode": "1801230000020013",
-                "intro": "AMS-HT B slot 4 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
+                "ecode": "1804300000010004",
+                "intro": "Encryption chip failure"
             },
             {
-                "ecode": "0703200000030002",
-                "intro": "AMS D Slot 1 filament has run out and automatically switched to the slot with the same filament."
+                "ecode": "1802620000020001",
+                "intro": "The AMS-HT C Slot 3 is overloaded. The filament may be tangled or the filament buffer may be stuck."
             },
             {
-                "ecode": "1806220000020002",
-                "intro": "AMS-HT G Slot 3 is empty; please insert a new filament."
+                "ecode": "1807230000010084",
+                "intro": "Failed to read the filament information from AMS-HT H slot 4. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
             },
             {
-                "ecode": "1804210000010084",
-                "intro": "Failed to read the filament information from AMS-HT E slot 2. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "1800230000010084",
-                "intro": "Failed to read the filament information from AMS-HT A slot 4. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "0706910000010002",
-                "intro": "AMS G The coil resistance of exhaust valve 2 is abnormal, which may be due to abnormal wiring or damage."
-            },
-            {
-                "ecode": "1800220000020012",
-                "intro": "AMS-HT A slot 3 feeder unit motor is stalled, cannot rotate the spool."
+                "ecode": "1806200000020006",
+                "intro": "AMS-HT G has detected a breakage of the PTFE tube during filament loading. Please check whether the PTFE tubes inside and outside the AMS have fallen off or been damaged."
             },
             {
                 "ecode": "0707920000020002",
@@ -16120,7 +16132,7 @@
             },
             {
                 "ecode": "0C00030000030008",
-                "intro": "Possible spaghetti defects were detected. Please check the print quality and decide if the job should be stopped."
+                "intro": "A possible spaghetti failure has been detected. Please check the print quality and decide whether to stop the job. Cleaning the build plate or drying the filament can effectively reduce the risk of spaghetti failure."
             },
             {
                 "ecode": "1800230000020012",
@@ -17699,7 +17711,7 @@
                 "intro": "AMS-HT A The coil resistance of exhaust valve 1 is abnormal, which may be due to abnormal wiring or damage."
             }
         ],
-        "ver": 202601201035
+        "ver": 202601271217
     },
-    "version": "202601201035"
+    "version": "202601271217"
 }
