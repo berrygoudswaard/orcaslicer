@@ -45,7 +45,7 @@
         "#3D3846"
     ],
     "dont_slow_down_outer_wall": [
-        "0"
+        "1"
     ],
     "during_print_exhaust_fan_speed": [
         "60"
@@ -239,7 +239,7 @@
         "220"
     ],
     "nozzle_temperature_range_high": [
-        "220"
+        "230"
     ],
     "nozzle_temperature_range_low": [
         "190"

@@ -9,3 +9,17 @@
 [error]	2026-02-01 00:06:50.972868[Thread 0x00007f7fb4cfb4c0]:Unable to open the file/data/screw.stl
 [error]	2026-02-01 00:06:51.134077[Thread 0x00007f7dedffb6c0]:Unable to open the file/data/bolt.stl
 [error]	2026-02-01 00:06:51.172413[Thread 0x00007f7f107f86c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[warning]	2026-02-01 00:06:52.540524[Thread 0x00007f7fb4cfb4c0]:12:06:52 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-01 00:06:52.547394[Thread 0x00007f7fb4cfb4c0]:12:06:52 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-01 00:06:52.553220[Thread 0x00007f7fb4cfb4c0]:12:06:52 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-01 00:06:52.577915[Thread 0x00007f7fb4cfb4c0]:12:06:52 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-01 00:06:56.554356[Thread 0x00007f7fb4cfb4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-02-13 13:57:01.431049[Thread 0x00007f7fb4cfb4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-13 13:57:05.049236[Thread 0x00007f7fb4cfb4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-13 20:01:13.418929[Thread 0x00007f7fb4cfb4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-02-13 20:01:56.481814[Thread 0x00007f7f107f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-02-13 21:33:22.329437[Thread 0x00007f7fb4cfb4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-02-13 21:33:49.349102[Thread 0x00007f7f27fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-02-13 23:21:14.788248[Thread 0x00007f7fb4cfb4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-02-13 23:21:44.292895[Thread 0x00007f7f27fff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-02-13 23:22:53.186776[Thread 0x00007f7fb4cfb4c0]:tree_sel_change_delayedcan not find page with current selection 

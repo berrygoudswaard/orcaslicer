@@ -43,7 +43,7 @@
         "#E01B24"
     ],
     "dont_slow_down_outer_wall": [
-        "0"
+        "1"
     ],
     "during_print_exhaust_fan_speed": [
         "0"

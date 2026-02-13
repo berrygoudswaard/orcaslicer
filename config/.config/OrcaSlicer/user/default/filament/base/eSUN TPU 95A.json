@@ -43,7 +43,7 @@
         "#000000"
     ],
     "dont_slow_down_outer_wall": [
-        "0"
+        "1"
     ],
     "during_print_exhaust_fan_speed": [
         "60"
@@ -222,6 +222,12 @@
         "0"
     ],
     "inherits": "",
+    "internal_bridge_fan_speed": [
+        "-1"
+    ],
+    "ironing_fan_speed": [
+        "-1"
+    ],
     "is_custom_defined": "0",
     "name": "eSUN TPU 95A",
     "nozzle_temperature": [
@@ -262,6 +268,12 @@
     ],
     "slow_down_min_speed": [
         "10"
+    ],
+    "supertack_plate_temp": [
+        "35"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "35"
     ],
     "support_material_interface_fan_speed": [
         "-1"
