@@ -1,0 +1,31 @@
+[error]	2026-02-23 08:05:38.098033[Thread 0x00007f352886a6c0]:Unable to open connection to spacenavd
+[error]	2026-02-23 08:05:39.504955[Thread 0x00007f35c27874c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-23 08:05:39.518356[Thread 0x00007f352a06d6c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-02-23 08:05:39.518406[Thread 0x00007f352a06d6c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-02-23 08:05:39.518421[Thread 0x00007f352a06d6c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-02-23 08:05:39.518434[Thread 0x00007f352a06d6c0]:Unable to open the file/data/Hoop Spark/Body.3mf
+[error]	2026-02-23 08:05:39.518447[Thread 0x00007f352a06d6c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2026-02-23 08:05:39.518615[Thread 0x00007f352a06d6c0]:Unable to open the file/data/Body.stl
+[error]	2026-02-23 08:05:39.518733[Thread 0x00007f35953246c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-02-23 08:05:39.518755[Thread 0x00007f35953246c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-02-23 08:05:39.518765[Thread 0x00007f352a06d6c0]:Unable to open the file/data/screw.stl
+[error]	2026-02-23 08:05:39.518770[Thread 0x00007f35953246c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-02-23 08:05:39.518786[Thread 0x00007f35953246c0]:Unable to open the file/data/Hoop Spark/bolt.stl
+[error]	2026-02-23 08:05:39.518924[Thread 0x00007f352a06d6c0]:Unable to open the file/data/bolt.stl
+[warning]	2026-02-23 08:05:40.360082[Thread 0x00007f35c27874c0]:08:05:40 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-23 08:05:40.376323[Thread 0x00007f35c27874c0]:08:05:40 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-23 08:05:40.383220[Thread 0x00007f35c27874c0]:08:05:40 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-23 08:05:40.518784[Thread 0x00007f35c27874c0]:08:05:40 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-23 08:05:43.646349[Thread 0x00007f35c27874c0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-02-23 08:05:44.459656[Thread 0x00007f35c27874c0]:08:05:44 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-02-23 08:05:52.627692[Thread 0x00007f35c27874c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-23 08:05:54.930992[Thread 0x00007f35c27874c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-23 08:06:12.868206[Thread 0x00007f35c27874c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-23 10:45:41.938669[Thread 0x00007f35c27874c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-23 10:46:20.149928[Thread 0x00007f35c27874c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-23 13:58:13.692146[Thread 0x00007f35c27874c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-02-23 13:58:34.526544[Thread 0x00007f352bfff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-02-23 13:59:01.296647[Thread 0x00007f35953246c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-02-23 20:49:43.393894[Thread 0x00007f35c27874c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-02-23 20:50:03.981771[Thread 0x00007f352bfff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-02-23 21:00:35.491706[Thread 0x00007f352bfff6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
