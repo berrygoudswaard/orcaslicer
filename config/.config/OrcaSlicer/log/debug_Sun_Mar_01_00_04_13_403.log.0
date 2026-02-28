@@ -1,0 +1,15 @@
+[error]	2026-03-01 00:05:20.635403[Thread 0x00007f24748316c0]:Unable to open connection to spacenavd
+[error]	2026-03-01 00:05:24.037220[Thread 0x00007f2504c0f4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-01 00:05:24.081250[Thread 0x00007f2462bfc6c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-03-01 00:05:24.081293[Thread 0x00007f2462bfc6c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-03-01 00:05:24.081307[Thread 0x00007f2462bfc6c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-03-01 00:05:24.081321[Thread 0x00007f2462bfc6c0]:Unable to open the file/data/Hoop Spark/Body.3mf
+[error]	2026-03-01 00:05:24.081333[Thread 0x00007f2462bfc6c0]:Unable to open the file/data/Hoop Spark/Body.stl
+[error]	2026-03-01 00:05:24.081452[Thread 0x00007f2504c0f4c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-03-01 00:05:24.081470[Thread 0x00007f2504c0f4c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-03-01 00:05:24.081643[Thread 0x00007f2504c0f4c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[warning]	2026-03-01 00:05:25.396244[Thread 0x00007f2504c0f4c0]:12:05:25 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-01 00:05:25.405861[Thread 0x00007f2504c0f4c0]:12:05:25 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-01 00:05:25.412046[Thread 0x00007f2504c0f4c0]:12:05:25 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-01 00:05:25.418167[Thread 0x00007f2504c0f4c0]:12:05:25 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-03-01 00:05:29.403653[Thread 0x00007f2504c0f4c0]:calc_exclude_triangles:Unable to create exclude triangles
