@@ -1,4 +1,5 @@
 {
+    "bottom_shell_layers": "5",
     "bridge_flow": "0.85",
     "brim_object_gap": "0",
     "elefant_foot_compensation": "0.15",
@@ -9,7 +10,7 @@
     "initial_layer_print_height": "0.24",
     "inner_wall_acceleration": "1500",
     "inner_wall_line_width": "120%",
-    "inner_wall_speed": "50",
+    "inner_wall_speed": "40",
     "internal_bridge_speed": "25",
     "internal_solid_infill_line_width": "120%",
     "ironing_flow": "15%",
@@ -18,7 +19,7 @@
     "line_width": "100%",
     "name": "Voron 2.4 - 0.20mm - Polymaker Polylite ABS - Claude",
     "outer_wall_acceleration": "1000",
-    "outer_wall_line_width": "100%",
+    "outer_wall_line_width": "110%",
     "outer_wall_speed": "30",
     "print_sequence": "by object",
     "print_settings_id": "Voron 2.4 - 0.20mm - Polymaker Polylite ABS - Claude",
