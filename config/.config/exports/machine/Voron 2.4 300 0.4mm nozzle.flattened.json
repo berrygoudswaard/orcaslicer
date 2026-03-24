@@ -160,5 +160,6 @@
     "is_custom_defined": "0",
     "manual_filament_change": "1",
     "print_host": "http://192.168.2.75",
+    "use_firmware_retraction": "1",
     "version": "2.2.0.4"
 }

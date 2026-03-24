@@ -2,6 +2,7 @@
     "bottom_shell_layers": "5",
     "bridge_flow": "0.85",
     "brim_object_gap": "0",
+    "brim_type": "outer_only",
     "elefant_foot_compensation": "0.15",
     "from": "User",
     "hole_to_polyhole": "1",

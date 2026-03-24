@@ -14,5 +14,6 @@
     "retraction_length": [
         "0.4"
     ],
+    "use_firmware_retraction": "1",
     "version": "2.2.0.4"
 }

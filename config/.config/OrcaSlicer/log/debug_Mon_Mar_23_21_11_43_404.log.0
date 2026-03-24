@@ -14,3 +14,16 @@
 [warning]	2026-03-23 21:12:02.352929[Thread 0x00007f07a449d4c0]:get_version, get_version not supported,return 00.00.00.00!
 [error]	2026-03-23 21:12:05.987836[Thread 0x00007f07a449d4c0]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2026-03-23 21:12:08.240506[Thread 0x00007f07a449d4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-23 21:45:54.845808[Thread 0x00007f0702bfc6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-23 21:45:54.925463[Thread 0x00007f07027fb6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-23 21:45:54.962124[Thread 0x00007f07027fb6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-23 23:35:52.046720[Thread 0x00007f07027fb6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-23 23:35:52.151998[Thread 0x00007f0702ffd6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-23 23:35:52.195343[Thread 0x00007f0702ffd6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-23 23:56:46.123384[Thread 0x00007f0702bfc6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-23 23:56:46.163780[Thread 0x00007f0702bfc6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-23 23:56:46.191772[Thread 0x00007f07027fb6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-24 09:10:32.093191[Thread 0x00007f07027fb6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-24 09:10:32.220357[Thread 0x00007f0702ffd6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-24 09:10:32.243516[Thread 0x00007f0702ffd6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-03-24 11:18:26.294431[Thread 0x00007f07a449d4c0]:calc_exclude_triangles:Unable to create exclude triangles

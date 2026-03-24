@@ -1,0 +1,17 @@
+[warning]	2026-03-24 11:28:04.678839[Thread 0x00007fb25cd844c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - Polymaker Polylite ABS - Claude
+[error]	2026-03-24 11:28:06.311911[Thread 0x00007fb1c50326c0]:Unable to open connection to spacenavd
+[error]	2026-03-24 11:28:08.410137[Thread 0x00007fb25cd844c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 11:28:08.589602[Thread 0x00007fb1b6bfc6c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-03-24 11:28:08.589644[Thread 0x00007fb1b6bfc6c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-03-24 11:28:08.589658[Thread 0x00007fb1b6bfc6c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-03-24 11:28:08.589671[Thread 0x00007fb1b6bfc6c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-03-24 11:28:08.589684[Thread 0x00007fb1b6bfc6c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-03-24 11:28:08.589696[Thread 0x00007fb1b6bfc6c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-03-24 11:28:08.589707[Thread 0x00007fb1b6bfc6c0]:Unable to open the file/data/Hoop Spark/Body.3mf
+[warning]	2026-03-24 11:28:09.778229[Thread 0x00007fb25cd844c0]:11:28:09 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-24 11:28:09.785898[Thread 0x00007fb25cd844c0]:11:28:09 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-24 11:28:09.857803[Thread 0x00007fb25cd844c0]:11:28:09 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-24 11:28:09.997927[Thread 0x00007fb25cd844c0]:11:28:09 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-03-24 11:28:13.627018[Thread 0x00007fb25cd844c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-24 11:28:13.719492[Thread 0x00007fb25cd844c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-03-24 11:28:16.053297[Thread 0x00007fb25cd844c0]:calc_exclude_triangles:Unable to create exclude triangles
