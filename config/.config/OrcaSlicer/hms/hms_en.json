@@ -2060,9 +2060,73 @@
             {
                 "ecode": "07FFC030",
                 "intro": "The filament specified in the slicer has been used up. Printing is paused. Please go to the machine to replace the material and resume printing."
+            },
+            {
+                "ecode": "0703C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0704C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1806C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0700C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1804C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1807C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1800C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1802C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0705C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0706C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0707C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0702C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1803C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1805C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1801C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0701C008",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
             }
         ],
-        "ver": 202603241536
+        "ver": 202603301437
     },
     "device_hms": {
         "en": [
@@ -3827,6 +3891,130 @@
                 "intro": "G-code data error detected. The system has automatically reloaded the G-code and resumed printing."
             },
             {
+                "ecode": "1802500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0702500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1803500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0700500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1800500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0701500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0707500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0706500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1801500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0705500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1805500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1806500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1807500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0703500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "1804500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0704500000020002",
+                "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0706200000020019",
+                "intro": "AMS G slot 1 assist motor is stalled，due to excessive resistance in the tube between AMS and the filament buffer."
+            },
+            {
+                "ecode": "1800220000020023",
+                "intro": "AMS-HT A slot 3 the tube inside the AMS is broken, or feed-out hall sensor is faulty and cannot detect the filament."
+            },
+            {
+                "ecode": "1806230000020020",
+                "intro": "AMS-HT G slot 4 assist motor is stalled，due to excessive resistance in the tube near the filament buffer。"
+            },
+            {
+                "ecode": "0702500000020001",
+                "intro": "AMS C communication is abnormal; please check the connection cable."
+            },
+            {
+                "ecode": "0300900000010010",
+                "intro": "The communication of chamber temperature controller is abnormal."
+            },
+            {
+                "ecode": "0707200000020014",
+                "intro": "AMS H slot 1 filament odometer has no signal, which may be due to poor contact in the odometer connector or a odometer fault."
+            },
+            {
+                "ecode": "1804220000020021",
+                "intro": "AMS-HT E slot 3 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
+            },
+            {
+                "ecode": "0703350000010002",
+                "intro": "AMS D The humidity sensor is disconnected, which may be due to poor connector contact."
+            },
+            {
+                "ecode": "1800810000010002",
+                "intro": "AMS-HT A The heater 2 is disconnected, which may be due to poor connector contact."
+            },
+            {
+                "ecode": "1807230000020003",
+                "intro": "AMS-HT H Slot 4's filament may be broken in AMS-HT."
+            },
+            {
+                "ecode": "0703230000020015",
+                "intro": "AMS D slot 4 filament status is abnormal, which may be due to a filament breakage inside the AMS."
+            },
+            {
+                "ecode": "1807200000030002",
+                "intro": "AMS-HT H Slot 1 filament has run out and automatically switched to the slot with the same filament."
+            },
+            {
+                "ecode": "0702900000020001",
+                "intro": "AMS C The operation of the exhaust valve 1 is abnormal, which may be due to excessive resistance."
+            },
+            {
+                "ecode": "0706010000010011",
+                "intro": "AMS G The assist motor calibration parameter error. Please pull out the filament from the filament hub and then restart the AMS."
+            },
+            {
+                "ecode": "0703200000020004",
+                "intro": "AMS D Slot 1 filament may be broken in the tool head."
+            },
+            {
                 "ecode": "1806120000020002",
                 "intro": "The AMS-HT G slot 3 motor is overloaded. The filament may be tangled or stuck."
             },
@@ -4988,7 +5176,7 @@
             },
             {
                 "ecode": "0300020000010009",
-                "intro": "Nozzle temperature control is abnormal. The hot end may not be installed. To heat the heating assembly without the hotend, enable Maintenance Mode in the settings."
+                "intro": "Nozzle temperature control is abnormal. The hot end may not be installed. To heat the heating assembly without the hotend, enable Maintenance Mode."
             },
             {
                 "ecode": "1801200000020006",
@@ -8953,78 +9141,6 @@
             {
                 "ecode": "1801310000030003",
                 "intro": "RFID cannot be read because of a hardware or structural error."
-            },
-            {
-                "ecode": "1807010000010001",
-                "intro": "The AMS-HT H assist motor has slipped. The extrusion wheel may be worn down, or the filament may be too thin."
-            },
-            {
-                "ecode": "0707230000010083",
-                "intro": "Failed to read the filament information from AMS H slot 4. The RFID tag may be damaged."
-            },
-            {
-                "ecode": "1802320000020002",
-                "intro": "The RFID-tag on AMS-HT C Slot3 is damaged, or its content cannot be identified."
-            },
-            {
-                "ecode": "0701210000020023",
-                "intro": "AMS B slot 2 the tube inside the AMS is broken, or feed-out hall sensor is faulty and cannot detect the filament."
-            },
-            {
-                "ecode": "0701300000010004",
-                "intro": "Encryption chip failure"
-            },
-            {
-                "ecode": "0705220000020022",
-                "intro": "AMS F slot 3 assist motor is stalled，due to excessive resistance in the tube near the toolhead."
-            },
-            {
-                "ecode": "1802960000020002",
-                "intro": "AMS-HT C Environmental temperature is too low, which will affect the drying capability."
-            },
-            {
-                "ecode": "0704220000020003",
-                "intro": "AMS E Slot 3's filament may be broken in AMS."
-            },
-            {
-                "ecode": "0702200000010086",
-                "intro": "Failed to read the filament information from AMS C slot 1. The RFID tag cannot rotate due to a jam during the filament loading or unloading. Please pull out the filament and try again."
-            },
-            {
-                "ecode": "1806210000020009",
-                "intro": "Failed to extrude AMS-HT G Slot 2 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
-            },
-            {
-                "ecode": "1807200000020003",
-                "intro": "AMS-HT H Slot 1's filament may be broken in AMS-HT."
-            },
-            {
-                "ecode": "0706220000010081",
-                "intro": "Failed to read the filament information from AMS G slot 3. The AMS main board may be malfunctioning."
-            },
-            {
-                "ecode": "0700910000020001",
-                "intro": "AMS A The operation of the exhaust valve 2 is abnormal, which may be due to excessive resistance."
-            },
-            {
-                "ecode": "1800310000030003",
-                "intro": "RFID cannot be read because of a hardware or structural error."
-            },
-            {
-                "ecode": "1806210000010084",
-                "intro": "Failed to read the filament information from AMS-HT G slot 2. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "1804620000020001",
-                "intro": "The AMS-HT E Slot 3 is overloaded. The filament may be tangled or the filament buffer may be stuck."
-            },
-            {
-                "ecode": "1806910000020001",
-                "intro": "AMS-HT G The operation of the exhaust valve 2 is abnormal, which may be due to excessive resistance."
-            },
-            {
-                "ecode": "0701230000030001",
-                "intro": "AMS B Slot 4 filament has run out. Please wait while old filament is purged."
             },
             {
                 "ecode": "1800120000010001",
@@ -14935,64 +15051,76 @@
                 "intro": "AMS-HT D The cooling fan speed of heater 1 is too low, which could be due to excessive fan resistance."
             },
             {
-                "ecode": "0706200000020019",
-                "intro": "AMS G slot 1 assist motor is stalled，due to excessive resistance in the tube between AMS and the filament buffer."
+                "ecode": "1807010000010001",
+                "intro": "The AMS-HT H assist motor has slipped. The extrusion wheel may be worn down, or the filament may be too thin."
             },
             {
-                "ecode": "1800220000020023",
-                "intro": "AMS-HT A slot 3 the tube inside the AMS is broken, or feed-out hall sensor is faulty and cannot detect the filament."
+                "ecode": "0707230000010083",
+                "intro": "Failed to read the filament information from AMS H slot 4. The RFID tag may be damaged."
             },
             {
-                "ecode": "1806230000020020",
-                "intro": "AMS-HT G slot 4 assist motor is stalled，due to excessive resistance in the tube near the filament buffer。"
+                "ecode": "1802320000020002",
+                "intro": "The RFID-tag on AMS-HT C Slot3 is damaged, or its content cannot be identified."
             },
             {
-                "ecode": "0702500000020001",
-                "intro": "AMS C communication is abnormal; please check the connection cable."
+                "ecode": "0701210000020023",
+                "intro": "AMS B slot 2 the tube inside the AMS is broken, or feed-out hall sensor is faulty and cannot detect the filament."
             },
             {
-                "ecode": "0300900000010010",
-                "intro": "The communication of chamber temperature controller is abnormal."
+                "ecode": "0701300000010004",
+                "intro": "Encryption chip failure"
             },
             {
-                "ecode": "0707200000020014",
-                "intro": "AMS H slot 1 filament odometer has no signal, which may be due to poor contact in the odometer connector or a odometer fault."
+                "ecode": "0705220000020022",
+                "intro": "AMS F slot 3 assist motor is stalled，due to excessive resistance in the tube near the toolhead."
             },
             {
-                "ecode": "1804220000020021",
-                "intro": "AMS-HT E slot 3 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
+                "ecode": "1802960000020002",
+                "intro": "AMS-HT C Environmental temperature is too low, which will affect the drying capability."
             },
             {
-                "ecode": "0703350000010002",
-                "intro": "AMS D The humidity sensor is disconnected, which may be due to poor connector contact."
+                "ecode": "0704220000020003",
+                "intro": "AMS E Slot 3's filament may be broken in AMS."
             },
             {
-                "ecode": "1800810000010002",
-                "intro": "AMS-HT A The heater 2 is disconnected, which may be due to poor connector contact."
+                "ecode": "0702200000010086",
+                "intro": "Failed to read the filament information from AMS C slot 1. The RFID tag cannot rotate due to a jam during the filament loading or unloading. Please pull out the filament and try again."
             },
             {
-                "ecode": "1807230000020003",
-                "intro": "AMS-HT H Slot 4's filament may be broken in AMS-HT."
+                "ecode": "1806210000020009",
+                "intro": "Failed to extrude AMS-HT G Slot 2 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
             },
             {
-                "ecode": "0703230000020015",
-                "intro": "AMS D slot 4 filament status is abnormal, which may be due to a filament breakage inside the AMS."
+                "ecode": "1807200000020003",
+                "intro": "AMS-HT H Slot 1's filament may be broken in AMS-HT."
             },
             {
-                "ecode": "1807200000030002",
-                "intro": "AMS-HT H Slot 1 filament has run out and automatically switched to the slot with the same filament."
+                "ecode": "0706220000010081",
+                "intro": "Failed to read the filament information from AMS G slot 3. The AMS main board may be malfunctioning."
             },
             {
-                "ecode": "0702900000020001",
-                "intro": "AMS C The operation of the exhaust valve 1 is abnormal, which may be due to excessive resistance."
+                "ecode": "0700910000020001",
+                "intro": "AMS A The operation of the exhaust valve 2 is abnormal, which may be due to excessive resistance."
             },
             {
-                "ecode": "0706010000010011",
-                "intro": "AMS G The assist motor calibration parameter error. Please pull out the filament from the filament hub and then restart the AMS."
+                "ecode": "1800310000030003",
+                "intro": "RFID cannot be read because of a hardware or structural error."
             },
             {
-                "ecode": "0703200000020004",
-                "intro": "AMS D Slot 1 filament may be broken in the tool head."
+                "ecode": "1806210000010084",
+                "intro": "Failed to read the filament information from AMS-HT G slot 2. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+            },
+            {
+                "ecode": "1804620000020001",
+                "intro": "The AMS-HT E Slot 3 is overloaded. The filament may be tangled or the filament buffer may be stuck."
+            },
+            {
+                "ecode": "1806910000020001",
+                "intro": "AMS-HT G The operation of the exhaust valve 2 is abnormal, which may be due to excessive resistance."
+            },
+            {
+                "ecode": "0701230000030001",
+                "intro": "AMS B Slot 4 filament has run out. Please wait while old filament is purged."
             },
             {
                 "ecode": "1805210000020013",
@@ -18143,7 +18271,7 @@
                 "intro": "AMS-HT A The coil resistance of exhaust valve 1 is abnormal, which may be due to abnormal wiring or damage."
             }
         ],
-        "ver": 202603241536
+        "ver": 202603301437
     },
-    "version": "202603241536"
+    "version": "202603301437"
 }
