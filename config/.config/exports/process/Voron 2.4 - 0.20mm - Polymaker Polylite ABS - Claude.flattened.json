@@ -86,7 +86,7 @@
     "compatible_printers_condition": "",
     "top_surface_acceleration": "1000",
     "travel_acceleration": "7000",
-    "inner_wall_acceleration": "1500",
+    "inner_wall_acceleration": "800",
     "outer_wall_acceleration": "1000",
     "draft_shield": "disabled",
     "wall_infill_order": "inner wall/outer wall/infill",
