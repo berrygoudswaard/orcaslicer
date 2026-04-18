@@ -19,7 +19,7 @@
         "Voron Switchwire 250 0.4 nozzle"
     ],
     "print_sequence": "by object",
-    "default_acceleration": "5000",
+    "default_acceleration": "2000",
     "bridge_no_support": "0",
     "elefant_foot_compensation": "0.15",
     "outer_wall_line_width": "110%",
@@ -45,7 +45,7 @@
     "inner_wall_speed": "40",
     "print_settings_id": "Voron 2.4 - 0.20mm - Polymaker Polylite ABS - Claude",
     "raft_layers": "0",
-    "seam_position": "aligned",
+    "seam_position": "back",
     "skirt_distance": "2",
     "skirt_height": "1",
     "minimum_sparse_infill_area": "15",
