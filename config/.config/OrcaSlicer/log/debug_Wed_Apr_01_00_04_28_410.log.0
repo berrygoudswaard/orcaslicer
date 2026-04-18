@@ -14,3 +14,12 @@
 [warning]	2026-04-01 00:06:12.497507[Thread 0x00007f25a64224c0]:get_version, get_version not supported,return 00.00.00.00!
 [error]	2026-04-17 15:44:34.602857[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2026-04-17 15:44:36.490524[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 19:05:12.426556[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 19:07:19.261785[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 20:14:09.547878[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 20:14:26.929697[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 20:14:38.739819[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 20:16:17.436090[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 20:16:17.672753[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 20:16:17.690391[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-18 20:16:18.882852[Thread 0x00007f25a64224c0]:calc_exclude_triangles:Unable to create exclude triangles
