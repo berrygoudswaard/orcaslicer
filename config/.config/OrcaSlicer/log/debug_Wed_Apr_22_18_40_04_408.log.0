@@ -23,3 +23,39 @@
 [error]	2026-04-22 22:55:24.051176[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2026-04-22 23:44:34.904819[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2026-04-22 23:44:48.938187[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-04-22 23:45:05.519649[Thread 0x00007fb9807f66c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-22 23:45:05.758948[Thread 0x00007fb95b7fe6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-22 23:45:05.772758[Thread 0x00007fb95b7fe6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-22 23:45:05.799478[Thread 0x00007fb95b7fe6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-23 08:53:35.818803[Thread 0x00007fb95b3fd6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-23 08:53:36.015288[Thread 0x00007fb9377fe6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-23 08:53:36.028395[Thread 0x00007fb9377fe6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-23 08:53:36.056339[Thread 0x00007fb9377fe6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-23 19:30:16.781239[Thread 0x00007fb9807f66c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-23 19:30:16.904763[Thread 0x00007fb95b3fd6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-23 19:30:16.917594[Thread 0x00007fb95b3fd6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-04-23 19:30:16.943858[Thread 0x00007fb95b3fd6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-04-23 20:07:39.204915[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-23 20:07:56.306232[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-23 20:34:17.681134[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-04-23 20:34:56.414439[Thread 0x00007fba0601e4c0]:Fontlist cache - '/config/.config/OrcaSlicer/cache/fonts.cereal' does not exists.
+[error]	2026-04-23 20:37:43.214761[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:38:08.705347[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:38:11.209813[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:38:19.871550[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-23 20:38:20.069767[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:38:52.841138[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:38:58.646263[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:39:02.277708[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-23 20:39:04.510799[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-23 20:39:07.133497[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-23 20:39:07.988374[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-23 20:39:08.099423[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:39:57.514010[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:40:00.486492[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:40:04.516469[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:40:06.452517[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-04-23 20:40:10.020170[Thread 0x00007fb9d17fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-04-23 20:40:24.668000[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:40:29.784345[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-04-23 20:41:07.318739[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
