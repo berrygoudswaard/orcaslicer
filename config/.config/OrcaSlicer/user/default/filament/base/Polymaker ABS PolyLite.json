@@ -110,7 +110,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "14"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -264,7 +264,7 @@
         "0"
     ],
     "slow_down_layer_time": [
-        "5"
+        "0"
     ],
     "slow_down_min_speed": [
         "10"

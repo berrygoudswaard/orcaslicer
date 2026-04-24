@@ -59,3 +59,11 @@
 [error]	2026-04-23 20:40:24.668000[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
 [error]	2026-04-23 20:40:29.784345[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
 [error]	2026-04-23 20:41:07.318739[Thread 0x00007fba0601e4c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-04-23 20:44:55.913747[Thread 0x00007fb9d17fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-04-24 18:21:37.500086[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-24 18:24:38.582080[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-24 20:43:18.877139[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-24 20:43:24.721869[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-24 21:24:05.073209[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-04-24 21:27:28.703637[Thread 0x00007fba0601e4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-04-24 21:32:45.685018[Thread 0x00007fb9d17fe6c0]:Arrange full params: {"min_obj_distance":65001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,

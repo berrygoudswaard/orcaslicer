@@ -1,13 +1,15 @@
 {
     "elefant_foot_compensation": "0.2",
+    "enable_support": "1",
     "from": "User",
     "infill_wall_overlap": "15%",
     "inherits": "0.20mm Standard @Voron",
     "initial_layer_line_width": "125%",
     "initial_layer_print_height": "0.24",
     "initial_layer_speed": "40",
+    "inner_wall_acceleration": "2000",
     "inner_wall_line_width": "100%",
-    "inner_wall_speed": "150",
+    "inner_wall_speed": "80",
     "internal_solid_infill_line_width": "120%",
     "is_custom_defined": "0",
     "line_width": "100%",
@@ -19,7 +21,9 @@
     "sparse_infill_line_width": "120%",
     "sparse_infill_speed": "250",
     "support_line_width": "120%",
+    "support_type": "tree(auto)",
     "top_surface_line_width": "125%",
     "travel_speed": "500",
-    "version": "2.2.0.4"
+    "version": "2.2.0.4",
+    "wall_loops": "4"
 }
