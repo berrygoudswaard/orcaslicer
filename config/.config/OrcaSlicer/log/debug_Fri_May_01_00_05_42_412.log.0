@@ -1,0 +1,10 @@
+[warning]	2026-05-01 00:06:53.185102[Thread 0x00007f968392b4c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - eSun PLA Basic
+[error]	2026-05-01 00:06:53.357946[Thread 0x00007f968392b4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/base/eSUN PLA Basic.json!
+[error]	2026-05-01 00:06:56.140608[Thread 0x00007f94df7fe6c0]:Unable to open connection to spacenavd
+[error]	2026-05-01 00:07:00.719091[Thread 0x00007f968392b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-01 00:07:00.768750[Thread 0x00007f94c53f96c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-05-01 00:07:00.768792[Thread 0x00007f94c53f96c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-05-01 00:07:00.768806[Thread 0x00007f94c53f96c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-05-01 00:07:00.768819[Thread 0x00007f94c53f96c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-05-01 00:07:00.768831[Thread 0x00007f94c53f96c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-05-01 00:07:01.081251[Thread 0x00007f94dc4f56c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf

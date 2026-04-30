@@ -2158,7 +2158,7 @@
                 "intro": "An error occurred during AMS-HT A drying. Please go to Assistant for more details."
             }
         ],
-        "ver": 202604230017
+        "ver": 202604300951
     },
     "device_hms": {
         "en": [
@@ -3985,6 +3985,18 @@
             {
                 "ecode": "0704500000020002",
                 "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
+            },
+            {
+                "ecode": "0707220000020013",
+                "intro": "AMS H slot 3 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
+            },
+            {
+                "ecode": "0706500000020001",
+                "intro": "AMS G communication is abnormal; please check the connection cable."
+            },
+            {
+                "ecode": "1803100000020004",
+                "intro": "AMS-HT D The brushed motor 1 has no signal, which may be due to poor contact in the motor connector or a motor fault."
             },
             {
                 "ecode": "1802010000020007",
@@ -8973,202 +8985,6 @@
             {
                 "ecode": "1806700000020008",
                 "intro": "Failed to get AMS mapping table; please select \"Resume\" to retry."
-            },
-            {
-                "ecode": "1800010000020008",
-                "intro": "AMS-HT A The assist motor phase winding has an open circuit. The assist motor may be faulty."
-            },
-            {
-                "ecode": "1803220000020022",
-                "intro": "AMS-HT D slot 3 assist motor is stalled，due to excessive resistance in the tube near the toolhead."
-            },
-            {
-                "ecode": "0706110000020002",
-                "intro": "The AMS G slot 2 motor is overloaded. The filament may be tangled or stuck."
-            },
-            {
-                "ecode": "1806010000020007",
-                "intro": "AMS-HT G The assist motor encoder wires are not connected. The assist motor connector may have poor contact."
-            },
-            {
-                "ecode": "0703210000020008",
-                "intro": "AMS D Slot 2 feed-in Hall sensor is disconnected, which may be due to poor connector contact."
-            },
-            {
-                "ecode": "1806300000030003",
-                "intro": "RFID cannot be read because of a hardware or structural error."
-            },
-            {
-                "ecode": "0707210000010083",
-                "intro": "Failed to read the filament information from AMS H slot 2. The RFID tag may be damaged."
-            },
-            {
-                "ecode": "0500010000030005",
-                "intro": "The Micro SD card is in Read-Only mode. Video recording and Timelapse recording cannot be performed. Please refer to the Wiki for assistance."
-            },
-            {
-                "ecode": "0705200000020012",
-                "intro": "AMS F slot 1 feeder unit motor is stalled, cannot rotate the spool."
-            },
-            {
-                "ecode": "0700230000020003",
-                "intro": "AMS A Slot 4's filament may be broken in AMS."
-            },
-            {
-                "ecode": "1807010000020009",
-                "intro": "AMS-HT H The assist motor has unbalanced tree-phase resistaance. The assist motor may be faulty."
-            },
-            {
-                "ecode": "0702200000010084",
-                "intro": "Failed to read the filament information from AMS C slot 1. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "0706230000020024",
-                "intro": "AMS G slot 4 failed to rotate the filament spool when pulling filament back to AMS."
-            },
-            {
-                "ecode": "0500050000010001",
-                "intro": "The factory data of the AP board is abnormal; please replace the AP board with a new one."
-            },
-            {
-                "ecode": "1805210000010084",
-                "intro": "Failed to read the filament information from AMS-HT F slot 2. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "1806230000020011",
-                "intro": "AMS-HT G slot 4 pulls filament back to AMS timeout."
-            },
-            {
-                "ecode": "0703210000020017",
-                "intro": "AMS D slot 2 assist motor is stalled，due to excessive resistance in the tube between AMS and the printer."
-            },
-            {
-                "ecode": "1802200000020012",
-                "intro": "AMS-HT C slot 1 feeder unit motor is stalled, cannot rotate the spool."
-            },
-            {
-                "ecode": "1802810000010004",
-                "intro": "AMS-HT C The heater 2 is heating abnormally."
-            },
-            {
-                "ecode": "0705220000010086",
-                "intro": "Failed to read the filament information from AMS F slot 3. The RFID tag cannot rotate due to a jam during the filament loading or unloading. Please pull out the filament and try again."
-            },
-            {
-                "ecode": "0700010000020002",
-                "intro": "The AMS A assist motor is overloaded. The filament may be tangled or stuck."
-            },
-            {
-                "ecode": "0700210000020008",
-                "intro": "AMS A Slot 2 feed-in Hall sensor is disconnected, which may be due to poor connector contact."
-            },
-            {
-                "ecode": "1806700000020003",
-                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
-            },
-            {
-                "ecode": "1803210000020003",
-                "intro": "AMS-HT D Slot 2's filament may be broken in AMS-HT."
-            },
-            {
-                "ecode": "1806220000020011",
-                "intro": "AMS-HT G slot 3 pulls filament back to AMS timeout."
-            },
-            {
-                "ecode": "1802200000020009",
-                "intro": "Failed to extrude AMS-HT C Slot 1 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
-            },
-            {
-                "ecode": "0707230000010084",
-                "intro": "Failed to read the filament information from AMS H slot 4. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "1807010000010011",
-                "intro": "AMS-HT H The assist motor calibration parameter error. Please pull out the filament from the filament hub and then restart the AMS."
-            },
-            {
-                "ecode": "1802210000020007",
-                "intro": "AMS-HT C Slot 2 feed-out Hall sensor is disconnected. The connector may have poor contact."
-            },
-            {
-                "ecode": "1800230000020021",
-                "intro": "AMS-HT A slot 4 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
-            },
-            {
-                "ecode": "1801200000020008",
-                "intro": "AMS-HT B Slot 1 feed-in Hall sensor is disconnected, which may be due to poor connector contact."
-            },
-            {
-                "ecode": "0704230000020004",
-                "intro": "AMS E Slot 4 filament may be broken in the tool head."
-            },
-            {
-                "ecode": "0703910000010003",
-                "intro": "AMS D The exhaust valve 2 is not connected, which may be due to poor connector contact."
-            },
-            {
-                "ecode": "0702230000010084",
-                "intro": "Failed to read the filament information from AMS C slot 4. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
-            },
-            {
-                "ecode": "0700800000010002",
-                "intro": "AMS A The heater 1 is disconnected, which may be due to poor connector contact."
-            },
-            {
-                "ecode": "0707230000020007",
-                "intro": "AMS H Slot 4 feed-out Hall sensor is disconnected. The connector may have poor contact."
-            },
-            {
-                "ecode": "0701100000020004",
-                "intro": "AMS B The brushed motor 1 has no signal, which may be due to poor contact in the motor connector or a motor fault."
-            },
-            {
-                "ecode": "1806310000010001",
-                "intro": "The AMS-HT G RFID 2 board has an error."
-            },
-            {
-                "ecode": "0702230000020015",
-                "intro": "AMS C slot 4 filament status is abnormal, which may be due to a filament breakage inside the AMS."
-            },
-            {
-                "ecode": "0703320000020002",
-                "intro": "The RFID-tag on AMS D Slot3 is damaged, or its content cannot be identified."
-            },
-            {
-                "ecode": "0702220000020022",
-                "intro": "AMS C slot 3 assist motor is stalled，due to excessive resistance in the tube near the toolhead."
-            },
-            {
-                "ecode": "0706220000020007",
-                "intro": "AMS G Slot 3 feed-out Hall sensor is disconnected. The connector may have poor contact."
-            },
-            {
-                "ecode": "1806210000020004",
-                "intro": "AMS-HT G Slot 2 filament may be broken in the tool head."
-            },
-            {
-                "ecode": "1803110000020002",
-                "intro": "The AMS-HT D slot 2 motor is overloaded. The filament may be tangled or stuck."
-            },
-            {
-                "ecode": "0704200000030001",
-                "intro": "AMS E Slot 1 filament has run out. Please wait while old filament is purged."
-            },
-            {
-                "ecode": "1801230000020016",
-                "intro": "AMS-HT B slot 4 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
-            },
-            {
-                "ecode": "0500060000020041",
-                "intro": ""
-            },
-            {
-                "ecode": "1807220000020023",
-                "intro": "AMS-HT H slot 3 the tube inside the AMS is broken, or feed-out hall sensor is faulty and cannot detect the filament."
-            },
-            {
-                "ecode": "1804220000020024",
-                "intro": "AMS-HT E slot 3 failed to rotate the filament spool when pulling filament back to AMS."
             },
             {
                 "ecode": "1800120000010001",
@@ -14999,16 +14815,200 @@
                 "intro": "AMS-HT C Slot 3 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
             },
             {
-                "ecode": "0707220000020013",
-                "intro": "AMS H slot 3 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
+                "ecode": "1800010000020008",
+                "intro": "AMS-HT A The assist motor phase winding has an open circuit. The assist motor may be faulty."
             },
             {
-                "ecode": "0706500000020001",
-                "intro": "AMS G communication is abnormal; please check the connection cable."
+                "ecode": "1803220000020022",
+                "intro": "AMS-HT D slot 3 assist motor is stalled，due to excessive resistance in the tube near the toolhead."
             },
             {
-                "ecode": "1803100000020004",
-                "intro": "AMS-HT D The brushed motor 1 has no signal, which may be due to poor contact in the motor connector or a motor fault."
+                "ecode": "0706110000020002",
+                "intro": "The AMS G slot 2 motor is overloaded. The filament may be tangled or stuck."
+            },
+            {
+                "ecode": "1806010000020007",
+                "intro": "AMS-HT G The assist motor encoder wires are not connected. The assist motor connector may have poor contact."
+            },
+            {
+                "ecode": "0703210000020008",
+                "intro": "AMS D Slot 2 feed-in Hall sensor is disconnected, which may be due to poor connector contact."
+            },
+            {
+                "ecode": "1806300000030003",
+                "intro": "RFID cannot be read because of a hardware or structural error."
+            },
+            {
+                "ecode": "0707210000010083",
+                "intro": "Failed to read the filament information from AMS H slot 2. The RFID tag may be damaged."
+            },
+            {
+                "ecode": "0500010000030005",
+                "intro": "The Micro SD card is in Read-Only mode. Video recording and Timelapse recording cannot be performed. Please refer to the Wiki for assistance."
+            },
+            {
+                "ecode": "0705200000020012",
+                "intro": "AMS F slot 1 feeder unit motor is stalled, cannot rotate the spool."
+            },
+            {
+                "ecode": "0700230000020003",
+                "intro": "AMS A Slot 4's filament may be broken in AMS."
+            },
+            {
+                "ecode": "1807010000020009",
+                "intro": "AMS-HT H The assist motor has unbalanced tree-phase resistaance. The assist motor may be faulty."
+            },
+            {
+                "ecode": "0702200000010084",
+                "intro": "Failed to read the filament information from AMS C slot 1. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+            },
+            {
+                "ecode": "0706230000020024",
+                "intro": "AMS G slot 4 failed to rotate the filament spool when pulling filament back to AMS."
+            },
+            {
+                "ecode": "0500050000010001",
+                "intro": "The factory data of the AP board is abnormal; please replace the AP board with a new one."
+            },
+            {
+                "ecode": "1805210000010084",
+                "intro": "Failed to read the filament information from AMS-HT F slot 2. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+            },
+            {
+                "ecode": "1806230000020011",
+                "intro": "AMS-HT G slot 4 pulls filament back to AMS timeout."
+            },
+            {
+                "ecode": "0703210000020017",
+                "intro": "AMS D slot 2 assist motor is stalled，due to excessive resistance in the tube between AMS and the printer."
+            },
+            {
+                "ecode": "1802200000020012",
+                "intro": "AMS-HT C slot 1 feeder unit motor is stalled, cannot rotate the spool."
+            },
+            {
+                "ecode": "1802810000010004",
+                "intro": "AMS-HT C The heater 2 is heating abnormally."
+            },
+            {
+                "ecode": "0705220000010086",
+                "intro": "Failed to read the filament information from AMS F slot 3. The RFID tag cannot rotate due to a jam during the filament loading or unloading. Please pull out the filament and try again."
+            },
+            {
+                "ecode": "0700010000020002",
+                "intro": "The AMS A assist motor is overloaded. The filament may be tangled or stuck."
+            },
+            {
+                "ecode": "0700210000020008",
+                "intro": "AMS A Slot 2 feed-in Hall sensor is disconnected, which may be due to poor connector contact."
+            },
+            {
+                "ecode": "1806700000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1803210000020003",
+                "intro": "AMS-HT D Slot 2's filament may be broken in AMS-HT."
+            },
+            {
+                "ecode": "1806220000020011",
+                "intro": "AMS-HT G slot 3 pulls filament back to AMS timeout."
+            },
+            {
+                "ecode": "1802200000020009",
+                "intro": "Failed to extrude AMS-HT C Slot 1 filament; the extruder may be clogged or the filament may be too thin, causing the extruder to slip."
+            },
+            {
+                "ecode": "0707230000010084",
+                "intro": "Failed to read the filament information from AMS H slot 4. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+            },
+            {
+                "ecode": "1807010000010011",
+                "intro": "AMS-HT H The assist motor calibration parameter error. Please pull out the filament from the filament hub and then restart the AMS."
+            },
+            {
+                "ecode": "1802210000020007",
+                "intro": "AMS-HT C Slot 2 feed-out Hall sensor is disconnected. The connector may have poor contact."
+            },
+            {
+                "ecode": "1800230000020021",
+                "intro": "AMS-HT A slot 4 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
+            },
+            {
+                "ecode": "1801200000020008",
+                "intro": "AMS-HT B Slot 1 feed-in Hall sensor is disconnected, which may be due to poor connector contact."
+            },
+            {
+                "ecode": "0704230000020004",
+                "intro": "AMS E Slot 4 filament may be broken in the tool head."
+            },
+            {
+                "ecode": "0703910000010003",
+                "intro": "AMS D The exhaust valve 2 is not connected, which may be due to poor connector contact."
+            },
+            {
+                "ecode": "0702230000010084",
+                "intro": "Failed to read the filament information from AMS C slot 4. The RFID tag may be damaged or positioned at the edge of the RFID detection device. Please remove 5cm filament and try again."
+            },
+            {
+                "ecode": "0700800000010002",
+                "intro": "AMS A The heater 1 is disconnected, which may be due to poor connector contact."
+            },
+            {
+                "ecode": "0707230000020007",
+                "intro": "AMS H Slot 4 feed-out Hall sensor is disconnected. The connector may have poor contact."
+            },
+            {
+                "ecode": "0701100000020004",
+                "intro": "AMS B The brushed motor 1 has no signal, which may be due to poor contact in the motor connector or a motor fault."
+            },
+            {
+                "ecode": "1806310000010001",
+                "intro": "The AMS-HT G RFID 2 board has an error."
+            },
+            {
+                "ecode": "0702230000020015",
+                "intro": "AMS C slot 4 filament status is abnormal, which may be due to a filament breakage inside the AMS."
+            },
+            {
+                "ecode": "0703320000020002",
+                "intro": "The RFID-tag on AMS D Slot3 is damaged, or its content cannot be identified."
+            },
+            {
+                "ecode": "0702220000020022",
+                "intro": "AMS C slot 3 assist motor is stalled，due to excessive resistance in the tube near the toolhead."
+            },
+            {
+                "ecode": "0706220000020007",
+                "intro": "AMS G Slot 3 feed-out Hall sensor is disconnected. The connector may have poor contact."
+            },
+            {
+                "ecode": "1806210000020004",
+                "intro": "AMS-HT G Slot 2 filament may be broken in the tool head."
+            },
+            {
+                "ecode": "1803110000020002",
+                "intro": "The AMS-HT D slot 2 motor is overloaded. The filament may be tangled or stuck."
+            },
+            {
+                "ecode": "0704200000030001",
+                "intro": "AMS E Slot 1 filament has run out. Please wait while old filament is purged."
+            },
+            {
+                "ecode": "1801230000020016",
+                "intro": "AMS-HT B slot 4 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
+            },
+            {
+                "ecode": "0500060000020041",
+                "intro": ""
+            },
+            {
+                "ecode": "1807220000020023",
+                "intro": "AMS-HT H slot 3 the tube inside the AMS is broken, or feed-out hall sensor is faulty and cannot detect the filament."
+            },
+            {
+                "ecode": "1804220000020024",
+                "intro": "AMS-HT E slot 3 failed to rotate the filament spool when pulling filament back to AMS."
             },
             {
                 "ecode": "0701810000010003",
@@ -18267,7 +18267,7 @@
                 "intro": "AMS-HT A The coil resistance of exhaust valve 1 is abnormal, which may be due to abnormal wiring or damage."
             }
         ],
-        "ver": 202604230017
+        "ver": 202604300951
     },
-    "version": "202604230017"
+    "version": "202604300951"
 }
