@@ -1,0 +1,18 @@
+[warning]	2026-05-03 23:27:49.769986[Thread 0x00007ff3c72024c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - eSun PLA Basic
+[error]	2026-05-03 23:27:49.776941[Thread 0x00007ff3c72024c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/base/eSUN PLA Basic.json!
+[error]	2026-05-03 23:27:49.777384[Thread 0x00007ff3c72024c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/eSUN PLA Basic.json!
+[error]	2026-05-03 23:27:50.211711[Thread 0x00007ff32d0326c0]:Unable to open connection to spacenavd
+[error]	2026-05-03 23:27:51.437378[Thread 0x00007ff3c72024c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-03 23:27:51.451802[Thread 0x00007ff32e8356c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-05-03 23:27:51.451837[Thread 0x00007ff32e8356c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-05-03 23:27:51.451850[Thread 0x00007ff32e8356c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-05-03 23:27:51.451862[Thread 0x00007ff32e8356c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-05-03 23:27:51.451874[Thread 0x00007ff32e8356c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-05-03 23:27:51.451885[Thread 0x00007ff32e8356c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[warning]	2026-05-03 23:27:52.007839[Thread 0x00007ff3c72024c0]:11:27:52 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-03 23:27:52.232930[Thread 0x00007ff3c72024c0]:11:27:52 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-03 23:27:52.240819[Thread 0x00007ff3c72024c0]:11:27:52 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-03 23:27:52.389565[Thread 0x00007ff3c72024c0]:11:27:52 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-05-03 23:27:55.320549[Thread 0x00007ff3c72024c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-03 23:27:55.384859[Thread 0x00007ff3c72024c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-05-03 23:28:05.993331[Thread 0x00007ff3c72024c0]:calc_exclude_triangles:Unable to create exclude triangles

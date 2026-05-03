@@ -8,3 +8,11 @@
 [error]	2026-05-01 00:07:00.768819[Thread 0x00007f94c53f96c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
 [error]	2026-05-01 00:07:00.768831[Thread 0x00007f94c53f96c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
 [error]	2026-05-01 00:07:01.081251[Thread 0x00007f94dc4f56c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[warning]	2026-05-01 00:07:06.342596[Thread 0x00007f968392b4c0]:12:07:06 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-01 00:07:06.356023[Thread 0x00007f968392b4c0]:12:07:06 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-01 00:07:06.363179[Thread 0x00007f968392b4c0]:12:07:06 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-01 00:07:06.369261[Thread 0x00007f968392b4c0]:12:07:06 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-01 00:07:10.866812[Thread 0x00007f968392b4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-05-03 17:05:17.142172[Thread 0x00007f968392b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-03 17:05:18.808331[Thread 0x00007f968392b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-03 23:15:40.550637[Thread 0x00007f968392b4c0]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,62 @@
+[warning]	2026-05-03 23:18:18.934130[Thread 0x00007fb36fbdc4c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - eSun PLA Basic
+[error]	2026-05-03 23:18:18.941322[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/base/eSUN PLA Basic.json!
+[error]	2026-05-03 23:18:19.457695[Thread 0x00007fb2cbfff6c0]:Unable to open connection to spacenavd
+[error]	2026-05-03 23:18:20.700851[Thread 0x00007fb36fbdc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-03 23:18:20.714595[Thread 0x00007fb2e20346c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-05-03 23:18:20.714630[Thread 0x00007fb2e20346c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-05-03 23:18:20.714643[Thread 0x00007fb2e20346c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-05-03 23:18:20.714656[Thread 0x00007fb2e20346c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-05-03 23:18:20.714669[Thread 0x00007fb2e20346c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-05-03 23:18:20.714683[Thread 0x00007fb2e20346c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[warning]	2026-05-03 23:18:21.232062[Thread 0x00007fb36fbdc4c0]:11:18:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-03 23:18:21.249450[Thread 0x00007fb36fbdc4c0]:11:18:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-03 23:18:21.256780[Thread 0x00007fb36fbdc4c0]:11:18:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-03 23:18:21.622633[Thread 0x00007fb36fbdc4c0]:11:18:21 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-05-03 23:18:24.888892[Thread 0x00007fb36fbdc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-03 23:18:24.971385[Thread 0x00007fb36fbdc4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-05-03 23:18:26.590948[Thread 0x00007fb36fbdc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-03 23:18:41.554151[Thread 0x00007fb36fbdc4c0]:11:18:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-03 23:19:30.819080[Thread 0x00007fb36fbdc4c0]:11:19:30 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-05-03 23:19:35.995721[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/0.20mm Standard @Creality Ender3V2 - Copy.json!
+[error]	2026-05-03 23:19:35.995953[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - PLA.json!
+[error]	2026-05-03 23:19:35.996142[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - MB.json!
+[error]	2026-05-03 23:19:35.996338[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - PIF.json!
+[error]	2026-05-03 23:19:35.996531[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite ABS.json!
+[error]	2026-05-03 23:19:35.996771[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite PETG.json!
+[error]	2026-05-03 23:19:35.996930[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite PLA.json!
+[error]	2026-05-03 23:19:35.997206[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - TPU-95A.json!
+[error]	2026-05-03 23:19:35.997425[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.80mm - Polymaker Polylite ABS .json!
+[error]	2026-05-03 23:19:35.997662[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - Claude.json!
+[error]	2026-05-03 23:19:35.997921[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - PA.json!
+[error]	2026-05-03 23:19:35.998099[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - eSun PLA Basic.json!
+[error]	2026-05-03 23:19:35.998367[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/Voron 2.4 - 0.20mm - eSun PLA Basic.json!
+[error]	2026-05-03 23:19:36.004264[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/filament/base/eSUN PLA Basic.json!
+[error]	2026-05-03 23:19:36.004536[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/base/Creality Ender3 V2 0.4 nozzle.json!
+[error]	2026-05-03 23:19:36.004684[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/base/Voron 2.4 300 0.4mm nozzle.json!
+[error]	2026-05-03 23:19:36.004846[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/base/Voron 2.4 300 0.6mm nozzle.json!
+[error]	2026-05-03 23:19:36.005009[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/base/Voron 2.4 300 0.8mm nozzle.json!
+[error]	2026-05-03 23:19:36.005168[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/base/Voron 2.4 300 0.25mm nozzle.json!
+[error]	2026-05-03 23:19:36.005321[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/machine/base/Voron 2.4 300 0.4mm nozzle - PA.json!
+[error]	2026-05-03 23:20:47.212790[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits AliZ PA-CF @base for AliZ PA-CF @P1-X1
+[error]	2026-05-03 23:20:47.212823[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/BBL/filament/AliZ/AliZ PA-CF @P1-X1.json
+[error]	2026-05-03 23:20:47.450010[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits fdm_filament_abs for Chuanying Generic ABS
+[error]	2026-05-03 23:20:47.450040[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/Chuanying/filament/Chuanying Generic ABS.json
+[error]	2026-05-03 23:20:47.598497[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits Generic ABS @System for Generic ABS @MyToolChanger
+[error]	2026-05-03 23:20:47.598534[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/Custom/filament/Generic ABS @MyToolChanger.json
+[error]	2026-05-03 23:20:47.984386[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits Generic ABS @System for Lulzbot 2.85mm ABS
+[error]	2026-05-03 23:20:47.984419[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/Lulzbot/filament/Lulzbot 2.85mm ABS.json
+[error]	2026-05-03 23:20:47.993099[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits fdm_filament_common for fdm_filament_peek
+[error]	2026-05-03 23:20:47.993136[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/MagicMaker/filament/fdm_filament_peek.json
+[error]	2026-05-03 23:20:48.615899[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits PolyTerra PLA @base for PolyTerra PLA @0.2 nozzle
+[error]	2026-05-03 23:20:48.615926[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/Snapmaker/filament/PolyTerra PLA @0.2 nozzle.json
+[error]	2026-05-03 23:20:48.620018[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits Generic ABS @System for Sovol SV06 ACE ABS
+[error]	2026-05-03 23:20:48.620045[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/Sovol/filament/Sovol SV06 ACE ABS.json
+[error]	2026-05-03 23:20:48.681599[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits fdm_filament_tpu for TwoTrees Generic 95A TPU @SK1
+[error]	2026-05-03 23:20:48.681628[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/TwoTrees/filament/TwoTrees Generic 95A TPU @SK1.json
+[error]	2026-05-03 23:20:48.772667[Thread 0x00007fb36fbdc4c0]:operator(): can not find inherits fdm_filament_abs for Z-Bolt ABS @base
+[error]	2026-05-03 23:20:48.772696[Thread 0x00007fb36fbdc4c0]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orcaslicer/resources/profiles/Z-Bolt/filament/Z-Bolt ABS @base.json
+[error]	2026-05-03 23:20:48.786654[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/0.20mm Standard @Creality Ender3V2 - Copy.json!
+[error]	2026-05-03 23:20:48.786913[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - PLA.json!
+[error]	2026-05-03 23:20:48.787118[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - MB.json!
+[error]	2026-05-03 23:20:48.787326[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite ABS - PIF.json!
+[error]	2026-05-03 23:20:48.787528[Thread 0x00007fb36fbdc4c0]:can not find parent for config /config/.config/OrcaSlicer/user/default/process/base/Voron 2.4 - 0.20mm - Polymaker Polylite ABS.json!
