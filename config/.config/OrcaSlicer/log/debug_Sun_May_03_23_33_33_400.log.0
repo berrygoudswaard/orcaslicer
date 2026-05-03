@@ -15,3 +15,5 @@
 [error]	2026-05-03 23:33:47.222627[Thread 0x00007f9872e474c0]:calc_exclude_triangles:Unable to create exclude triangles
 [warning]	2026-05-03 23:33:47.316327[Thread 0x00007f9872e474c0]:get_version, get_version not supported,return 00.00.00.00!
 [error]	2026-05-03 23:33:48.359089[Thread 0x00007f9872e474c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-03 23:34:53.396324[Thread 0x00007f9872e474c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-05-03 23:47:36.953086[Thread 0x00007f9872e474c0]:tree_sel_change_delayedcan not find page with current selection 
