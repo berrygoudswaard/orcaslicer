@@ -24,7 +24,7 @@
         "0"
     ],
     "close_fan_the_first_x_layers": [
-        "5"
+        "1"
     ],
     "compatible_printers": [
         "Voron 2.4 300 0.4 nozzle"
@@ -33,7 +33,7 @@
     "compatible_prints": [],
     "compatible_prints_condition": "",
     "complete_print_exhaust_fan_speed": [
-        "80"
+        "70"
     ],
     "cool_plate_temp": [
         "60"
@@ -45,10 +45,10 @@
         "#FFEE91"
     ],
     "dont_slow_down_outer_wall": [
-        "1"
+        "0"
     ],
     "during_print_exhaust_fan_speed": [
-        "60"
+        "70"
     ],
     "enable_overhang_bridge_fan": [
         "1"
@@ -63,13 +63,13 @@
         "60"
     ],
     "fan_cooling_layer_time": [
-        "0"
+        "100"
     ],
     "fan_max_speed": [
-        "65"
+        "100"
     ],
     "fan_min_speed": [
-        "35"
+        "100"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -96,7 +96,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.98"
     ],
     "filament_id": "Pcea8f1f",
     "filament_is_support": [
@@ -248,7 +248,7 @@
         "100"
     ],
     "overhang_fan_threshold": [
-        "75%"
+        "50%"
     ],
     "pellet_flow_coefficient": [
         "0.4157"
@@ -266,7 +266,7 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "8"
+        "4"
     ],
     "slow_down_min_speed": [
         "10"
