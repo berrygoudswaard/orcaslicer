@@ -45,7 +45,7 @@
         "#FFEE91"
     ],
     "dont_slow_down_outer_wall": [
-        "0"
+        "1"
     ],
     "during_print_exhaust_fan_speed": [
         "70"
@@ -87,7 +87,7 @@
         "1.24"
     ],
     "filament_deretraction_speed": [
-        "40"
+        "nil"
     ],
     "filament_diameter": [
         "1.75"
@@ -96,7 +96,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.98"
+        "1"
     ],
     "filament_id": "Pcea8f1f",
     "filament_is_support": [
@@ -145,7 +145,7 @@
         "nil"
     ],
     "filament_retract_restart_extra": [
-        "0"
+        "nil"
     ],
     "filament_retract_when_changing_layer": [
         "nil"
@@ -154,13 +154,13 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "0.6"
+        "nil"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
     ],
     "filament_retraction_speed": [
-        "40"
+        "nil"
     ],
     "filament_settings_id": [
         "eSUN PLA Basic"

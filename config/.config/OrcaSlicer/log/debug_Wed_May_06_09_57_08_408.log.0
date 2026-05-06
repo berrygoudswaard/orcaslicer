@@ -1,0 +1,19 @@
+[warning]	2026-05-06 09:57:18.689126[Thread 0x00007fbd882cc4c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - eSun PLA Basic
+[error]	2026-05-06 09:57:19.396013[Thread 0x00007fbd0402e6c0]:Unable to open connection to spacenavd
+[error]	2026-05-06 09:57:20.958108[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-06 09:57:20.972615[Thread 0x00007fbd0282b6c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-05-06 09:57:20.972704[Thread 0x00007fbd0282b6c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-05-06 09:57:20.972720[Thread 0x00007fbd0282b6c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-05-06 09:57:20.972733[Thread 0x00007fbd0282b6c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-05-06 09:57:20.972744[Thread 0x00007fbd0282b6c0]:Unable to open the file/data/Hoop Spark/LED Ring box.stl
+[error]	2026-05-06 09:57:20.972920[Thread 0x00007fbd0282b6c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[warning]	2026-05-06 09:57:21.830724[Thread 0x00007fbd882cc4c0]:09:57:21 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-06 09:57:21.869360[Thread 0x00007fbd882cc4c0]:09:57:21 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-06 09:57:21.907666[Thread 0x00007fbd882cc4c0]:09:57:21 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-06 09:57:21.957033[Thread 0x00007fbd882cc4c0]:09:57:21 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-06 09:57:25.567542[Thread 0x00007fbd882cc4c0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-05-06 09:57:28.313441[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-06 09:57:29.057355[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-06 09:57:29.104512[Thread 0x00007fbd882cc4c0]:validate_preset: preset_name eSUN PLA Basic, no inherit, set to not found
+[warning]	2026-05-06 09:57:29.104564[Thread 0x00007fbd882cc4c0]:validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
+[warning]	2026-05-06 09:57:29.104578[Thread 0x00007fbd882cc4c0]:validate_presets:file_name .3mf, found self defined presets, count 1
