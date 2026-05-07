@@ -17,3 +17,16 @@
 [warning]	2026-05-06 09:57:29.104512[Thread 0x00007fbd882cc4c0]:validate_preset: preset_name eSUN PLA Basic, no inherit, set to not found
 [warning]	2026-05-06 09:57:29.104564[Thread 0x00007fbd882cc4c0]:validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
 [warning]	2026-05-06 09:57:29.104578[Thread 0x00007fbd882cc4c0]:validate_presets:file_name .3mf, found self defined presets, count 1
+[error]	2026-05-06 11:35:30.354152[Thread 0x00007fbd882cc4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-05-06 15:52:11.472945[Thread 0x00007fbd882cc4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-05-06 17:09:25.174216[Thread 0x00007fbd882cc4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-05-07 01:42:10.386960[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-07 01:42:45.567095[Thread 0x00007fbd020296c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-05-07 01:42:45.738260[Thread 0x00007fbd020296c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-05-07 01:42:45.767569[Thread 0x00007fbd020296c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-05-07 17:56:25.767398[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-07 17:57:41.659189[Thread 0x00007fbd882cc4c0]:restart_background_process, Line 5502: ui jobs running, return false
+[warning]	2026-05-07 21:37:36.383851[Thread 0x00007fbd882cc4c0]:09:37:36 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-05-07 21:37:43.150156[Thread 0x00007fbd882cc4c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - eSun PLA Basic
+[warning]	2026-05-07 21:37:47.656575[Thread 0x00007fbd882cc4c0]:09:37:47 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-05-07 21:41:48.055924[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
