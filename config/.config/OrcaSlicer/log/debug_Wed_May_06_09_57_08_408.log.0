@@ -30,3 +30,30 @@
 [warning]	2026-05-07 21:37:43.150156[Thread 0x00007fbd882cc4c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - eSun PLA Basic
 [warning]	2026-05-07 21:37:47.656575[Thread 0x00007fbd882cc4c0]:09:37:47 PM: Warning: Error running JavaScript: Unsupported result type
 [error]	2026-05-07 21:41:48.055924[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 10:55:37.638281[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 10:56:23.768688[Thread 0x00007fbd882cc4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-05-08 11:13:14.561718[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-08 11:13:39.725487[Thread 0x00007fbd06ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-05-08 11:13:53.995089[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-08 11:14:00.620186[Thread 0x00007fbd06ffb6c0]:Arrange full params: {"min_obj_distance":2001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-05-08 11:14:16.800928[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-08 11:14:35.617146[Thread 0x00007fbd06ffb6c0]:Arrange full params: {"min_obj_distance":8410000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-05-08 11:15:11.333831[Thread 0x00007fbd06ffb6c0]:Arrange full params: {"min_obj_distance":2001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-05-08 11:15:26.172412[Thread 0x00007fbd06ffb6c0]:Arrange full params: {"min_obj_distance":2320000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[warning]	2026-05-08 11:15:34.657975[Thread 0x00007fbd06ffb6c0]:Arrange full params: {"min_obj_distance":5980000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-27.500000,"bed_shrink_y":-27.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":275.000000,
+[error]	2026-05-08 12:09:44.191993[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 12:22:42.093242[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 13:24:10.591112[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 13:24:14.983752[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 21:15:43.379732[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 21:15:52.287787[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 21:15:54.153711[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-05-08 21:15:54.419155[Thread 0x00007fbd882cc4c0]:validate_preset: preset_name eSUN PLA Basic, no inherit, set to not found
+[warning]	2026-05-08 21:15:54.419198[Thread 0x00007fbd882cc4c0]:validate_presets:file_name Embossed text.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-05-08 21:15:54.419209[Thread 0x00007fbd882cc4c0]:validate_presets:file_name Embossed text.3mf, found self defined presets, count 1
+[error]	2026-05-08 21:15:59.897718[Thread 0x00007fbd882cc4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-05-08 21:18:38.360986[Thread 0x00007fbd882cc4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-05-08 21:18:39.421158[Thread 0x00007fbd882cc4c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-05-08 21:35:07.598995[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 21:35:08.278816[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-05-08 21:35:08.377182[Thread 0x00007fbd882cc4c0]:calc_exclude_triangles:Unable to create exclude triangles
