@@ -1899,19 +1899,19 @@
             },
             {
                 "ecode": "050240A3",
-                "intro": "AMS(or AMS Lite) C communication is abnormal. Please reconnect the module cable or restart the printer."
+                "intro": "AMS(or AMS lite) C communication is abnormal. Please reconnect the module cable or restart the printer."
             },
             {
                 "ecode": "050140A3",
-                "intro": "AMS(or AMS Lite) B communication is abnormal. Please reconnect the module cable or restart the printer."
+                "intro": "AMS(or AMS lite) B communication is abnormal. Please reconnect the module cable or restart the printer."
             },
             {
                 "ecode": "050040A3",
-                "intro": "AMS(or AMS Lite) A communication is abnormal. Please reconnect the module cable or restart the printer."
+                "intro": "AMS(or AMS lite) A communication is abnormal. Please reconnect the module cable or restart the printer."
             },
             {
                 "ecode": "050340A3",
-                "intro": "AMS(or AMS Lite) D communication is abnormal. Please reconnect the module cable or restart the printer."
+                "intro": "AMS(or AMS lite) D communication is abnormal. Please reconnect the module cable or restart the printer."
             },
             {
                 "ecode": "07FF8030",
@@ -2003,7 +2003,7 @@
             },
             {
                 "ecode": "050040C0",
-                "intro": "Communication error detected with AMS, AMS Lite or AMS HT. Please reconnect the module cable or restart the printer when it is idle."
+                "intro": "Communication error detected with AMS, AMS lite or AMS HT. Please reconnect the module cable or restart the printer when it is idle."
             },
             {
                 "ecode": "05008057",
@@ -2156,9 +2156,13 @@
             {
                 "ecode": "1800C069",
                 "intro": "An error occurred during AMS-HT A drying. Please go to Assistant for more details."
+            },
+            {
+                "ecode": "050040B4",
+                "intro": "Task execution error. Please restart the device. If the issue persists, contact technical support."
             }
         ],
-        "ver": 202604300951
+        "ver": 202605311111
     },
     "device_hms": {
         "en": [
@@ -3292,7 +3296,7 @@
             },
             {
                 "ecode": "0500040000010049",
-                "intro": "Communication error detected with AMS, AMS Lite or AMS HT. Please reconnect the module cable or restart the printer when it is idle."
+                "intro": "Communication error detected with AMS, AMS lite or AMS HT. Please reconnect the module cable or restart the printer when it is idle."
             },
             {
                 "ecode": "0501040000030001",
@@ -3987,6 +3991,218 @@
                 "intro": "AMS used for the current print is disconnected. Check the connection. Printing will resume automatically after reconnection."
             },
             {
+                "ecode": "0300400000020003",
+                "intro": "Sliced file abnormality detected multiple times. Task canceled. Please check the sliced file."
+            },
+            {
+                "ecode": "0300400000020004",
+                "intro": "G-code verification error. The system has automatically reacquired the data and resumed printing."
+            },
+            {
+                "ecode": "1803730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0704710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0705730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1804720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0707720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1801710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1805710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1801720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0705720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0705710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1800710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1802720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0704720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0704730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1801730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1800720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1803710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0703720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0701710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0701720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1803720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1804730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1802730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1805730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1800730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0707710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1806730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1802710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0707730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1804710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1806720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0706710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1805720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0706730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0706720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1807720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0702710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0700730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0703710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0703730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1806710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1807730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0702720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0700720000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0702730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0701730000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0700710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "1807710000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clog."
+            },
+            {
+                "ecode": "0500030000020070",
+                "intro": ""
+            },
+            {
+                "ecode": "1805010000010004",
+                "intro": "The AMS-HT F assist motor speed control is malfunctioning. The speed sensor may be faulty."
+            },
+            {
+                "ecode": "1802220000020005",
+                "intro": "AMS-HT C Slot 3 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
+            },
+            {
                 "ecode": "0707220000020013",
                 "intro": "AMS H slot 3 feeder unit motor has no signal, which may be due to poor contact in the motor connector or a motor fault."
             },
@@ -4623,6 +4839,10 @@
                 "intro": "AMS-HT D The humidity sensor is disconnected, which may be due to poor connector contact."
             },
             {
+                "ecode": "1804240000010007",
+                "intro": "AMS-HT E door detection is abnormal, the Hall sensor connection may be loose or disconnected."
+            },
+            {
                 "ecode": "0706130000010001",
                 "intro": "The AMS G slot 4 motor has slipped. The extrusion wheel may be malfunctioning, or the filament may be too thin."
             },
@@ -4645,6 +4865,10 @@
             {
                 "ecode": "1806220000020016",
                 "intro": "AMS-HT G slot 3 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
+            },
+            {
+                "ecode": "1801240000010007",
+                "intro": "AMS-HT B door detection is abnormal, the Hall sensor connection may be loose or disconnected."
             },
             {
                 "ecode": "0702200000020011",
@@ -4781,6 +5005,10 @@
             {
                 "ecode": "0700510000030001",
                 "intro": "The AMS is disabled; please load filament from the spool holder."
+            },
+            {
+                "ecode": "1806240000010007",
+                "intro": "AMS-HT G door detection is abnormal, the Hall sensor connection may be loose or disconnected."
             },
             {
                 "ecode": "0702200000020006",
@@ -5435,6 +5663,10 @@
                 "intro": "AMS-HT H Slot 2 is empty; please insert a new filament."
             },
             {
+                "ecode": "1803240000010007",
+                "intro": "AMS-HT D door detection is abnormal, the Hall sensor connection may be loose or disconnected."
+            },
+            {
                 "ecode": "0707210000020016",
                 "intro": "AMS H slot 2 assist motor has slipped. Please pull out the filament, cut off the worn part, and then try again."
             },
@@ -5936,7 +6168,7 @@
             },
             {
                 "ecode": "0500030000010023",
-                "intro": "The Chamber Temperature Control module is malfunctioning. Please restart the device."
+                "intro": "The Chamber Temperature Controller module is malfunctioning. Please restart the device."
             },
             {
                 "ecode": "1807220000030001",
@@ -5945,6 +6177,10 @@
             {
                 "ecode": "1803230000020021",
                 "intro": "AMS-HT D slot 4 assist motor is stalled，due to excessive resistance in the tube between the filament buffer and the toolhead."
+            },
+            {
+                "ecode": "1800240000010007",
+                "intro": "AMS-HT A door detection is abnormal, the Hall sensor connection may be loose or disconnected."
             },
             {
                 "ecode": "0704220000020004",
@@ -8969,22 +9205,6 @@
             {
                 "ecode": "1803930000010001",
                 "intro": "AMS-HT D The cooling fan of heater 2 is blocked, which may be due to the fan being stuck."
-            },
-            {
-                "ecode": "0705200000020010",
-                "intro": "AMS F slot 1 feeds filament out of AMS timeout."
-            },
-            {
-                "ecode": "0707010000020007",
-                "intro": "AMS H The assist motor encoder wires are not connected. The assist motor connector may have poor contact."
-            },
-            {
-                "ecode": "0706230000020019",
-                "intro": "AMS G slot 4 assist motor is stalled，due to excessive resistance in the tube between AMS and the filament buffer."
-            },
-            {
-                "ecode": "1806700000020008",
-                "intro": "Failed to get AMS mapping table; please select \"Resume\" to retry."
             },
             {
                 "ecode": "1800120000010001",
@@ -12687,10 +12907,6 @@
                 "intro": "AMS E The heater 1 is short-circuited, which may be due to a wiring short or heater damage."
             },
             {
-                "ecode": "0300920000010002",
-                "intro": "The temperature of chamber heater 2 is abnormal. The heater may have an open circuit or the thermal fuse may be in effect."
-            },
-            {
                 "ecode": "1805200000010085",
                 "intro": "Failed to read the filament information from AMS-HT F slot 1. RFID tag verification failed. You can try to use Bambu Lab filament."
             },
@@ -14159,6 +14375,10 @@
                 "intro": "AMS-HT G Slot 2 filament has run out and automatically switched to the slot with the same filament."
             },
             {
+                "ecode": "1802240000010007",
+                "intro": "AMS-HT C door detection is abnormal, the Hall sensor connection may be loose or disconnected."
+            },
+            {
                 "ecode": "0707230000030001",
                 "intro": "AMS H Slot 4 filament has run out. Please wait while old filament is purged."
             },
@@ -14491,6 +14711,10 @@
                 "intro": "AMS G The motor assist parameter is lost. Please pull out the filament from the filament hub and then restart the AMS."
             },
             {
+                "ecode": "1807240000010007",
+                "intro": "AMS-HT H door detection is abnormal, the Hall sensor connection may be loose or disconnected."
+            },
+            {
                 "ecode": "1800700000020005",
                 "intro": "Failed to feed the filament outside the AMS-HT. Please clip the end of the filament flat and check to see if the spool is stuck."
             },
@@ -14807,12 +15031,20 @@
                 "intro": "Failed to read the filament information from AMS-HT E slot 1. The AMS main board may be malfunctioning."
             },
             {
-                "ecode": "1805010000010004",
-                "intro": "The AMS-HT F assist motor speed control is malfunctioning. The speed sensor may be faulty."
+                "ecode": "0705200000020010",
+                "intro": "AMS F slot 1 feeds filament out of AMS timeout."
             },
             {
-                "ecode": "1802220000020005",
-                "intro": "AMS-HT C Slot 3 filament has run out, and purging the old filament went abnormally; please check whether the filament is stuck in the tool head."
+                "ecode": "0707010000020007",
+                "intro": "AMS H The assist motor encoder wires are not connected. The assist motor connector may have poor contact."
+            },
+            {
+                "ecode": "0706230000020019",
+                "intro": "AMS G slot 4 assist motor is stalled，due to excessive resistance in the tube between AMS and the filament buffer."
+            },
+            {
+                "ecode": "1806700000020008",
+                "intro": "Failed to get AMS mapping table; please select \"Resume\" to retry."
             },
             {
                 "ecode": "1800010000020008",
@@ -16287,6 +16519,10 @@
                 "intro": "AMS-HT A The motor assist parameter is lost. Please pull out the filament from the filament hub and then restart the AMS."
             },
             {
+                "ecode": "1805240000010007",
+                "intro": "AMS-HT F door detection is abnormal, the Hall sensor connection may be loose or disconnected."
+            },
+            {
                 "ecode": "0703230000020017",
                 "intro": "AMS D slot 4 assist motor is stalled，due to excessive resistance in the tube between AMS and the printer."
             },
@@ -17017,10 +17253,6 @@
             {
                 "ecode": "1806210000020010",
                 "intro": "AMS-HT G slot 2 feeds filament out of AMS timeout."
-            },
-            {
-                "ecode": "030091000001000C",
-                "intro": "The chamber heater 1 has worked at full load for a long time. The temperature control system may be abnormal."
             },
             {
                 "ecode": "0703130000020002",
@@ -18267,7 +18499,7 @@
                 "intro": "AMS-HT A The coil resistance of exhaust valve 1 is abnormal, which may be due to abnormal wiring or damage."
             }
         ],
-        "ver": 202604300951
+        "ver": 202605311111
     },
-    "version": "202604300951"
+    "version": "202605311111"
 }
