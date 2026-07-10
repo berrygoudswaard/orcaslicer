@@ -1,0 +1,13 @@
+[warning]	2026-07-10 01:53:36.877627[Thread 0x00007f5cbb65b4c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - eSun PLA Basic
+[error]	2026-07-10 01:53:45.329127[Thread 0x00007f5c357f86c0]:Unable to open connection to spacenavd
+[error]	2026-07-10 01:53:56.726442[Thread 0x00007f5cbb65b4c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-07-10 01:53:57.167533[Thread 0x00007f5c147f86c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-07-10 01:53:57.167577[Thread 0x00007f5c147f86c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-07-10 01:53:57.167590[Thread 0x00007f5c147f86c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-07-10 01:53:57.167603[Thread 0x00007f5c147f86c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-07-10 01:53:57.167616[Thread 0x00007f5c147f86c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[warning]	2026-07-10 01:54:02.168198[Thread 0x00007f5cbb65b4c0]:01:54:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-07-10 01:54:02.184542[Thread 0x00007f5cbb65b4c0]:01:54:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-07-10 01:54:02.203416[Thread 0x00007f5cbb65b4c0]:01:54:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-07-10 01:54:02.223587[Thread 0x00007f5cbb65b4c0]:01:54:02 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-07-10 01:54:08.454204[Thread 0x00007f5cbb65b4c0]:calc_exclude_triangles:Unable to create exclude triangles

@@ -14,7 +14,7 @@
                 "intro": "No available hotend. Nozzle offset calibration cannot start."
             }
         ],
-        "ver": 202606301853
+        "ver": 202607091150
     },
     "device_error": {
         "en": [
@@ -2207,7 +2207,7 @@
                 "intro": "No available hotend. Nozzle offset calibration cannot start."
             }
         ],
-        "ver": 202606301853
+        "ver": 202607091150
     },
     "device_hms": {
         "en": [
@@ -4242,6 +4242,10 @@
             {
                 "ecode": "0500050000010029",
                 "intro": "MC board certification failed. Possible communication error. Please restart the printer."
+            },
+            {
+                "ecode": "0500040000030021",
+                "intro": ""
             },
             {
                 "ecode": "0705700000020005",
@@ -18540,7 +18544,7 @@
                 "intro": "AMS-HT A The coil resistance of exhaust valve 1 is abnormal, which may be due to abnormal wiring or damage."
             }
         ],
-        "ver": 202606301853
+        "ver": 202607091150
     },
-    "version": "202606301853"
+    "version": "202607091150"
 }
