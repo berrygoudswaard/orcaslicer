@@ -1,0 +1,14 @@
+[warning]	2026-08-07 09:19:55.537551[Thread 0x00007f0af3ce14c0]:Preset already present, not loading: Voron 2.4 - 0.20mm - eSun PLA Basic
+[error]	2026-08-07 09:19:57.100588[Thread 0x00007f0a4ffff6c0]:Unable to open connection to spacenavd
+[error]	2026-08-07 09:20:00.227319[Thread 0x00007f0af3ce14c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-08-07 09:20:00.292841[Thread 0x00007f0a4c7f86c0]:Unable to open the file/data/Hoop Spark/LED Window.3mf
+[error]	2026-08-07 09:20:00.292893[Thread 0x00007f0a4c7f86c0]:Unable to open the file/data/Hoop Spark/legs.3mf
+[error]	2026-08-07 09:20:00.292919[Thread 0x00007f0a3d3f96c0]:Unable to open the file/data/Hoop Spark/Legs.3mf
+[error]	2026-08-07 09:20:00.292942[Thread 0x00007f0a3d3f96c0]:Unable to open the file/data/Hoop Spark/LED Window.stl
+[error]	2026-08-07 09:20:00.292955[Thread 0x00007f0a3d3f96c0]:Unable to open the file/data/Hoop Spark/Component Box.stl
+[error]	2026-08-07 09:20:00.444647[Thread 0x00007f0a3d7fa6c0]:Unable to open the file/config/.config/OrcaSlicer/log/sensor_holder.3mf
+[warning]	2026-08-07 09:20:02.866528[Thread 0x00007f0af3ce14c0]:09:20:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-08-07 09:20:02.880295[Thread 0x00007f0af3ce14c0]:09:20:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-08-07 09:20:02.902243[Thread 0x00007f0af3ce14c0]:09:20:02 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-08-07 09:20:02.941525[Thread 0x00007f0af3ce14c0]:09:20:02 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-08-07 09:20:07.474418[Thread 0x00007f0af3ce14c0]:calc_exclude_triangles:Unable to create exclude triangles

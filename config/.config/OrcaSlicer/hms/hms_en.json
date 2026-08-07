@@ -18,7 +18,7 @@
                 "intro": "Printer incompatible with slicing software. Retry with the latest version."
             }
         ],
-        "ver": 202607311905
+        "ver": 202608050942
     },
     "device_error": {
         "en": [
@@ -2655,7 +2655,7 @@
                 "intro": "Failed to read the filament information."
             }
         ],
-        "ver": 202607311905
+        "ver": 202608050942
     },
     "device_hms": {
         "en": [
@@ -6130,6 +6130,10 @@
             {
                 "ecode": "0500030000020056",
                 "intro": "USB drive speed is below optimal levels and may affect functionality. Try formatting or replacing the USB drive."
+            },
+            {
+                "ecode": "0500030000010071",
+                "intro": ""
             },
             {
                 "ecode": "1800120000010001",
@@ -22188,7 +22192,7 @@
                 "intro": "AMS-HT A The coil resistance of exhaust valve 1 is abnormal, which may be due to abnormal wiring or damage."
             }
         ],
-        "ver": 202607311905
+        "ver": 202608050942
     },
-    "version": "202607311905"
+    "version": "202608050942"
 }
