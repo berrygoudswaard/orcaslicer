@@ -1,0 +1,163 @@
+{
+	"auxiliary_fan": "0",
+	"bed_exclude_area": [
+		"0x0"
+	],
+	"before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\nTIMELAPSE_TAKE_FRAME",
+	"change_filament_gcode": "",
+	"default_filament_profile": [
+		"Generic PLA @System"
+	],
+	"default_print_profile": "0.20mm Standard @Voron",
+	"deretraction_speed": [
+		"30"
+	],
+	"extruder_clearance_height_to_lid": "140",
+	"extruder_clearance_height_to_rod": "36",
+	"extruder_clearance_radius": "65",
+	"extruder_colour": [
+		"#FCE94F"
+	],
+	"extruder_offset": [
+		"0x0"
+	],
+	"from": "User",
+	"gcode_flavor": "klipper",
+	"layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]",
+	"machine_end_gcode": "END_PRINT",
+	"machine_max_acceleration_e": [
+		"5000",
+		"5000"
+	],
+	"machine_max_acceleration_extruding": [
+		"20000",
+		"20000"
+	],
+	"machine_max_acceleration_retracting": [
+		"5000",
+		"5000"
+	],
+	"machine_max_acceleration_travel": [
+		"20000",
+		"20000"
+	],
+	"machine_max_acceleration_x": [
+		"20000",
+		"20000"
+	],
+	"machine_max_acceleration_y": [
+		"20000",
+		"20000"
+	],
+	"machine_max_acceleration_z": [
+		"500",
+		"200"
+	],
+	"machine_max_jerk_e": [
+		"2.5",
+		"2.5"
+	],
+	"machine_max_jerk_x": [
+		"12",
+		"12"
+	],
+	"machine_max_jerk_y": [
+		"12",
+		"12"
+	],
+	"machine_max_jerk_z": [
+		"0.2",
+		"0.4"
+	],
+	"machine_max_speed_e": [
+		"25",
+		"25"
+	],
+	"machine_max_speed_x": [
+		"500",
+		"200"
+	],
+	"machine_max_speed_y": [
+		"500",
+		"200"
+	],
+	"machine_max_speed_z": [
+		"12",
+		"12"
+	],
+	"machine_min_extruding_rate": [
+		"0",
+		"0"
+	],
+	"machine_min_travel_rate": [
+		"0",
+		"0"
+	],
+	"machine_pause_gcode": "PAUSE",
+	"machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] MATERIAL=[filament_type] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]} INITIAL_TOOL=[initial_tool] CHAMBER=[chamber_temperature] SOAK={if filament_type[0]==\"ABS\" or filament_type[0]==\"ASA\"}12{else}0{endif} CHAMBER_MAXTIME=31",
+	"max_layer_height": [
+		"0.32"
+	],
+	"min_layer_height": [
+		"0.10"
+	],
+	"name": "Voron 2.4 300 0.4",
+	"nozzle_diameter": [
+		"0.4"
+	],
+	"nozzle_type": "undefine",
+	"print_host": "192.168.2.84",
+	"printable_area": [
+		"0x0",
+		"300x0",
+		"300x300",
+		"0x300"
+	],
+	"printable_height": "275",
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_model": "Voron 2.4 300",
+	"printer_settings_id": "Voron 2.4 300 0.4",
+	"printer_technology": "FFF",
+	"printer_variant": "0.4",
+	"retract_before_wipe": [
+		"70%"
+	],
+	"retract_length_toolchange": [
+		"2"
+	],
+	"retract_restart_extra": [
+		"0"
+	],
+	"retract_restart_extra_toolchange": [
+		"0"
+	],
+	"retract_when_changing_layer": [
+		"1"
+	],
+	"retraction_length": [
+		"0.8"
+	],
+	"retraction_minimum_travel": [
+		"1"
+	],
+	"retraction_speed": [
+		"30"
+	],
+	"scan_first_layer": "0",
+	"silent_mode": "0",
+	"single_extruder_multi_material": "1",
+	"support_multi_bed_types": "1",
+	"version": "2.4.0.2",
+	"wipe": [
+		"1"
+	],
+	"z_hop": [
+		"0.4"
+	],
+	"z_hop_types": "Normal Lift"
+}

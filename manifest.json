@@ -1,0 +1,240 @@
+{
+  "generated": "2026-09-21_203836",
+  "source_config": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer",
+  "preset_folder": "",
+  "app": {
+    "version": "2.4.2",
+    "selected": {
+      "filaments": null,
+      "machine": "Voron 2.4 300 0.4 nozzle"
+    }
+  },
+  "bundles": [
+    {
+      "name": "Custom Printer",
+      "version": "02.04.00.01"
+    },
+    {
+      "name": "OrcaFilamentLibrary",
+      "version": "02.04.00.03"
+    },
+    {
+      "name": "Voron",
+      "version": "02.04.00.02"
+    }
+  ],
+  "defaults_layer": null,
+  "note": "Flattened against the preset tree only. Settings whose default is compiled into OrcaSlicer (PrintConfig.cpp) and appears in no JSON ancestor are not present; pass --defaults to add them.",
+  "count": 12,
+  "profiles": [
+    {
+      "group": "user-default",
+      "type": "machine",
+      "vendor": "Voron",
+      "name": "Voron 2.4 300 0.4",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/machine/Voron 2.4 300 0.4.json",
+      "output": "user-default/machine/Voron 2.4 300 0.4.json",
+      "chain": [
+        "fdm_machine_common",
+        "fdm_klipper_common",
+        "Voron 2.4 300 0.4 nozzle",
+        "Voron 2.4 300 0.4"
+      ],
+      "depth": 4,
+      "keys_flattened": 65,
+      "keys_in_source": 12
+    },
+    {
+      "group": "user-default",
+      "type": "process",
+      "vendor": "Voron",
+      "name": "0.20mm Standard @Voron - Default",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/process/0.20mm Standard @Voron - Default.json",
+      "output": "user-default/process/0.20mm Standard @Voron - Default.json",
+      "chain": [
+        "fdm_process_common",
+        "fdm_process_voron_common",
+        "0.20mm Standard @Voron",
+        "0.20mm Standard @Voron - Default"
+      ],
+      "depth": 4,
+      "keys_flattened": 116,
+      "keys_in_source": 10
+    },
+    {
+      "group": "user-default",
+      "type": "process",
+      "vendor": "Voron",
+      "name": "0.10mm Standard - Voron 2.4",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/process/0.10mm Standard - Voron 2.4.json",
+      "output": "user-default/process/0.10mm Standard - Voron 2.4.json",
+      "chain": [
+        "fdm_process_common",
+        "fdm_process_voron_common",
+        "0.20mm Standard @Voron",
+        "0.10mm Standard - Voron 2.4"
+      ],
+      "depth": 4,
+      "keys_flattened": 117,
+      "keys_in_source": 14
+    },
+    {
+      "group": "user-default",
+      "type": "process",
+      "vendor": "Voron",
+      "name": "0.20mm Standard - Voron 2.4",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/process/0.20mm Standard - Voron 2.4.json",
+      "output": "user-default/process/0.20mm Standard - Voron 2.4.json",
+      "chain": [
+        "fdm_process_common",
+        "fdm_process_voron_common",
+        "0.20mm Standard @Voron",
+        "0.20mm Standard - Voron 2.4"
+      ],
+      "depth": 4,
+      "keys_flattened": 116,
+      "keys_in_source": 10
+    },
+    {
+      "group": "user-default",
+      "type": "process",
+      "vendor": "Voron",
+      "name": "0.20mm Standard @Voron - Copy",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/process/0.20mm Standard @Voron - Copy.json",
+      "output": "user-default/process/0.20mm Standard @Voron - Copy.json",
+      "chain": [
+        "fdm_process_common",
+        "fdm_process_voron_common",
+        "0.20mm Standard @Voron",
+        "0.20mm Standard @Voron - Copy"
+      ],
+      "depth": 4,
+      "keys_flattened": 360,
+      "keys_in_source": 359
+    },
+    {
+      "group": "user-default",
+      "type": "filament",
+      "vendor": "OrcaFilamentLibrary",
+      "name": "eSUN - Wood",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/filament/eSUN - Wood.json",
+      "output": "user-default/filament/eSUN - Wood.json",
+      "chain": [
+        "fdm_filament_common",
+        "fdm_filament_pla",
+        "Generic PLA @System",
+        "eSUN - Wood"
+      ],
+      "depth": 4,
+      "keys_flattened": 69,
+      "keys_in_source": 17
+    },
+    {
+      "group": "user-default",
+      "type": "filament",
+      "vendor": "OrcaFilamentLibrary",
+      "name": "PolyTerra - PLA",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/filament/PolyTerra - PLA.json",
+      "output": "user-default/filament/PolyTerra - PLA.json",
+      "chain": [
+        "fdm_filament_common",
+        "fdm_filament_pla",
+        "PolyTerra PLA @base",
+        "PolyTerra PLA @System",
+        "PolyTerra - PLA"
+      ],
+      "depth": 5,
+      "keys_flattened": 69,
+      "keys_in_source": 9
+    },
+    {
+      "group": "user-default",
+      "type": "filament",
+      "vendor": "OrcaFilamentLibrary",
+      "name": "eSUN - ASA",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/filament/eSUN - ASA.json",
+      "output": "user-default/filament/eSUN - ASA.json",
+      "chain": [
+        "fdm_filament_common",
+        "fdm_filament_abs",
+        "Generic ABS @System",
+        "eSUN - ASA"
+      ],
+      "depth": 4,
+      "keys_flattened": 69,
+      "keys_in_source": 20
+    },
+    {
+      "group": "user-default",
+      "type": "filament",
+      "vendor": "OrcaFilamentLibrary",
+      "name": "PolyLite - ABS",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/filament/PolyLite - ABS.json",
+      "output": "user-default/filament/PolyLite - ABS.json",
+      "chain": [
+        "fdm_filament_common",
+        "fdm_filament_abs",
+        "PolyLite ABS @base",
+        "PolyLite ABS @System",
+        "PolyLite - ABS"
+      ],
+      "depth": 5,
+      "keys_flattened": 69,
+      "keys_in_source": 20
+    },
+    {
+      "group": "user-default",
+      "type": "filament",
+      "vendor": "OrcaFilamentLibrary",
+      "name": "eSUN - PLA Matte",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/filament/eSUN - PLA Matte.json",
+      "output": "user-default/filament/eSUN - PLA Matte.json",
+      "chain": [
+        "fdm_filament_common",
+        "fdm_filament_pla",
+        "eSUN PLA+ @base",
+        "eSUN PLA+ @System",
+        "eSUN - PLA Matte"
+      ],
+      "depth": 5,
+      "keys_flattened": 69,
+      "keys_in_source": 13
+    },
+    {
+      "group": "user-default",
+      "type": "filament",
+      "vendor": "OrcaFilamentLibrary",
+      "name": "PolyLite - PETG",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/filament/PolyLite - PETG.json",
+      "output": "user-default/filament/PolyLite - PETG.json",
+      "chain": [
+        "fdm_filament_common",
+        "fdm_filament_pet",
+        "PolyLite PETG @base",
+        "PolyLite PETG @System",
+        "PolyLite - PETG"
+      ],
+      "depth": 5,
+      "keys_flattened": 68,
+      "keys_in_source": 14
+    },
+    {
+      "group": "user-default",
+      "type": "filament",
+      "vendor": "OrcaFilamentLibrary",
+      "name": "eSUN - PLA+",
+      "source": "/Volumes/Data/Users/berry/Projects/private/orcaslicer/data/config/.config/OrcaSlicer/user/default/filament/eSUN - PLA+.json",
+      "output": "user-default/filament/eSUN - PLA+.json",
+      "chain": [
+        "fdm_filament_common",
+        "fdm_filament_pla",
+        "eSUN PLA+ @base",
+        "eSUN PLA+ @System",
+        "eSUN - PLA+"
+      ],
+      "depth": 5,
+      "keys_flattened": 69,
+      "keys_in_source": 11
+    }
+  ]
+}
